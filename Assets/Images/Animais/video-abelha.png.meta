@@ -1,0 +1,1100 @@
+fileFormatVersion: 2
+guid: a21c4f53ea536c989a390f8e314cc15b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2886825517465513105
+    second: video-abelha_0
+  - first:
+      213: 5768060587372912130
+    second: video-abelha_1
+  - first:
+      213: 5424856870326261866
+    second: video-abelha_2
+  - first:
+      213: -8390214189711920703
+    second: video-abelha_3
+  - first:
+      213: 5861516119575337222
+    second: video-abelha_4
+  - first:
+      213: 7840597480222567843
+    second: video-abelha_5
+  - first:
+      213: -8304757632146602668
+    second: video-abelha_6
+  - first:
+      213: 7815231968822619387
+    second: video-abelha_7
+  - first:
+      213: -8215241860120581777
+    second: video-abelha_8
+  - first:
+      213: -1436427242300770967
+    second: video-abelha_9
+  - first:
+      213: 1874904753530313818
+    second: video-abelha_10
+  - first:
+      213: 1001297719870138953
+    second: video-abelha_11
+  - first:
+      213: -1734985738438206241
+    second: video-abelha_12
+  - first:
+      213: 4494257834240062239
+    second: video-abelha_13
+  - first:
+      213: -6009645537723148607
+    second: video-abelha_14
+  - first:
+      213: 5406345603048087522
+    second: video-abelha_15
+  - first:
+      213: -3856684534500727682
+    second: video-abelha_16
+  - first:
+      213: -3111668614146776159
+    second: video-abelha_17
+  - first:
+      213: -4624947414961329836
+    second: video-abelha_18
+  - first:
+      213: -42309817797665782
+    second: video-abelha_19
+  - first:
+      213: 3811464976481976593
+    second: video-abelha_20
+  - first:
+      213: -1434549273515201650
+    second: video-abelha_21
+  - first:
+      213: 905130413979670681
+    second: video-abelha_22
+  - first:
+      213: 2045576187039679630
+    second: video-abelha_23
+  - first:
+      213: -4200614427316399125
+    second: video-abelha_24
+  - first:
+      213: -7685950823451988090
+    second: video-abelha_25
+  - first:
+      213: 6102271376035401553
+    second: video-abelha_26
+  - first:
+      213: -7792358414479425574
+    second: video-abelha_27
+  - first:
+      213: 4354510159181388899
+    second: video-abelha_28
+  - first:
+      213: 228126616819153276
+    second: video-abelha_29
+  - first:
+      213: -1156999126372790124
+    second: video-abelha_30
+  - first:
+      213: -8761244884088567709
+    second: video-abelha_31
+  - first:
+      213: 2978638739052217567
+    second: video-abelha_32
+  - first:
+      213: -8317155055014997936
+    second: video-abelha_33
+  - first:
+      213: -6412500294143946546
+    second: video-abelha_34
+  - first:
+      213: -7853215625266022518
+    second: video-abelha_35
+  - first:
+      213: -7650304775559569732
+    second: video-abelha_36
+  - first:
+      213: 1493969543001217155
+    second: video-abelha_37
+  - first:
+      213: -865209235094569740
+    second: video-abelha_38
+  - first:
+      213: -4891811417374324797
+    second: video-abelha_39
+  - first:
+      213: -508760436807358246
+    second: video-abelha_40
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: video-abelha_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2680
+        width: 645
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f635fe6ac7fefe7d0800000000000000
+      internalID: -2886825517465513105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-abelha_1
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 2680
+        width: 644
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e1b413b844c0050800000000000000
+      internalID: 5768060587372912130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-abelha_2
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 2680
+        width: 642
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a685229d496f84b40800000000000000
+      internalID: 5424856870326261866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-abelha_3
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 2680
+        width: 644
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c177c0d5a8ff8b80800000000000000
+      internalID: -8390214189711920703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-abelha_4
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 2680
+        width: 645
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6099388ead9485150800000000000000
+      internalID: 5861516119575337222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-abelha_5
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2346
+        width: 645
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad2d73fdd56fcc60800000000000000
+      internalID: 7840597480222567843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-abelha_6
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 2346
+        width: 644
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455003e1fe29fbc80800000000000000
+      internalID: -8304757632146602668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-abelha_7
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 2346
+        width: 642
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfce2fa9118457c60800000000000000
+      internalID: 7815231968822619387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-abelha_8
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 2346
+        width: 644
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69e79fed099dfd80800000000000000
+      internalID: -8215241860120581777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-abelha_9
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 2346
+        width: 645
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965f7fc9809c01ce0800000000000000
+      internalID: -1436427242300770967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-abelha_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2011
+        width: 645
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c9ddd80fff40a10800000000000000
+      internalID: 1874904753530313818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-abelha_11
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 2012
+        width: 644
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94aa44b98f255ed00800000000000000
+      internalID: 1001297719870138953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-abelha_12
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 2011
+        width: 642
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc950ac9a71ce7e0800000000000000
+      internalID: -1734985738438206241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-abelha_13
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 2012
+        width: 644
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1335ea40bfce5e30800000000000000
+      internalID: 4494257834240062239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-abelha_14
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 2011
+        width: 645
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c610025933799ca0800000000000000
+      internalID: -6009645537723148607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-abelha_15
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1678
+        width: 645
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef1da29ea2370b40800000000000000
+      internalID: 5406345603048087522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-abelha_16
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1678
+        width: 644
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74675679dd4a7ac0800000000000000
+      internalID: -3856684534500727682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-abelha_17
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 1678
+        width: 642
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3ac0bb1e121d4d0800000000000000
+      internalID: -3111668614146776159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-abelha_18
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 1678
+        width: 644
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4596e5284d2e0dfb0800000000000000
+      internalID: -4624947414961329836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-abelha_19
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 1678
+        width: 645
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c98a3e17fa96ff0800000000000000
+      internalID: -42309817797665782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-abelha_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1344
+        width: 645
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1110d0db33b05e430800000000000000
+      internalID: 3811464976481976593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-abelha_21
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1344
+        width: 644
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8be45b4905771ce0800000000000000
+      internalID: -1434549273515201650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-abelha_22
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 1344
+        width: 642
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99819a0e05baf8c00800000000000000
+      internalID: 905130413979670681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-abelha_23
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 1344
+        width: 644
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e848f7544b8536c10800000000000000
+      internalID: 2045576187039679630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-abelha_24
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 1344
+        width: 645
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3dc652f6b64b5c0800000000000000
+      internalID: -4200614427316399125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-abelha_25
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1009
+        width: 645
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68fe50fa274065590800000000000000
+      internalID: -7685950823451988090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-abelha_26
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1010
+        width: 644
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15fcf9b3c7f9fa450800000000000000
+      internalID: 6102271376035401553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-abelha_27
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 1009
+        width: 642
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf7d66ce4bfbd390800000000000000
+      internalID: -7792358414479425574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-abelha_28
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 1010
+        width: 644
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c16d82be35e6c30800000000000000
+      internalID: 4354510159181388899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-abelha_29
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 1009
+        width: 645
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79315703f77a2300800000000000000
+      internalID: 228126616819153276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-abelha_30
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 676
+        width: 645
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490dc13bc6381ffe0800000000000000
+      internalID: -1156999126372790124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-abelha_31
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 676
+        width: 644
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36841bd623ec96680800000000000000
+      internalID: -8761244884088567709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-abelha_32
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 676
+        width: 642
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4cc63d620465920800000000000000
+      internalID: 2978638739052217567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-abelha_33
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 676
+        width: 644
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0509cfb2b87839c80800000000000000
+      internalID: -8317155055014997936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-abelha_34
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 676
+        width: 645
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0567515f83207a0800000000000000
+      internalID: -6412500294143946546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-abelha_35
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 342
+        width: 645
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87b8773ff5c30390800000000000000
+      internalID: -7853215625266022518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-abelha_36
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 342
+        width: 644
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe1c45f658a4d590800000000000000
+      internalID: -7650304775559569732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-abelha_37
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 342
+        width: 642
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38817db4265abb410800000000000000
+      internalID: 1493969543001217155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-abelha_38
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 342
+        width: 644
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fcfcc5e8c82ef3f0800000000000000
+      internalID: -865209235094569740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-abelha_39
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 342
+        width: 645
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7043f0f6bcc1cb0800000000000000
+      internalID: -4891811417374324797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-abelha_40
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 7
+        width: 645
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad82358041580f8f0800000000000000
+      internalID: -508760436807358246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

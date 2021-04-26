@@ -1,0 +1,1796 @@
+fileFormatVersion: 2
+guid: 54f36fbb84bb185efbd8652d01d7b9f3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7219754041113407022
+    second: video-elefante_0
+  - first:
+      213: 474993869718675777
+    second: video-elefante_1
+  - first:
+      213: 8567341701960035857
+    second: video-elefante_2
+  - first:
+      213: 5260416602619228632
+    second: video-elefante_3
+  - first:
+      213: 6875748338999829834
+    second: video-elefante_4
+  - first:
+      213: -3986019431738008458
+    second: video-elefante_5
+  - first:
+      213: 7663336342415450619
+    second: video-elefante_6
+  - first:
+      213: 2700514708386284480
+    second: video-elefante_7
+  - first:
+      213: 1001353606061283608
+    second: video-elefante_8
+  - first:
+      213: 5415626897650986263
+    second: video-elefante_9
+  - first:
+      213: 1235118622821619440
+    second: video-elefante_10
+  - first:
+      213: 8568925787972327250
+    second: video-elefante_11
+  - first:
+      213: -3960065377819657965
+    second: video-elefante_12
+  - first:
+      213: -7179442069416388123
+    second: video-elefante_13
+  - first:
+      213: 3157853518957912723
+    second: video-elefante_14
+  - first:
+      213: -6415272171643781949
+    second: video-elefante_15
+  - first:
+      213: -99684557347056829
+    second: video-elefante_16
+  - first:
+      213: -1977651617349134723
+    second: video-elefante_17
+  - first:
+      213: -9023227141090626
+    second: video-elefante_18
+  - first:
+      213: -4819761957154955762
+    second: video-elefante_19
+  - first:
+      213: 1539662685302184816
+    second: video-elefante_20
+  - first:
+      213: 299941756880645881
+    second: video-elefante_21
+  - first:
+      213: 4938761776036253640
+    second: video-elefante_22
+  - first:
+      213: -1512003721377754247
+    second: video-elefante_23
+  - first:
+      213: 6516582512878111040
+    second: video-elefante_24
+  - first:
+      213: 987252899441761233
+    second: video-elefante_25
+  - first:
+      213: -7825283574323298792
+    second: video-elefante_26
+  - first:
+      213: -4469607354580179595
+    second: video-elefante_27
+  - first:
+      213: -220979671491316936
+    second: video-elefante_28
+  - first:
+      213: -2593315511951563726
+    second: video-elefante_29
+  - first:
+      213: 8137315073026233088
+    second: video-elefante_30
+  - first:
+      213: 7625263699445909083
+    second: video-elefante_31
+  - first:
+      213: 4354396782841713936
+    second: video-elefante_32
+  - first:
+      213: 4450953448324804132
+    second: video-elefante_33
+  - first:
+      213: 6666999646356077125
+    second: video-elefante_34
+  - first:
+      213: 3917541467685413158
+    second: video-elefante_35
+  - first:
+      213: 730509613834100540
+    second: video-elefante_36
+  - first:
+      213: 2841259362889656181
+    second: video-elefante_37
+  - first:
+      213: -2629599376669901851
+    second: video-elefante_38
+  - first:
+      213: -3838112586137407519
+    second: video-elefante_39
+  - first:
+      213: 4321604704181699858
+    second: video-elefante_40
+  - first:
+      213: 3035004175323020455
+    second: video-elefante_41
+  - first:
+      213: 1115558554921311542
+    second: video-elefante_42
+  - first:
+      213: -8348357693661719851
+    second: video-elefante_43
+  - first:
+      213: -5269862569619906059
+    second: video-elefante_44
+  - first:
+      213: -600240305826931201
+    second: video-elefante_45
+  - first:
+      213: -6159383154132966249
+    second: video-elefante_46
+  - first:
+      213: -2104601581777148823
+    second: video-elefante_47
+  - first:
+      213: 5315334536756330634
+    second: video-elefante_48
+  - first:
+      213: -2732495365248438066
+    second: video-elefante_49
+  - first:
+      213: -3052751711689776073
+    second: video-elefante_50
+  - first:
+      213: 6487628919499106088
+    second: video-elefante_51
+  - first:
+      213: 2131211426001980738
+    second: video-elefante_52
+  - first:
+      213: 4429618952271099827
+    second: video-elefante_53
+  - first:
+      213: 6832500158144142688
+    second: video-elefante_54
+  - first:
+      213: -2191519970333025639
+    second: video-elefante_55
+  - first:
+      213: -5376304922694387129
+    second: video-elefante_56
+  - first:
+      213: -3901789407042396279
+    second: video-elefante_57
+  - first:
+      213: -283424141146181160
+    second: video-elefante_58
+  - first:
+      213: -3451291049319148266
+    second: video-elefante_59
+  - first:
+      213: -5324099615216834266
+    second: video-elefante_60
+  - first:
+      213: 5725968486023487969
+    second: video-elefante_61
+  - first:
+      213: -2102693837351317794
+    second: video-elefante_62
+  - first:
+      213: -1960616972495327076
+    second: video-elefante_63
+  - first:
+      213: 6264573403213103710
+    second: video-elefante_64
+  - first:
+      213: -5335485293322557364
+    second: video-elefante_65
+  - first:
+      213: 6746682170237750151
+    second: video-elefante_66
+  - first:
+      213: 6254208788730356174
+    second: video-elefante_67
+  - first:
+      213: -6453178778657514409
+    second: video-elefante_68
+  - first:
+      213: -5123957244376085162
+    second: video-elefante_69
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: video-elefante_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2622
+        width: 856
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d19eb593f74ecb90800000000000000
+      internalID: -7219754041113407022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_1
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 2622
+        width: 856
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141e11b6864879600800000000000000
+      internalID: 474993869718675777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_2
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 2622
+        width: 860
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ee7bed2ef45e670800000000000000
+      internalID: 8567341701960035857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_3
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 2622
+        width: 856
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1bfa97701c00940800000000000000
+      internalID: 5260416602619228632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_4
+      rect:
+        serializedVersion: 2
+        x: 3478
+        y: 2622
+        width: 856
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45211f5fa09b6f50800000000000000
+      internalID: 6875748338999829834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_5
+      rect:
+        serializedVersion: 2
+        x: 4346
+        y: 2622
+        width: 856
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c93771270dea8c0800000000000000
+      internalID: -3986019431738008458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_6
+      rect:
+        serializedVersion: 2
+        x: 5215
+        y: 2622
+        width: 856
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1a3042dc3a95a60800000000000000
+      internalID: 7663336342415450619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_7
+      rect:
+        serializedVersion: 2
+        x: 6080
+        y: 2622
+        width: 860
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c30510c1d72a7520800000000000000
+      internalID: 2700514708386284480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_8
+      rect:
+        serializedVersion: 2
+        x: 6949
+        y: 2622
+        width: 856
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819d6df9cc585ed00800000000000000
+      internalID: 1001353606061283608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_9
+      rect:
+        serializedVersion: 2
+        x: 7818
+        y: 2622
+        width: 856
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71da98e58fb282b40800000000000000
+      internalID: 5415626897650986263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2185
+        width: 856
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f690c0f7d5042110800000000000000
+      internalID: 1235118622821619440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_11
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 2185
+        width: 856
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25756c2aa90fae670800000000000000
+      internalID: 8568925787972327250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_12
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 2185
+        width: 860
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3197cbb25850b09c0800000000000000
+      internalID: -3960065377819657965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_13
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 2185
+        width: 856
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9d0f6e97f7d5c90800000000000000
+      internalID: -7179442069416388123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_14
+      rect:
+        serializedVersion: 2
+        x: 3478
+        y: 2185
+        width: 856
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39224326b03f2db20800000000000000
+      internalID: 3157853518957912723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_15
+      rect:
+        serializedVersion: 2
+        x: 4346
+        y: 2185
+        width: 856
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc39bf03ff58f6a0800000000000000
+      internalID: -6415272171643781949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_16
+      rect:
+        serializedVersion: 2
+        x: 5215
+        y: 2185
+        width: 856
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3439cb95c69dd9ef0800000000000000
+      internalID: -99684557347056829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_17
+      rect:
+        serializedVersion: 2
+        x: 6080
+        y: 2185
+        width: 860
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d769d620558fd84e0800000000000000
+      internalID: -1977651617349134723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_18
+      rect:
+        serializedVersion: 2
+        x: 6949
+        y: 2185
+        width: 856
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb217873c61ffdff0800000000000000
+      internalID: -9023227141090626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_19
+      rect:
+        serializedVersion: 2
+        x: 7818
+        y: 2185
+        width: 856
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e56d14904cc1db0800000000000000
+      internalID: -4819761957154955762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1749
+        width: 856
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b5c570e0bfd5510800000000000000
+      internalID: 1539662685302184816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_21
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1749
+        width: 856
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe6d20507b992400800000000000000
+      internalID: 299941756880645881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_22
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1749
+        width: 860
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf0bea2ba10a8440800000000000000
+      internalID: 4938761776036253640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_23
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 1749
+        width: 856
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973d53850a8440be0800000000000000
+      internalID: -1512003721377754247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_24
+      rect:
+        serializedVersion: 2
+        x: 3478
+        y: 1749
+        width: 856
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0494f95e44d8f6a50800000000000000
+      internalID: 6516582512878111040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_25
+      rect:
+        serializedVersion: 2
+        x: 4346
+        y: 1749
+        width: 856
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db53b6084d63bd00800000000000000
+      internalID: 987252899441761233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_26
+      rect:
+        serializedVersion: 2
+        x: 5215
+        y: 1749
+        width: 856
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81eb2cd9c02076390800000000000000
+      internalID: -7825283574323298792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_27
+      rect:
+        serializedVersion: 2
+        x: 6080
+        y: 1749
+        width: 860
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57566c0cac3c8f1c0800000000000000
+      internalID: -4469607354580179595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_28
+      rect:
+        serializedVersion: 2
+        x: 6949
+        y: 1749
+        width: 856
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8337d2ad82ceeecf0800000000000000
+      internalID: -220979671491316936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_29
+      rect:
+        serializedVersion: 2
+        x: 7818
+        y: 1749
+        width: 856
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234ed972841b20cd0800000000000000
+      internalID: -2593315511951563726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_30
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1312
+        width: 856
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003192112fc8de070800000000000000
+      internalID: 8137315073026233088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_31
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1312
+        width: 856
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56872c2fe062d960800000000000000
+      internalID: 7625263699445909083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_32
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1312
+        width: 860
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015526cadcced6c30800000000000000
+      internalID: 4354396782841713936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_33
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 1312
+        width: 856
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e233f3496f4cd30800000000000000
+      internalID: 4450953448324804132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_34
+      rect:
+        serializedVersion: 2
+        x: 3478
+        y: 1312
+        width: 856
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a75b6ead0f58c50800000000000000
+      internalID: 6666999646356077125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_35
+      rect:
+        serializedVersion: 2
+        x: 4346
+        y: 1312
+        width: 856
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62160467537ed5630800000000000000
+      internalID: 3917541467685413158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_36
+      rect:
+        serializedVersion: 2
+        x: 5215
+        y: 1312
+        width: 856
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3fd6959f9a432a00800000000000000
+      internalID: 730509613834100540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_37
+      rect:
+        serializedVersion: 2
+        x: 6080
+        y: 1312
+        width: 860
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5776acf365e2e6720800000000000000
+      internalID: 2841259362889656181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_38
+      rect:
+        serializedVersion: 2
+        x: 6949
+        y: 1312
+        width: 856
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb70049c49c18bd0800000000000000
+      internalID: -2629599376669901851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_39
+      rect:
+        serializedVersion: 2
+        x: 7818
+        y: 1312
+        width: 856
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1efe25720f84cbac0800000000000000
+      internalID: -3838112586137407519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_40
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 875
+        width: 856
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2154864e49c69fb30800000000000000
+      internalID: 4321604704181699858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_41
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 875
+        width: 856
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acb4f1a7308e1a20800000000000000
+      internalID: 3035004175323020455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_42
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 875
+        width: 860
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d9b3068924b7f00800000000000000
+      internalID: 1115558554921311542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_43
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 875
+        width: 856
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2d46bb8eca42c80800000000000000
+      internalID: -8348357693661719851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_44
+      rect:
+        serializedVersion: 2
+        x: 3478
+        y: 875
+        width: 856
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1ada2f9efadd6b0800000000000000
+      internalID: -5269862569619906059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_45
+      rect:
+        serializedVersion: 2
+        x: 4346
+        y: 875
+        width: 856
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd505f3f948ba7f0800000000000000
+      internalID: -600240305826931201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_46
+      rect:
+        serializedVersion: 2
+        x: 5215
+        y: 875
+        width: 856
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7942166b7a9758aa0800000000000000
+      internalID: -6159383154132966249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_47
+      rect:
+        serializedVersion: 2
+        x: 6080
+        y: 875
+        width: 860
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964a2741304fac2e0800000000000000
+      internalID: -2104601581777148823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_48
+      rect:
+        serializedVersion: 2
+        x: 6949
+        y: 875
+        width: 856
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a800abd699cd3c940800000000000000
+      internalID: 5315334536756330634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_49
+      rect:
+        serializedVersion: 2
+        x: 7818
+        y: 875
+        width: 856
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec037f351f9341ad0800000000000000
+      internalID: -2732495365248438066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_50
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 439
+        width: 856
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734e34d0e7272a5d0800000000000000
+      internalID: -3052751711689776073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_51
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 439
+        width: 856
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827ab4d1120b80a50800000000000000
+      internalID: 6487628919499106088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_52
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 439
+        width: 860
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d0a141085939d10800000000000000
+      internalID: 2131211426001980738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_53
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 439
+        width: 856
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7f47cc7fa297d30800000000000000
+      internalID: 4429618952271099827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_54
+      rect:
+        serializedVersion: 2
+        x: 3478
+        y: 439
+        width: 856
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d5bf591bae1de50800000000000000
+      internalID: 6832500158144142688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_55
+      rect:
+        serializedVersion: 2
+        x: 4346
+        y: 439
+        width: 856
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a102ab2382691e0800000000000000
+      internalID: -2191519970333025639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_56
+      rect:
+        serializedVersion: 2
+        x: 5215
+        y: 439
+        width: 856
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74afd9e58278365b0800000000000000
+      internalID: -5376304922694387129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_57
+      rect:
+        serializedVersion: 2
+        x: 6080
+        y: 439
+        width: 860
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f1bd4f43f0ad9c0800000000000000
+      internalID: -3901789407042396279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_58
+      rect:
+        serializedVersion: 2
+        x: 6949
+        y: 439
+        width: 856
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1363ace33111cf0800000000000000
+      internalID: -283424141146181160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_59
+      rect:
+        serializedVersion: 2
+        x: 7818
+        y: 439
+        width: 856
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615d8dc831d8a10d0800000000000000
+      internalID: -3451291049319148266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_60
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 6
+        width: 856
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629e436bb9ffc16b0800000000000000
+      internalID: -5324099615216834266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_61
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 6
+        width: 856
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1e284200ab67f40800000000000000
+      internalID: 5725968486023487969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_62
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 6
+        width: 860
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede8541781bb1d2e0800000000000000
+      internalID: -2102693837351317794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_63
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 6
+        width: 856
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9070d5504d7ac4e0800000000000000
+      internalID: -1960616972495327076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_64
+      rect:
+        serializedVersion: 2
+        x: 3478
+        y: 6
+        width: 856
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5280efa15c30f650800000000000000
+      internalID: 6264573403213103710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_65
+      rect:
+        serializedVersion: 2
+        x: 4346
+        y: 6
+        width: 856
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c482033f46c84f5b0800000000000000
+      internalID: -5335485293322557364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_66
+      rect:
+        serializedVersion: 2
+        x: 5215
+        y: 6
+        width: 856
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b8b7930b701ad50800000000000000
+      internalID: 6746682170237750151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_67
+      rect:
+        serializedVersion: 2
+        x: 6080
+        y: 6
+        width: 860
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec12663d1c96bc650800000000000000
+      internalID: 6254208788730356174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_68
+      rect:
+        serializedVersion: 2
+        x: 6949
+        y: 6
+        width: 856
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c970a5714b176a0800000000000000
+      internalID: -6453178778657514409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-elefante_69
+      rect:
+        serializedVersion: 2
+        x: 7818
+        y: 6
+        width: 856
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d8cacb80c04e8b0800000000000000
+      internalID: -5123957244376085162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

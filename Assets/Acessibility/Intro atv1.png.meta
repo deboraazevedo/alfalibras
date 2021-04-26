@@ -1,0 +1,3356 @@
+fileFormatVersion: 2
+guid: 6707adfe6be82677b9f5d3a067f69eb4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5869365907363904718
+    second: Intro atv1_0
+  - first:
+      213: -1861684038144770796
+    second: Intro atv1_1
+  - first:
+      213: -1987327764659997216
+    second: Intro atv1_2
+  - first:
+      213: 236346955266433376
+    second: Intro atv1_3
+  - first:
+      213: 6381583737444214733
+    second: Intro atv1_4
+  - first:
+      213: 3270113684506817965
+    second: Intro atv1_5
+  - first:
+      213: -1609424654798547080
+    second: Intro atv1_6
+  - first:
+      213: 966269436908964749
+    second: Intro atv1_7
+  - first:
+      213: 4168218448166918899
+    second: Intro atv1_8
+  - first:
+      213: 3680568191748812728
+    second: Intro atv1_9
+  - first:
+      213: -4208077138814373287
+    second: Intro atv1_10
+  - first:
+      213: 8940076548139701188
+    second: Intro atv1_11
+  - first:
+      213: -4628422878292228384
+    second: Intro atv1_12
+  - first:
+      213: 5030015657140444296
+    second: Intro atv1_13
+  - first:
+      213: 4279357219253256042
+    second: Intro atv1_14
+  - first:
+      213: 8895398728959464431
+    second: Intro atv1_15
+  - first:
+      213: -7963078206726365333
+    second: Intro atv1_16
+  - first:
+      213: 4580858010320924419
+    second: Intro atv1_17
+  - first:
+      213: 8969009108792801382
+    second: Intro atv1_18
+  - first:
+      213: 5895013693379236245
+    second: Intro atv1_19
+  - first:
+      213: -4993619839060451646
+    second: Intro atv1_20
+  - first:
+      213: -6208480662918049045
+    second: Intro atv1_21
+  - first:
+      213: 8248166603130550522
+    second: Intro atv1_22
+  - first:
+      213: -4647569986612501042
+    second: Intro atv1_23
+  - first:
+      213: 1592911790802360156
+    second: Intro atv1_24
+  - first:
+      213: -2144021546948929980
+    second: Intro atv1_25
+  - first:
+      213: 3536256421601382424
+    second: Intro atv1_26
+  - first:
+      213: 1701216956677874517
+    second: Intro atv1_27
+  - first:
+      213: -1428622196402186724
+    second: Intro atv1_28
+  - first:
+      213: 2823443775884203092
+    second: Intro atv1_29
+  - first:
+      213: 6129714618351975806
+    second: Intro atv1_30
+  - first:
+      213: 8547073089800361324
+    second: Intro atv1_31
+  - first:
+      213: -6794818884534100210
+    second: Intro atv1_32
+  - first:
+      213: -5618347127469980612
+    second: Intro atv1_33
+  - first:
+      213: 6455857526205345278
+    second: Intro atv1_34
+  - first:
+      213: -8176162781878112799
+    second: Intro atv1_35
+  - first:
+      213: -8055821485353250016
+    second: Intro atv1_36
+  - first:
+      213: -7115386993525311959
+    second: Intro atv1_37
+  - first:
+      213: -204021803376931451
+    second: Intro atv1_38
+  - first:
+      213: -180191010702961615
+    second: Intro atv1_39
+  - first:
+      213: 7112020018510971669
+    second: Intro atv1_40
+  - first:
+      213: 4092012667461091356
+    second: Intro atv1_41
+  - first:
+      213: 8481262520458528146
+    second: Intro atv1_42
+  - first:
+      213: -5408126233581419491
+    second: Intro atv1_43
+  - first:
+      213: 4909224044500593301
+    second: Intro atv1_44
+  - first:
+      213: -290553680287009917
+    second: Intro atv1_45
+  - first:
+      213: 4938479504775596063
+    second: Intro atv1_46
+  - first:
+      213: 3649471381170000431
+    second: Intro atv1_47
+  - first:
+      213: -3447847397525206518
+    second: Intro atv1_48
+  - first:
+      213: -3386670128899825831
+    second: Intro atv1_49
+  - first:
+      213: -138639956102939145
+    second: Intro atv1_50
+  - first:
+      213: 7690101897063894843
+    second: Intro atv1_51
+  - first:
+      213: 4988414799615846226
+    second: Intro atv1_52
+  - first:
+      213: -3856167481187757757
+    second: Intro atv1_53
+  - first:
+      213: -7595284156025080543
+    second: Intro atv1_54
+  - first:
+      213: -4608221652897831915
+    second: Intro atv1_55
+  - first:
+      213: -496447112083987324
+    second: Intro atv1_56
+  - first:
+      213: 7861331662356953931
+    second: Intro atv1_57
+  - first:
+      213: 6957706977802594585
+    second: Intro atv1_58
+  - first:
+      213: -8620545342539085360
+    second: Intro atv1_59
+  - first:
+      213: 3053152423608792348
+    second: Intro atv1_60
+  - first:
+      213: 6314456768081976222
+    second: Intro atv1_61
+  - first:
+      213: -1023060822607842742
+    second: Intro atv1_62
+  - first:
+      213: 8269156429231843734
+    second: Intro atv1_63
+  - first:
+      213: -7576012319419966961
+    second: Intro atv1_64
+  - first:
+      213: -771875828058833066
+    second: Intro atv1_65
+  - first:
+      213: 6449868277587514842
+    second: Intro atv1_66
+  - first:
+      213: -6027395576848578895
+    second: Intro atv1_67
+  - first:
+      213: -5390394226999821264
+    second: Intro atv1_68
+  - first:
+      213: -2740626623968808459
+    second: Intro atv1_69
+  - first:
+      213: 8905898623022906456
+    second: Intro atv1_70
+  - first:
+      213: -2120873894936672337
+    second: Intro atv1_71
+  - first:
+      213: -9086623390502686772
+    second: Intro atv1_72
+  - first:
+      213: -2019828894016047603
+    second: Intro atv1_73
+  - first:
+      213: -132509694843297665
+    second: Intro atv1_74
+  - first:
+      213: -6048595832709922200
+    second: Intro atv1_75
+  - first:
+      213: -4693659859017552802
+    second: Intro atv1_76
+  - first:
+      213: 3243163991364382955
+    second: Intro atv1_77
+  - first:
+      213: -6760428995468190901
+    second: Intro atv1_78
+  - first:
+      213: 6848000029047384210
+    second: Intro atv1_79
+  - first:
+      213: 1294369196389425036
+    second: Intro atv1_80
+  - first:
+      213: 1055760022109294109
+    second: Intro atv1_81
+  - first:
+      213: 6930134973139313335
+    second: Intro atv1_82
+  - first:
+      213: -2154646147301855800
+    second: Intro atv1_83
+  - first:
+      213: 2800381829022826602
+    second: Intro atv1_84
+  - first:
+      213: -2896700518579785755
+    second: Intro atv1_85
+  - first:
+      213: 5225346925023693051
+    second: Intro atv1_86
+  - first:
+      213: -3511386038957693193
+    second: Intro atv1_87
+  - first:
+      213: -7537001446672252354
+    second: Intro atv1_88
+  - first:
+      213: -6714367234244860595
+    second: Intro atv1_89
+  - first:
+      213: 7442140178157489124
+    second: Intro atv1_90
+  - first:
+      213: -5292753043555704359
+    second: Intro atv1_91
+  - first:
+      213: -3559298278568524253
+    second: Intro atv1_92
+  - first:
+      213: -1508645253592575185
+    second: Intro atv1_93
+  - first:
+      213: 8750405059164689776
+    second: Intro atv1_94
+  - first:
+      213: 5122328436846683619
+    second: Intro atv1_95
+  - first:
+      213: -8041381613014890297
+    second: Intro atv1_96
+  - first:
+      213: -432657950762166070
+    second: Intro atv1_97
+  - first:
+      213: -3533898404721679266
+    second: Intro atv1_98
+  - first:
+      213: -2666246639880491457
+    second: Intro atv1_99
+  - first:
+      213: -8376411929967496103
+    second: Intro atv1_100
+  - first:
+      213: -5261312836938844943
+    second: Intro atv1_101
+  - first:
+      213: -211721682027703788
+    second: Intro atv1_102
+  - first:
+      213: 4638897798941225109
+    second: Intro atv1_103
+  - first:
+      213: 8469259101463316847
+    second: Intro atv1_104
+  - first:
+      213: 2579567932433309881
+    second: Intro atv1_105
+  - first:
+      213: 8513204663287701680
+    second: Intro atv1_106
+  - first:
+      213: 149815230580927672
+    second: Intro atv1_107
+  - first:
+      213: 5913787871277750214
+    second: Intro atv1_108
+  - first:
+      213: -6508190090315640619
+    second: Intro atv1_109
+  - first:
+      213: 3479410086380310208
+    second: Intro atv1_110
+  - first:
+      213: -2223160988302850072
+    second: Intro atv1_111
+  - first:
+      213: -8106601638054198801
+    second: Intro atv1_112
+  - first:
+      213: 1571803216397586835
+    second: Intro atv1_113
+  - first:
+      213: 5410651774443056362
+    second: Intro atv1_114
+  - first:
+      213: 5886048599149756517
+    second: Intro atv1_115
+  - first:
+      213: 2142885906920487548
+    second: Intro atv1_116
+  - first:
+      213: -2496856874333783428
+    second: Intro atv1_117
+  - first:
+      213: -7870576389681331579
+    second: Intro atv1_118
+  - first:
+      213: 7151276420173479108
+    second: Intro atv1_119
+  - first:
+      213: -3579627776671183801
+    second: Intro atv1_120
+  - first:
+      213: 7924484593897607234
+    second: Intro atv1_121
+  - first:
+      213: 768566815863408574
+    second: Intro atv1_122
+  - first:
+      213: -7476076732199179390
+    second: Intro atv1_123
+  - first:
+      213: -5375187516501667682
+    second: Intro atv1_124
+  - first:
+      213: 8894325036753994195
+    second: Intro atv1_125
+  - first:
+      213: -4697011529010177674
+    second: Intro atv1_126
+  - first:
+      213: 976443596851846095
+    second: Intro atv1_127
+  - first:
+      213: 4051789500554382463
+    second: Intro atv1_128
+  - first:
+      213: -1517589196392847204
+    second: Intro atv1_129
+  - first:
+      213: 5607408660267607213
+    second: Intro atv1_130
+  - first:
+      213: 8493700097990797841
+    second: Intro atv1_131
+  - first:
+      213: -1191343553907775825
+    second: Intro atv1_132
+  - first:
+      213: 1051412108680943842
+    second: Intro atv1_133
+  - first:
+      213: 7556258700646917151
+    second: Intro atv1_134
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Intro atv1_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5177
+        width: 611
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eccb63d023d247150800000000000000
+      internalID: 5869365907363904718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_1
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 5177
+        width: 606
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41dbd5e1b38f926e0800000000000000
+      internalID: -1861684038144770796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_2
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 5177
+        width: 611
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e57b276de79b64e0800000000000000
+      internalID: -1987327764659997216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_3
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 5177
+        width: 611
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061a668bd4ca74300800000000000000
+      internalID: 236346955266433376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_4
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 5177
+        width: 606
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7a5ce1990ff8850800000000000000
+      internalID: 6381583737444214733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_5
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 5177
+        width: 611
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da53c2cf117c16d20800000000000000
+      internalID: 3270113684506817965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_6
+      rect:
+        serializedVersion: 2
+        x: 3725
+        y: 5177
+        width: 611
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8771af5bdcc2aa9e0800000000000000
+      internalID: -1609424654798547080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_7
+      rect:
+        serializedVersion: 2
+        x: 4347
+        y: 5177
+        width: 606
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b8640fee0e86d00800000000000000
+      internalID: 966269436908964749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_8
+      rect:
+        serializedVersion: 2
+        x: 4964
+        y: 5177
+        width: 611
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa183d289c78d930800000000000000
+      internalID: 4168218448166918899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_9
+      rect:
+        serializedVersion: 2
+        x: 5585
+        y: 5177
+        width: 611
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf2ac81541041330800000000000000
+      internalID: 3680568191748812728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_10
+      rect:
+        serializedVersion: 2
+        x: 6207
+        y: 5177
+        width: 606
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952f6893328e995c0800000000000000
+      internalID: -4208077138814373287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_11
+      rect:
+        serializedVersion: 2
+        x: 6824
+        y: 5177
+        width: 611
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3daa40148811c70800000000000000
+      internalID: 8940076548139701188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 4705
+        width: 611
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6c9152ae984cfb0800000000000000
+      internalID: -4628422878292228384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_13
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 4705
+        width: 606
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c528a07943ec540800000000000000
+      internalID: 5030015657140444296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_14
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 4705
+        width: 611
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ff798c7b4536b30800000000000000
+      internalID: 4279357219253256042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_15
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 4705
+        width: 611
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3171f930ec27b70800000000000000
+      internalID: 8895398728959464431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_16
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 4705
+        width: 606
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f9b69af867d7190800000000000000
+      internalID: -7963078206726365333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_17
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 4705
+        width: 611
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f6ea7071a729f30800000000000000
+      internalID: 4580858010320924419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_18
+      rect:
+        serializedVersion: 2
+        x: 3725
+        y: 4705
+        width: 611
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66876dcb342587c70800000000000000
+      internalID: 8969009108792801382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_19
+      rect:
+        serializedVersion: 2
+        x: 4347
+        y: 4705
+        width: 606
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591dee398bb4fc150800000000000000
+      internalID: 5895013693379236245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_20
+      rect:
+        serializedVersion: 2
+        x: 4964
+        y: 4705
+        width: 611
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce5575b63913bab0800000000000000
+      internalID: -4993619839060451646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_21
+      rect:
+        serializedVersion: 2
+        x: 5585
+        y: 4705
+        width: 611
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be253e32bbb07d9a0800000000000000
+      internalID: -6208480662918049045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_22
+      rect:
+        serializedVersion: 2
+        x: 6207
+        y: 4705
+        width: 606
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af836db23df577270800000000000000
+      internalID: 8248166603130550522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_23
+      rect:
+        serializedVersion: 2
+        x: 6824
+        y: 4705
+        width: 611
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5e13798b3808fb0800000000000000
+      internalID: -4647569986612501042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 4236
+        width: 611
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c575e4985d82b1610800000000000000
+      internalID: 1592911790802360156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_25
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 4236
+        width: 606
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446535733c7ee32e0800000000000000
+      internalID: -2144021546948929980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_26
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 4236
+        width: 611
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8109e34ca7e431130800000000000000
+      internalID: 3536256421601382424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_27
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 4236
+        width: 611
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553e7a40fcfeb9710800000000000000
+      internalID: 1701216956677874517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_28
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 4236
+        width: 606
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1695397ea38c2ce0800000000000000
+      internalID: -1428622196402186724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_29
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 4236
+        width: 611
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4549dd8a723ee2720800000000000000
+      internalID: 2823443775884203092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_30
+      rect:
+        serializedVersion: 2
+        x: 3725
+        y: 4236
+        width: 611
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d736108fe111550800000000000000
+      internalID: 6129714618351975806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_31
+      rect:
+        serializedVersion: 2
+        x: 4347
+        y: 4236
+        width: 606
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65d9dad0bd4d9670800000000000000
+      internalID: 8547073089800361324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_32
+      rect:
+        serializedVersion: 2
+        x: 4964
+        y: 4236
+        width: 611
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f9a3a9934f3b1a0800000000000000
+      internalID: -6794818884534100210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_33
+      rect:
+        serializedVersion: 2
+        x: 5585
+        y: 4236
+        width: 611
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34c05a0e0f9702b0800000000000000
+      internalID: -5618347127469980612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_34
+      rect:
+        serializedVersion: 2
+        x: 6207
+        y: 4236
+        width: 606
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd600a2730d79950800000000000000
+      internalID: 6455857526205345278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_35
+      rect:
+        serializedVersion: 2
+        x: 6824
+        y: 4236
+        width: 611
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eda260e44f688e80800000000000000
+      internalID: -8176162781878112799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_36
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3764
+        width: 611
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0235f876a09f33090800000000000000
+      internalID: -8055821485353250016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_37
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 3764
+        width: 606
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9263d737a31114d90800000000000000
+      internalID: -7115386993525311959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_38
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 3764
+        width: 611
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d8843304b2b2df0800000000000000
+      internalID: -204021803376931451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_39
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 3764
+        width: 611
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134d45ffa35df7df0800000000000000
+      internalID: -180191010702961615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_40
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 3764
+        width: 606
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51340d69688f2b260800000000000000
+      internalID: 7112020018510971669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_41
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 3764
+        width: 611
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10ca6437dfb9c830800000000000000
+      internalID: 4092012667461091356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_42
+      rect:
+        serializedVersion: 2
+        x: 3725
+        y: 3764
+        width: 611
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295c3c2a35f73b570800000000000000
+      internalID: 8481262520458528146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_43
+      rect:
+        serializedVersion: 2
+        x: 4347
+        y: 3764
+        width: 606
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1488e218d972f4b0800000000000000
+      internalID: -5408126233581419491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_44
+      rect:
+        serializedVersion: 2
+        x: 4964
+        y: 3764
+        width: 611
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59aa34f1241112440800000000000000
+      internalID: 4909224044500593301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_45
+      rect:
+        serializedVersion: 2
+        x: 5585
+        y: 3764
+        width: 611
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3837f4a97feb7fbf0800000000000000
+      internalID: -290553680287009917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_46
+      rect:
+        serializedVersion: 2
+        x: 6207
+        y: 3764
+        width: 606
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1842b4c1f0098440800000000000000
+      internalID: 4938479504775596063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_47
+      rect:
+        serializedVersion: 2
+        x: 6824
+        y: 3764
+        width: 611
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22979ca2e685a230800000000000000
+      internalID: 3649471381170000431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_48
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3296
+        width: 611
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a41c63f09c620d0800000000000000
+      internalID: -3447847397525206518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_49
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 3296
+        width: 606
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fdf7b06712001d0800000000000000
+      internalID: -3386670128899825831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_50
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 3296
+        width: 611
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fdfec8c1b3731ef0800000000000000
+      internalID: -138639956102939145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_51
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 3296
+        width: 611
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f0d057eeab8ba60800000000000000
+      internalID: 7690101897063894843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_52
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 3296
+        width: 606
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257676b94d86a3540800000000000000
+      internalID: 4988414799615846226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_53
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 3296
+        width: 611
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34114615b142c7ac0800000000000000
+      internalID: -3856167481187757757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_54
+      rect:
+        serializedVersion: 2
+        x: 3725
+        y: 3296
+        width: 611
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125f8f73d41289690800000000000000
+      internalID: -7595284156025080543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_55
+      rect:
+        serializedVersion: 2
+        x: 4347
+        y: 3296
+        width: 606
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514e2c472de4c00c0800000000000000
+      internalID: -4608221652897831915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_56
+      rect:
+        serializedVersion: 2
+        x: 4964
+        y: 3296
+        width: 611
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484277a5bf34c19f0800000000000000
+      internalID: -496447112083987324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_57
+      rect:
+        serializedVersion: 2
+        x: 5585
+        y: 3296
+        width: 611
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b315cee7f091d60800000000000000
+      internalID: 7861331662356953931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_58
+      rect:
+        serializedVersion: 2
+        x: 6207
+        y: 3296
+        width: 606
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9192e2ff1adbe8060800000000000000
+      internalID: 6957706977802594585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_59
+      rect:
+        serializedVersion: 2
+        x: 6824
+        y: 3296
+        width: 611
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d94fcf3fabad5880800000000000000
+      internalID: -8620545342539085360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_60
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2824
+        width: 611
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c153356f3f9fe5a20800000000000000
+      internalID: 3053152423608792348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_61
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 2824
+        width: 606
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b5613a9f471a750800000000000000
+      internalID: 6314456768081976222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_62
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 2824
+        width: 611
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4237dc2a9b5dc1f0800000000000000
+      internalID: -1023060822607842742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_63
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 2824
+        width: 611
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6996084e5f1f1c270800000000000000
+      internalID: 8269156429231843734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_64
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 2824
+        width: 606
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a5df65fe89cd690800000000000000
+      internalID: -7576012319419966961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_65
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 2824
+        width: 611
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fb7d1260fb945f0800000000000000
+      internalID: -771875828058833066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_66
+      rect:
+        serializedVersion: 2
+        x: 3725
+        y: 2824
+        width: 611
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad51aad8609828950800000000000000
+      internalID: 6449868277587514842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_67
+      rect:
+        serializedVersion: 2
+        x: 4347
+        y: 2824
+        width: 606
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b60e2948a36a5ca0800000000000000
+      internalID: -6027395576848578895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_68
+      rect:
+        serializedVersion: 2
+        x: 4964
+        y: 2824
+        width: 611
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03cfb5492097135b0800000000000000
+      internalID: -5390394226999821264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_69
+      rect:
+        serializedVersion: 2
+        x: 5585
+        y: 2824
+        width: 611
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f17c502b9657f9d0800000000000000
+      internalID: -2740626623968808459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_70
+      rect:
+        serializedVersion: 2
+        x: 6207
+        y: 2824
+        width: 606
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85cbbe6bc9b189b70800000000000000
+      internalID: 8905898623022906456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_71
+      rect:
+        serializedVersion: 2
+        x: 6824
+        y: 2824
+        width: 611
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa786eeed642192e0800000000000000
+      internalID: -2120873894936672337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_72
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2355
+        width: 611
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfe4595b24d5e180800000000000000
+      internalID: -9086623390502686772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_73
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 2355
+        width: 606
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d067a19825028f3e0800000000000000
+      internalID: -2019828894016047603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_74
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 2355
+        width: 611
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70e195722b392ef0800000000000000
+      internalID: -132509694843297665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_75
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 2355
+        width: 611
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862ca6113221f0ca0800000000000000
+      internalID: -6048595832709922200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_76
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 2355
+        width: 606
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5cafbee935ccdeb0800000000000000
+      internalID: -4693659859017552802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_77
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 2355
+        width: 611
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0bc959778020d20800000000000000
+      internalID: 3243163991364382955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_78
+      rect:
+        serializedVersion: 2
+        x: 3725
+        y: 2355
+        width: 611
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b1edb95a12e22a0800000000000000
+      internalID: -6760428995468190901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_79
+      rect:
+        serializedVersion: 2
+        x: 4347
+        y: 2355
+        width: 606
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298eb318ebbf80f50800000000000000
+      internalID: 6848000029047384210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_80
+      rect:
+        serializedVersion: 2
+        x: 4964
+        y: 2355
+        width: 611
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8fdffe1de586f110800000000000000
+      internalID: 1294369196389425036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_81
+      rect:
+        serializedVersion: 2
+        x: 5585
+        y: 2355
+        width: 611
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e02ed7520d6ae00800000000000000
+      internalID: 1055760022109294109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_82
+      rect:
+        serializedVersion: 2
+        x: 6207
+        y: 2355
+        width: 606
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2ea776a09cc2060800000000000000
+      internalID: 6930134973139313335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_83
+      rect:
+        serializedVersion: 2
+        x: 6824
+        y: 2355
+        width: 611
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cda86daeb82912e0800000000000000
+      internalID: -2154646147301855800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_84
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1887
+        width: 611
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a604d5abf64fcd620800000000000000
+      internalID: 2800381829022826602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_85
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1887
+        width: 606
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5efac59c93adcc7d0800000000000000
+      internalID: -2896700518579785755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_86
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 1887
+        width: 611
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8873ed759248840800000000000000
+      internalID: 5225346925023693051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_87
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 1887
+        width: 611
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f629ae600d054fc0800000000000000
+      internalID: -3511386038957693193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_88
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 1887
+        width: 606
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32ce73fd11376790800000000000000
+      internalID: -7537001446672252354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_89
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 1887
+        width: 611
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45205f1396c1d2a0800000000000000
+      internalID: -6714367234244860595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_90
+      rect:
+        serializedVersion: 2
+        x: 3725
+        y: 1887
+        width: 611
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb4db7df0bc74760800000000000000
+      internalID: 7442140178157489124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_91
+      rect:
+        serializedVersion: 2
+        x: 4347
+        y: 1887
+        width: 606
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1aefa262d5c86b0800000000000000
+      internalID: -5292753043555704359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_92
+      rect:
+        serializedVersion: 2
+        x: 4964
+        y: 1887
+        width: 611
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3268348d215da9ec0800000000000000
+      internalID: -3559298278568524253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_93
+      rect:
+        serializedVersion: 2
+        x: 5585
+        y: 1887
+        width: 611
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23198f8227301be0800000000000000
+      internalID: -1508645253592575185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_94
+      rect:
+        serializedVersion: 2
+        x: 6207
+        y: 1887
+        width: 606
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075da482a0faf6970800000000000000
+      internalID: 8750405059164689776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_95
+      rect:
+        serializedVersion: 2
+        x: 6824
+        y: 1887
+        width: 611
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5e025f29a261740800000000000000
+      internalID: 5122328436846683619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_96
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1415
+        width: 611
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8c3ec2706476090800000000000000
+      internalID: -8041381613014890297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_97
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1415
+        width: 606
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac89297d2e3eef9f0800000000000000
+      internalID: -432657950762166070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_98
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 1415
+        width: 611
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54ae32df1215fec0800000000000000
+      internalID: -3533898404721679266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_99
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 1415
+        width: 611
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e2852bec69ffad0800000000000000
+      internalID: -2666246639880491457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_100
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 1415
+        width: 606
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95471f5dab101cb80800000000000000
+      internalID: -8376411929967496103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_101
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 1415
+        width: 611
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4be06b9df0cf6b0800000000000000
+      internalID: -5261312836938844943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_102
+      rect:
+        serializedVersion: 2
+        x: 3725
+        y: 1415
+        width: 611
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4129d7f7040df0df0800000000000000
+      internalID: -211721682027703788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_103
+      rect:
+        serializedVersion: 2
+        x: 4347
+        y: 1415
+        width: 606
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590bb3f58fca06040800000000000000
+      internalID: 4638897798941225109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_104
+      rect:
+        serializedVersion: 2
+        x: 4964
+        y: 1415
+        width: 611
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69077dd74ad88570800000000000000
+      internalID: 8469259101463316847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_105
+      rect:
+        serializedVersion: 2
+        x: 5585
+        y: 1415
+        width: 611
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b02dae0e577cc320800000000000000
+      internalID: 2579567932433309881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_106
+      rect:
+        serializedVersion: 2
+        x: 6207
+        y: 1415
+        width: 606
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0667f498af42670800000000000000
+      internalID: 8513204663287701680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_107
+      rect:
+        serializedVersion: 2
+        x: 6824
+        y: 1415
+        width: 611
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc28b09820441200800000000000000
+      internalID: 149815230580927672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_108
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 946
+        width: 611
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c716808cbef11250800000000000000
+      internalID: 5913787871277750214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_109
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 946
+        width: 606
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0d40048934ea5a0800000000000000
+      internalID: -6508190090315640619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_110
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 946
+        width: 611
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce0c92f909594030800000000000000
+      internalID: 3479410086380310208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_111
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 946
+        width: 611
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7c3b52cdeb521e0800000000000000
+      internalID: -2223160988302850072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_112
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 946
+        width: 606
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe10e24c2c09f7f80800000000000000
+      internalID: -8106601638054198801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_113
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 946
+        width: 611
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391d13292ba20d510800000000000000
+      internalID: 1571803216397586835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_114
+      rect:
+        serializedVersion: 2
+        x: 3725
+        y: 946
+        width: 611
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aece30b3f1f761b40800000000000000
+      internalID: 5410651774443056362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_115
+      rect:
+        serializedVersion: 2
+        x: 4347
+        y: 946
+        width: 606
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560c10be3027fa150800000000000000
+      internalID: 5886048599149756517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_116
+      rect:
+        serializedVersion: 2
+        x: 4964
+        y: 946
+        width: 611
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7abf2cf06f0dbd10800000000000000
+      internalID: 2142885906920487548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_117
+      rect:
+        serializedVersion: 2
+        x: 5585
+        y: 946
+        width: 611
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ab756d6e1695dd0800000000000000
+      internalID: -2496856874333783428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_118
+      rect:
+        serializedVersion: 2
+        x: 6207
+        y: 946
+        width: 606
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582c773497816c290800000000000000
+      internalID: -7870576389681331579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_119
+      rect:
+        serializedVersion: 2
+        x: 6824
+        y: 946
+        width: 611
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc311bd3007e3360800000000000000
+      internalID: 7151276420173479108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_120
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 474
+        width: 611
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c8467b08b925ec0800000000000000
+      internalID: -3579627776671183801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_121
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 474
+        width: 606
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240925f90cc69fd60800000000000000
+      internalID: 7924484593897607234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_122
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 474
+        width: 611
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb701bd627f7aaa00800000000000000
+      internalID: 768566815863408574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_123
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 474
+        width: 611
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b64bf62d3af3890800000000000000
+      internalID: -7476076732199179390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_124
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 474
+        width: 606
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90ddc5ce6f7765b0800000000000000
+      internalID: -5375187516501667682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_125
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 474
+        width: 611
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1c59c2f7dfe6b70800000000000000
+      internalID: 8894325036753994195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_126
+      rect:
+        serializedVersion: 2
+        x: 3725
+        y: 474
+        width: 611
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6791f6376ecd0deb0800000000000000
+      internalID: -4697011529010177674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_127
+      rect:
+        serializedVersion: 2
+        x: 4347
+        y: 474
+        width: 606
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb1f8527460d8d00800000000000000
+      internalID: 976443596851846095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_128
+      rect:
+        serializedVersion: 2
+        x: 4964
+        y: 474
+        width: 611
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c833d5519da3830800000000000000
+      internalID: 4051789500554382463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_129
+      rect:
+        serializedVersion: 2
+        x: 5585
+        y: 474
+        width: 611
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98a80a9aa070fae0800000000000000
+      internalID: -1517589196392847204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_130
+      rect:
+        serializedVersion: 2
+        x: 6207
+        y: 474
+        width: 606
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da423b9977481dd40800000000000000
+      internalID: 5607408660267607213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_131
+      rect:
+        serializedVersion: 2
+        x: 6824
+        y: 474
+        width: 611
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a2171dc3fafd570800000000000000
+      internalID: 8493700097990797841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_132
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 611
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa620e7895f777fe0800000000000000
+      internalID: -1191343553907775825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_133
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 5
+        width: 606
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8d8720ebd579e00800000000000000
+      internalID: 1051412108680943842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv1_134
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 5
+        width: 611
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14a303e0493dd860800000000000000
+      internalID: 7556258700646917151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

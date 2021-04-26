@@ -1,0 +1,1436 @@
+fileFormatVersion: 2
+guid: 98d9184dc86c37bc9b7ecf6c4cfa39d7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2762374318791513200
+    second: video-ervilha
+  - first:
+      213: 3958209817398683474
+    second: ervilha_1
+  - first:
+      213: 593477018020470892
+    second: ervilha_2
+  - first:
+      213: -7405643746609041599
+    second: ervilha_3
+  - first:
+      213: 6605889995859735751
+    second: ervilha_4
+  - first:
+      213: -6322765197492140610
+    second: ervilha_5
+  - first:
+      213: -6228077193768939990
+    second: ervilha_6
+  - first:
+      213: 4202445231026410605
+    second: ervilha_7
+  - first:
+      213: 7587307596549602306
+    second: ervilha_8
+  - first:
+      213: 4665930034535906403
+    second: ervilha_9
+  - first:
+      213: 3147867297234186810
+    second: ervilha_10
+  - first:
+      213: -3671545101753017965
+    second: ervilha_11
+  - first:
+      213: 4290719686761316673
+    second: ervilha_12
+  - first:
+      213: 3912109885111696570
+    second: ervilha_13
+  - first:
+      213: 3095087695356061898
+    second: ervilha_14
+  - first:
+      213: 5753589230012769540
+    second: ervilha_15
+  - first:
+      213: 8976802424364650628
+    second: ervilha_16
+  - first:
+      213: 4647949990098894201
+    second: ervilha_17
+  - first:
+      213: -4912758336377117759
+    second: ervilha_18
+  - first:
+      213: 4398260720077894802
+    second: ervilha_19
+  - first:
+      213: -70347259802191549
+    second: ervilha_20
+  - first:
+      213: -5048042847595113744
+    second: ervilha_21
+  - first:
+      213: -8691067771326751847
+    second: ervilha_22
+  - first:
+      213: 298816461117790795
+    second: ervilha_23
+  - first:
+      213: 92326080844942039
+    second: ervilha_24
+  - first:
+      213: 3328039205966662815
+    second: ervilha_25
+  - first:
+      213: -4510449572903823900
+    second: ervilha_26
+  - first:
+      213: -537015512527084381
+    second: ervilha_27
+  - first:
+      213: 6700849206941453052
+    second: ervilha_28
+  - first:
+      213: -249870849465168538
+    second: ervilha_29
+  - first:
+      213: 637746340115197753
+    second: ervilha_30
+  - first:
+      213: -6411767928344354779
+    second: ervilha_31
+  - first:
+      213: -7195055723641281309
+    second: ervilha_32
+  - first:
+      213: -487299297946643514
+    second: ervilha_33
+  - first:
+      213: 8908559212112387061
+    second: ervilha_34
+  - first:
+      213: 8151294363166201533
+    second: ervilha_35
+  - first:
+      213: 7848301125371261581
+    second: ervilha_36
+  - first:
+      213: 5178712793183132173
+    second: ervilha_37
+  - first:
+      213: -8106906858859804530
+    second: ervilha_38
+  - first:
+      213: -4515252980641091820
+    second: ervilha_39
+  - first:
+      213: -3044030232218569272
+    second: ervilha_40
+  - first:
+      213: -5148156030445634589
+    second: ervilha_41
+  - first:
+      213: 1232060345033087032
+    second: ervilha_42
+  - first:
+      213: -6251334827774711975
+    second: ervilha_43
+  - first:
+      213: -7866232258745025129
+    second: ervilha_44
+  - first:
+      213: 3944713754208863160
+    second: ervilha_45
+  - first:
+      213: -5827712289736280277
+    second: ervilha_46
+  - first:
+      213: 4789950455238436929
+    second: ervilha_47
+  - first:
+      213: 5854352717884581022
+    second: ervilha_48
+  - first:
+      213: 3488877185652631624
+    second: ervilha_49
+  - first:
+      213: 510516306297643767
+    second: ervilha_50
+  - first:
+      213: -1060088614759193048
+    second: ervilha_51
+  - first:
+      213: 5814286827939435659
+    second: ervilha_52
+  - first:
+      213: -1933060373780067641
+    second: ervilha_53
+  - first:
+      213: -3892385264547640826
+    second: ervilha_54
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: video-ervilha
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 5540
+        width: 854
+        height: 848
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074da38aecce55620800000000000000
+      internalID: 2762374318791513200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ervilha_1
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 5540
+        width: 854
+        height: 848
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25723808bd26ee630800000000000000
+      internalID: 3958209817398683474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ervilha_2
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 5540
+        width: 854
+        height: 848
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60e77914347c3800800000000000000
+      internalID: 593477018020470892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ervilha_3
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 5540
+        width: 854
+        height: 848
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f664ecf3ed93990800000000000000
+      internalID: -7405643746609041599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ervilha_4
+      rect:
+        serializedVersion: 2
+        x: 3434
+        y: 5540
+        width: 854
+        height: 848
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4b684a3f5dcab50800000000000000
+      internalID: 6605889995859735751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ervilha_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4688
+        width: 854
+        height: 849
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb547456d860148a0800000000000000
+      internalID: -6322765197492140610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ervilha_6
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 4688
+        width: 854
+        height: 849
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ec0bf3acc6199a0800000000000000
+      internalID: -6228077193768939990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ervilha_7
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 4688
+        width: 854
+        height: 849
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d641d5f0ca5125a30800000000000000
+      internalID: 4202445231026410605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ervilha_8
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 4688
+        width: 854
+        height: 849
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c36fd4f088b4960800000000000000
+      internalID: 7587307596549602306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ervilha_9
+      rect:
+        serializedVersion: 2
+        x: 3434
+        y: 4688
+        width: 854
+        height: 849
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36cb65f25a6b0c040800000000000000
+      internalID: 4665930034535906403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ervilha_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4261
+        width: 854
+        height: 424
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3276b3f0a87fab20800000000000000
+      internalID: 3147867297234186810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ervilha_11
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 4261
+        width: 854
+        height: 424
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3999f21ce2d0c0dc0800000000000000
+      internalID: -3671545101753017965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ervilha_12
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 4261
+        width: 854
+        height: 424
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1410f2862d2bb8b30800000000000000
+      internalID: 4290719686761316673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ervilha_13
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 4261
+        width: 854
+        height: 424
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc7068963b9a4630800000000000000
+      internalID: 3912109885111696570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ervilha_14
+      rect:
+        serializedVersion: 2
+        x: 3434
+        y: 4261
+        width: 854
+        height: 424
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac861664cd5f3fa20800000000000000
+      internalID: 3095087695356061898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ervilha_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3836
+        width: 854
+        height: 424
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405ac6ebbead8df40800000000000000
+      internalID: 5753589230012769540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ervilha_16
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 3836
+        width: 854
+        height: 424
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480de1b6e32049c70800000000000000
+      internalID: 8976802424364650628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ervilha_17
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 3836
+        width: 854
+        height: 424
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97dff9dd3e5d08040800000000000000
+      internalID: 4647949990098894201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ervilha_18
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 3836
+        width: 854
+        height: 424
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c327ec625062dbb0800000000000000
+      internalID: -4912758336377117759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ervilha_19
+      rect:
+        serializedVersion: 2
+        x: 3434
+        y: 3836
+        width: 854
+        height: 424
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294fbc962d2c90d30800000000000000
+      internalID: 4398260720077894802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ervilha_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3409
+        width: 854
+        height: 424
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34971983a83160ff0800000000000000
+      internalID: -70347259802191549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ervilha_21
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 3409
+        width: 854
+        height: 424
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2542a96cfb1f9b0800000000000000
+      internalID: -5048042847595113744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ervilha_22
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 3409
+        width: 854
+        height: 424
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b1933c8ef136780800000000000000
+      internalID: -8691067771326751847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ervilha_23
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 3409
+        width: 854
+        height: 424
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a17f9fcfb952400800000000000000
+      internalID: 298816461117790795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ervilha_24
+      rect:
+        serializedVersion: 2
+        x: 3434
+        y: 3409
+        width: 854
+        height: 424
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da4444d412084100800000000000000
+      internalID: 92326080844942039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ervilha_25
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2984
+        width: 854
+        height: 422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c473e66029f2e20800000000000000
+      internalID: 3328039205966662815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ervilha_26
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 2984
+        width: 854
+        height: 422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e551c5c20aa761c0800000000000000
+      internalID: -4510449572903823900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ervilha_27
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 2984
+        width: 854
+        height: 422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4e2f09c332c88f0800000000000000
+      internalID: -537015512527084381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ervilha_28
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 2984
+        width: 854
+        height: 422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa0431e9d23efc50800000000000000
+      internalID: 6700849206941453052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ervilha_29
+      rect:
+        serializedVersion: 2
+        x: 3434
+        y: 2984
+        width: 854
+        height: 422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d47e949c7488cf0800000000000000
+      internalID: -249870849465168538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ervilha_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2557
+        width: 854
+        height: 424
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f2f5bdaeab9d800800000000000000
+      internalID: 637746340115197753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ervilha_31
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 2557
+        width: 854
+        height: 424
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520eac84a03d407a0800000000000000
+      internalID: -6411767928344354779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ervilha_32
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 2557
+        width: 854
+        height: 424
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4683db0f6062c90800000000000000
+      internalID: -7195055723641281309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ervilha_33
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 2557
+        width: 854
+        height: 424
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3d79eced3cc39f0800000000000000
+      internalID: -487299297946643514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ervilha_34
+      rect:
+        serializedVersion: 2
+        x: 3434
+        y: 2557
+        width: 854
+        height: 424
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb1e72676f81ab70800000000000000
+      internalID: 8908559212112387061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ervilha_35
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2130
+        width: 854
+        height: 424
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db65a2039073f1170800000000000000
+      internalID: 8151294363166201533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ervilha_36
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 2130
+        width: 854
+        height: 424
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d827d0c9a44caec60800000000000000
+      internalID: 7848301125371261581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ervilha_37
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 2130
+        width: 854
+        height: 424
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a937fe8db7ed740800000000000000
+      internalID: 5178712793183132173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ervilha_38
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 2130
+        width: 854
+        height: 424
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88cb720a2b7e7f80800000000000000
+      internalID: -8106906858859804530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ervilha_39
+      rect:
+        serializedVersion: 2
+        x: 3434
+        y: 2130
+        width: 854
+        height: 424
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f2dd146599651c0800000000000000
+      internalID: -4515252980641091820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ervilha_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1705
+        width: 854
+        height: 424
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5ff0bb1ae61c5d0800000000000000
+      internalID: -3044030232218569272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ervilha_41
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1705
+        width: 854
+        height: 424
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebb00dcd531e88b0800000000000000
+      internalID: -5148156030445634589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ervilha_42
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 1705
+        width: 854
+        height: 424
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838da872b58291110800000000000000
+      internalID: 1232060345033087032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ervilha_43
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 1705
+        width: 854
+        height: 424
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957e57a581cce39a0800000000000000
+      internalID: -6251334827774711975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ervilha_44
+      rect:
+        serializedVersion: 2
+        x: 3434
+        y: 1705
+        width: 854
+        height: 424
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79db8c0107785d290800000000000000
+      internalID: -7866232258745025129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ervilha_45
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 853
+        width: 854
+        height: 849
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3873c62407eb630800000000000000
+      internalID: 3944713754208863160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ervilha_46
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 853
+        width: 854
+        height: 849
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27371d8c8ecf1fa0800000000000000
+      internalID: -5827712289736280277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ervilha_47
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 853
+        width: 854
+        height: 849
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14825309f82597240800000000000000
+      internalID: 4789950455238436929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ervilha_48
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 853
+        width: 854
+        height: 849
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e946a5b77c6de3150800000000000000
+      internalID: 5854352717884581022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ervilha_49
+      rect:
+        serializedVersion: 2
+        x: 3434
+        y: 853
+        width: 854
+        height: 849
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8482ac3c05bfa6030800000000000000
+      internalID: 3488877185652631624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ervilha_50
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 854
+        height: 848
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f26ae030e7b51700800000000000000
+      internalID: 510516306297643767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ervilha_51
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 2
+        width: 854
+        height: 848
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826a7de750fc941f0800000000000000
+      internalID: -1060088614759193048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ervilha_52
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 2
+        width: 854
+        height: 848
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b841099801f70b050800000000000000
+      internalID: 5814286827939435659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ervilha_53
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 2
+        width: 854
+        height: 848
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca8473f4d36c25e0800000000000000
+      internalID: -1933060373780067641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ervilha_54
+      rect:
+        serializedVersion: 2
+        x: 3434
+        y: 2
+        width: 854
+        height: 848
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a4ca189387bf9c0800000000000000
+      internalID: -3892385264547640826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

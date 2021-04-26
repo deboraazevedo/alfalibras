@@ -1,0 +1,1340 @@
+fileFormatVersion: 2
+guid: 89e2f66a9b046fd5184cdbf3ac5cea87
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -416660557436145685
+    second: video-ovelha_0
+  - first:
+      213: -5222182532634372583
+    second: video-ovelha_1
+  - first:
+      213: -4872341294021323071
+    second: video-ovelha_2
+  - first:
+      213: 1664363860643155328
+    second: video-ovelha_3
+  - first:
+      213: -6187144882286853928
+    second: video-ovelha_4
+  - first:
+      213: 71595451318349249
+    second: video-ovelha_5
+  - first:
+      213: 4427262009147370638
+    second: video-ovelha_6
+  - first:
+      213: 6297854111325465400
+    second: video-ovelha_7
+  - first:
+      213: -1730646876263353247
+    second: video-ovelha_8
+  - first:
+      213: 8353773040429089940
+    second: video-ovelha_9
+  - first:
+      213: 2584544596494094387
+    second: video-ovelha_10
+  - first:
+      213: 2424398733464205932
+    second: video-ovelha_11
+  - first:
+      213: 3616244246491464339
+    second: video-ovelha_12
+  - first:
+      213: 2015185853121137225
+    second: video-ovelha_13
+  - first:
+      213: 1347676008744092674
+    second: video-ovelha_14
+  - first:
+      213: 7725197421460293634
+    second: video-ovelha_15
+  - first:
+      213: -220586645932371405
+    second: video-ovelha_16
+  - first:
+      213: 2639703862758629403
+    second: video-ovelha_17
+  - first:
+      213: 576875798242303222
+    second: video-ovelha_18
+  - first:
+      213: -8978537804610603975
+    second: video-ovelha_19
+  - first:
+      213: -3360655922655301984
+    second: video-ovelha_20
+  - first:
+      213: -1790265912214888614
+    second: video-ovelha_21
+  - first:
+      213: -5047775627666065155
+    second: video-ovelha_22
+  - first:
+      213: -8467588971025188850
+    second: video-ovelha_23
+  - first:
+      213: -6100261134799098217
+    second: video-ovelha_24
+  - first:
+      213: 7233388760658951656
+    second: video-ovelha_25
+  - first:
+      213: 7222285444869053221
+    second: video-ovelha_26
+  - first:
+      213: -3810949435639201305
+    second: video-ovelha_27
+  - first:
+      213: 373722543683608227
+    second: video-ovelha_28
+  - first:
+      213: -968598778059575819
+    second: video-ovelha_29
+  - first:
+      213: -2307779598602894549
+    second: video-ovelha_30
+  - first:
+      213: 5097344031736906600
+    second: video-ovelha_31
+  - first:
+      213: -5351424533826583521
+    second: video-ovelha_32
+  - first:
+      213: -5521552325119573822
+    second: video-ovelha_33
+  - first:
+      213: 9222337412723972986
+    second: video-ovelha_34
+  - first:
+      213: -1967090814391293822
+    second: video-ovelha_35
+  - first:
+      213: -946881734740179286
+    second: video-ovelha_36
+  - first:
+      213: -3394985312998795924
+    second: video-ovelha_37
+  - first:
+      213: -1480949426465097409
+    second: video-ovelha_38
+  - first:
+      213: -4957753566581066037
+    second: video-ovelha_39
+  - first:
+      213: -3832875134868104596
+    second: video-ovelha_40
+  - first:
+      213: -806654596833669558
+    second: video-ovelha_41
+  - first:
+      213: -5329974446647357810
+    second: video-ovelha_42
+  - first:
+      213: 3920127798917411327
+    second: video-ovelha_43
+  - first:
+      213: 3554960930886637295
+    second: video-ovelha_44
+  - first:
+      213: -1190630774056713371
+    second: video-ovelha_45
+  - first:
+      213: -5965495165429157552
+    second: video-ovelha_46
+  - first:
+      213: 1192313758061629538
+    second: video-ovelha_47
+  - first:
+      213: -9114403459380354612
+    second: video-ovelha_48
+  - first:
+      213: -6496755955823917188
+    second: video-ovelha_49
+  - first:
+      213: 7018165301142209234
+    second: video-ovelha_50
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: video-ovelha_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3348
+        width: 644
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef2a1a3e69b73af0800000000000000
+      internalID: -416660557436145685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovelha_1
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 3348
+        width: 644
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9161416a7a41787b0800000000000000
+      internalID: -5222182532634372583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovelha_2
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 3348
+        width: 644
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c654696867f16cb0800000000000000
+      internalID: -4872341294021323071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovelha_3
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 3348
+        width: 644
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d02a2fc12091710800000000000000
+      internalID: 1664363860643155328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovelha_4
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 3348
+        width: 644
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d08a6da288d22aa0800000000000000
+      internalID: -6187144882286853928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovelha_5
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3013
+        width: 644
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd2d530fab5ef000800000000000000
+      internalID: 71595451318349249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovelha_6
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 3013
+        width: 644
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8cafc6375bc07d30800000000000000
+      internalID: 4427262009147370638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovelha_7
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 3013
+        width: 644
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ba9c062f8766750800000000000000
+      internalID: 6297854111325465400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovelha_8
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 3013
+        width: 644
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164feacd5d18bf7e0800000000000000
+      internalID: -1730646876263353247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovelha_9
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 3013
+        width: 644
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494c201f1509ee370800000000000000
+      internalID: 8353773040429089940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovelha_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2679
+        width: 644
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3309f24fd952ed320800000000000000
+      internalID: 2584544596494094387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovelha_11
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 2679
+        width: 644
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a7a069dc135a120800000000000000
+      internalID: 2424398733464205932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovelha_12
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 2679
+        width: 644
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3928c258bfa7f2230800000000000000
+      internalID: 3616244246491464339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovelha_13
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 2679
+        width: 644
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a8da34bd067fb10800000000000000
+      internalID: 2015185853121137225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovelha_14
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 2679
+        width: 644
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204028d8038e3b210800000000000000
+      internalID: 1347676008744092674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovelha_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2346
+        width: 644
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20887edff1a653b60800000000000000
+      internalID: 7725197421460293634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovelha_16
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 2346
+        width: 644
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332910f3d9150fcf0800000000000000
+      internalID: -220586645932371405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovelha_17
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 2346
+        width: 644
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1064fb6dac12a420800000000000000
+      internalID: 2639703862758629403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovelha_18
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 2346
+        width: 644
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc90c96b79710800800000000000000
+      internalID: 576875798242303222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovelha_19
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 2346
+        width: 644
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934f4c1ef63d56380800000000000000
+      internalID: -8978537804610603975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovelha_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2012
+        width: 644
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae61dd6e3d8c51d0800000000000000
+      internalID: -3360655922655301984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovelha_21
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 2012
+        width: 644
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5fd0f853a2b727e0800000000000000
+      internalID: -1790265912214888614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovelha_22
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 2012
+        width: 644
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8f6179fc2b2f9b0800000000000000
+      internalID: -5047775627666065155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovelha_23
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 2012
+        width: 644
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08370ea1b41d7a80800000000000000
+      internalID: -8467588971025188850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovelha_24
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 2012
+        width: 644
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ead2781d4875ba0800000000000000
+      internalID: -6100261134799098217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovelha_25
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1678
+        width: 644
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed3161f0c8226460800000000000000
+      internalID: 7233388760658951656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovelha_26
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1678
+        width: 644
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bd4e7c856ba3460800000000000000
+      internalID: 7222285444869053221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovelha_27
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 1678
+        width: 644
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e100c7fda9cc1bc0800000000000000
+      internalID: -3810949435639201305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovelha_28
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 1678
+        width: 644
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae11d46caabf2500800000000000000
+      internalID: 373722543683608227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovelha_29
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 1678
+        width: 644
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fda1ef0b88de82f0800000000000000
+      internalID: -968598778059575819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovelha_30
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1345
+        width: 644
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b238165aeae19ffd0800000000000000
+      internalID: -2307779598602894549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovelha_31
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1345
+        width: 644
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863c2a5d3676db640800000000000000
+      internalID: 5097344031736906600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovelha_32
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 1345
+        width: 644
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14c4f25dbbebb5b0800000000000000
+      internalID: -5351424533826583521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovelha_33
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 1345
+        width: 644
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0048c2a618f53b0800000000000000
+      internalID: -5521552325119573822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovelha_34
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 1345
+        width: 644
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b153cc3035cff70800000000000000
+      internalID: 9222337412723972986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovelha_35
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1009
+        width: 644
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288e54f835d73b4e0800000000000000
+      internalID: -1967090814391293822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovelha_36
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1009
+        width: 644
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6818c34100cd2f0800000000000000
+      internalID: -946881734740179286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovelha_37
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 1009
+        width: 644
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65d90168d692e0d0800000000000000
+      internalID: -3394985312998795924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovelha_38
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 1009
+        width: 644
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39ba31d75c927be0800000000000000
+      internalID: -1480949426465097409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovelha_39
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 1009
+        width: 644
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc672040665823bb0800000000000000
+      internalID: -4957753566581066037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovelha_40
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 675
+        width: 644
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a52cd4f54eecac0800000000000000
+      internalID: -3832875134868104596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovelha_41
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 675
+        width: 644
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e0b430bef2ec4f0800000000000000
+      internalID: -806654596833669558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovelha_42
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 675
+        width: 644
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8eccadea702806b0800000000000000
+      internalID: -5329974446647357810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovelha_43
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 675
+        width: 644
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff13b90a677176630800000000000000
+      internalID: 3920127798917411327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovelha_44
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 675
+        width: 644
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6d3e3b122c55130800000000000000
+      internalID: 3554960930886637295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovelha_45
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 342
+        width: 644
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56383b58e970a7fe0800000000000000
+      internalID: -1190630774056713371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovelha_46
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 342
+        width: 644
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051f84be0cd463da0800000000000000
+      internalID: -5965495165429157552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovelha_47
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 342
+        width: 644
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260131abb03fb8010800000000000000
+      internalID: 1192313758061629538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovelha_48
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 342
+        width: 644
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1ea080852238180800000000000000
+      internalID: -9114403459380354612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovelha_49
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 342
+        width: 644
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7746b421e2e6d5a0800000000000000
+      internalID: -6496755955823917188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovelha_50
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 644
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2cd855828856160800000000000000
+      internalID: 7018165301142209234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

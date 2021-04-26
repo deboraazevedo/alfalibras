@@ -1,0 +1,1508 @@
+fileFormatVersion: 2
+guid: d510f438cfe883c33a63be1762be9f83
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2694586118481121567
+    second: video-iogurte
+  - first:
+      213: -398609117798772999
+    second: video-iogurte_1
+  - first:
+      213: 4532051891651717272
+    second: video-iogurte_2
+  - first:
+      213: 1447641039990773800
+    second: video-iogurte_3
+  - first:
+      213: -779876687841475897
+    second: video-iogurte_4
+  - first:
+      213: 9052420223644893356
+    second: video-iogurte_5
+  - first:
+      213: 3632542407391231451
+    second: video-iogurte_6
+  - first:
+      213: -7525976877997616163
+    second: video-iogurte_7
+  - first:
+      213: -1529424260733048436
+    second: video-iogurte_8
+  - first:
+      213: 5997568858681830235
+    second: video-iogurte_9
+  - first:
+      213: -6008322579745358533
+    second: video-iogurte_10
+  - first:
+      213: 73731199074005556
+    second: video-iogurte_11
+  - first:
+      213: -3167447824265420896
+    second: video-iogurte_12
+  - first:
+      213: 2523913130149713048
+    second: video-iogurte_13
+  - first:
+      213: 3298911711160757484
+    second: video-iogurte_14
+  - first:
+      213: 4240811220776956618
+    second: video-iogurte_15
+  - first:
+      213: 6199726142014728672
+    second: video-iogurte_16
+  - first:
+      213: 5063862169888204464
+    second: video-iogurte_17
+  - first:
+      213: 1993204487948056977
+    second: video-iogurte_18
+  - first:
+      213: -331935249160728478
+    second: video-iogurte_19
+  - first:
+      213: 3019685336093455501
+    second: video-iogurte_20
+  - first:
+      213: 3799763565676990866
+    second: video-iogurte_21
+  - first:
+      213: 1398594954298918373
+    second: video-iogurte_22
+  - first:
+      213: -2408231920111351608
+    second: video-iogurte_23
+  - first:
+      213: 3452555105924886684
+    second: video-iogurte_24
+  - first:
+      213: 254848543957118821
+    second: video-iogurte_25
+  - first:
+      213: 5661749081597077953
+    second: video-iogurte_26
+  - first:
+      213: 367621512839286461
+    second: video-iogurte_27
+  - first:
+      213: -2190689077427628542
+    second: video-iogurte_28
+  - first:
+      213: 204461780962777298
+    second: video-iogurte_29
+  - first:
+      213: 2970265161672971762
+    second: video-iogurte_30
+  - first:
+      213: -7045064644242446318
+    second: video-iogurte_31
+  - first:
+      213: -959197664605776837
+    second: video-iogurte_32
+  - first:
+      213: -3938655400809542642
+    second: video-iogurte_33
+  - first:
+      213: -124735071496194113
+    second: video-iogurte_34
+  - first:
+      213: -3570784850444016836
+    second: video-iogurte_35
+  - first:
+      213: -7523560783138928682
+    second: video-iogurte_36
+  - first:
+      213: 2853450560496807670
+    second: video-iogurte_37
+  - first:
+      213: -4992029817607387806
+    second: video-iogurte_38
+  - first:
+      213: 3197851852721202536
+    second: video-iogurte_39
+  - first:
+      213: 7294232838591516
+    second: video-iogurte_40
+  - first:
+      213: -2197496134731667590
+    second: video-iogurte_41
+  - first:
+      213: -1789010124285588467
+    second: video-iogurte_42
+  - first:
+      213: -8147528605669230411
+    second: video-iogurte_43
+  - first:
+      213: -9068590430639877142
+    second: video-iogurte_44
+  - first:
+      213: -7218821999437436480
+    second: video-iogurte_45
+  - first:
+      213: 4795998129892252676
+    second: video-iogurte_46
+  - first:
+      213: -1296194709905048797
+    second: video-iogurte_47
+  - first:
+      213: -4631954050023944049
+    second: video-iogurte_48
+  - first:
+      213: -7078288813089643799
+    second: video-iogurte_49
+  - first:
+      213: -3189313550748231299
+    second: video-iogurte_50
+  - first:
+      213: -3904556000215346249
+    second: video-iogurte_51
+  - first:
+      213: -6520352675296027663
+    second: video-iogurte_52
+  - first:
+      213: 8055816166550779123
+    second: video-iogurte_53
+  - first:
+      213: -8032798859624887953
+    second: video-iogurte_54
+  - first:
+      213: 8651772932490926603
+    second: video-iogurte_55
+  - first:
+      213: 5049914557255710707
+    second: video-iogurte_56
+  - first:
+      213: -8873531985852159147
+    second: video-iogurte_57
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: video-iogurte
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3566
+        width: 645
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1114c85cc7156520800000000000000
+      internalID: 2694586118481121567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-iogurte_1
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 3566
+        width: 646
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe4f598e1bd77af0800000000000000
+      internalID: -398609117798772999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-iogurte_2
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 3566
+        width: 644
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898a9810f2515ee30800000000000000
+      internalID: 4532051891651717272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-iogurte_3
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 3566
+        width: 646
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8285dee1bdd071410800000000000000
+      internalID: 1447641039990773800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-iogurte_4
+      rect:
+        serializedVersion: 2
+        x: 2602
+        y: 3566
+        width: 645
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2c99cc8425d25f0800000000000000
+      internalID: -779876687841475897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-iogurte_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3243
+        width: 645
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca08aeb4b38a0ad70800000000000000
+      internalID: 9052420223644893356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-iogurte_6
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 3243
+        width: 646
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bddb810d212696230800000000000000
+      internalID: 3632542407391231451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-iogurte_7
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 3243
+        width: 644
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3162f57eb5e8790800000000000000
+      internalID: -7525976877997616163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-iogurte_8
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 3243
+        width: 646
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c896424fcb466cae0800000000000000
+      internalID: -1529424260733048436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-iogurte_9
+      rect:
+        serializedVersion: 2
+        x: 2602
+        y: 3243
+        width: 645
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5beca9b915ab3350800000000000000
+      internalID: 5997568858681830235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-iogurte_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2919
+        width: 645
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3db15a72762e9ca0800000000000000
+      internalID: -6008322579745358533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-iogurte_11
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 2919
+        width: 646
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4327ba98222f50100800000000000000
+      internalID: 73731199074005556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-iogurte_12
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 2919
+        width: 644
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af53165cf6fa04d0800000000000000
+      internalID: -3167447824265420896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-iogurte_13
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 2919
+        width: 646
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894948e9e9db60320800000000000000
+      internalID: 2523913130149713048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-iogurte_14
+      rect:
+        serializedVersion: 2
+        x: 2602
+        y: 2919
+        width: 645
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cecec1119b618cd20800000000000000
+      internalID: 3298911711160757484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-iogurte_15
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2594
+        width: 645
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2b6e526536ada30800000000000000
+      internalID: 4240811220776956618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-iogurte_16
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 2594
+        width: 646
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9ad7f141ad90650800000000000000
+      internalID: 6199726142014728672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-iogurte_17
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 2594
+        width: 644
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6a9b360d3764640800000000000000
+      internalID: 5063862169888204464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-iogurte_18
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 2594
+        width: 646
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199bbdcdbe849ab10800000000000000
+      internalID: 1993204487948056977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-iogurte_19
+      rect:
+        serializedVersion: 2
+        x: 2602
+        y: 2594
+        width: 645
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260185946aab46bf0800000000000000
+      internalID: -331935249160728478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-iogurte_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2271
+        width: 645
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d847e4f60d318e920800000000000000
+      internalID: 3019685336093455501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-iogurte_21
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 2271
+        width: 646
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29116aab4d87bb430800000000000000
+      internalID: 3799763565676990866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-iogurte_22
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 2271
+        width: 644
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e504ab63bec86310800000000000000
+      internalID: 1398594954298918373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-iogurte_23
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 2271
+        width: 646
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c88109f3dd349ed0800000000000000
+      internalID: -2408231920111351608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-iogurte_24
+      rect:
+        serializedVersion: 2
+        x: 2602
+        y: 2271
+        width: 645
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c903d109390f9ef20800000000000000
+      internalID: 3452555105924886684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-iogurte_25
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1947
+        width: 645
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fe6168667698300800000000000000
+      internalID: 254848543957118821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-iogurte_26
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1947
+        width: 646
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9ecffdac2929e40800000000000000
+      internalID: 5661749081597077953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-iogurte_27
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 1947
+        width: 644
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbec39471dd0a1500800000000000000
+      internalID: 367621512839286461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-iogurte_28
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 1947
+        width: 646
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206199e04eb1991e0800000000000000
+      internalID: -2190689077427628542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-iogurte_29
+      rect:
+        serializedVersion: 2
+        x: 2602
+        y: 1947
+        width: 645
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d81e6018e466d200800000000000000
+      internalID: 204461780962777298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-iogurte_30
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1622
+        width: 645
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f55c3a6d60883920800000000000000
+      internalID: 2970265161672971762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-iogurte_31
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1622
+        width: 646
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218e34c4807ea3e90800000000000000
+      internalID: -7045064644242446318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-iogurte_32
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 1622
+        width: 644
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34d9cb5ece30b2f0800000000000000
+      internalID: -959197664605776837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-iogurte_33
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 1622
+        width: 646
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0cc216e7c51759c0800000000000000
+      internalID: -3938655400809542642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-iogurte_34
+      rect:
+        serializedVersion: 2
+        x: 2602
+        y: 1622
+        width: 645
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7bf640d1ad44ef0800000000000000
+      internalID: -124735071496194113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-iogurte_35
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1299
+        width: 645
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3320fbe816027ec0800000000000000
+      internalID: -3570784850444016836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-iogurte_36
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1299
+        width: 646
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7c1fa4451f69790800000000000000
+      internalID: -7523560783138928682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-iogurte_37
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 1299
+        width: 644
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe2d82aa2e799720800000000000000
+      internalID: 2853450560496807670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-iogurte_38
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 1299
+        width: 646
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2658a5d645fb8bab0800000000000000
+      internalID: -4992029817607387806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-iogurte_39
+      rect:
+        serializedVersion: 2
+        x: 2602
+        y: 1299
+        width: 645
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865a5cd215d016c20800000000000000
+      internalID: 3197851852721202536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-iogurte_40
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 975
+        width: 645
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14d04de01ae91000800000000000000
+      internalID: 7294232838591516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-iogurte_41
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 975
+        width: 646
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77660688ece081e0800000000000000
+      internalID: -2197496134731667590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-iogurte_42
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 975
+        width: 644
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c416245c82c27e0800000000000000
+      internalID: -1789010124285588467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-iogurte_43
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 975
+        width: 646
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b870cd86e92eee80800000000000000
+      internalID: -8147528605669230411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-iogurte_44
+      rect:
+        serializedVersion: 2
+        x: 2602
+        y: 975
+        width: 645
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae314300d05e52280800000000000000
+      internalID: -9068590430639877142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-iogurte_45
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 650
+        width: 645
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9a1c273a791db90800000000000000
+      internalID: -7218821999437436480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-iogurte_46
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 650
+        width: 646
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c5aab83eece8240800000000000000
+      internalID: 4795998129892252676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-iogurte_47
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 650
+        width: 644
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b7e5467cdf20ee0800000000000000
+      internalID: -1296194709905048797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-iogurte_48
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 650
+        width: 646
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f801468255ef7bfb0800000000000000
+      internalID: -4631954050023944049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-iogurte_49
+      rect:
+        serializedVersion: 2
+        x: 2602
+        y: 650
+        width: 645
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2ab2ea3ddd4cd90800000000000000
+      internalID: -7078288813089643799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-iogurte_50
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 327
+        width: 645
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79df4a29384db3d0800000000000000
+      internalID: -3189313550748231299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-iogurte_51
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 327
+        width: 646
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b35b89410b30d9c0800000000000000
+      internalID: -3904556000215346249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-iogurte_52
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 327
+        width: 644
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb56b2c9cd0385a0800000000000000
+      internalID: -6520352675296027663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-iogurte_53
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 327
+        width: 646
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4bb173f120ccf60800000000000000
+      internalID: 8055816166550779123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-iogurte_54
+      rect:
+        serializedVersion: 2
+        x: 2602
+        y: 327
+        width: 645
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6945eb2ff3c58090800000000000000
+      internalID: -8032798859624887953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-iogurte_55
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 645
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a167e94a5411870800000000000000
+      internalID: 8651772932490926603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-iogurte_56
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 3
+        width: 646
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7fc43c886e41640800000000000000
+      internalID: 5049914557255710707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-iogurte_57
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 3
+        width: 644
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b27304ca1ead480800000000000000
+      internalID: -8873531985852159147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4076 @@
+fileFormatVersion: 2
+guid: e9a7e221c872b712cb3b447ca40fea6a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4729023687401333842
+    second: 7 Ajuda atv2_0
+  - first:
+      213: 7103449015758091309
+    second: 7 Ajuda atv2_1
+  - first:
+      213: 918947008981891896
+    second: 7 Ajuda atv2_2
+  - first:
+      213: -734600348970272825
+    second: 7 Ajuda atv2_3
+  - first:
+      213: -5643366426258203135
+    second: 7 Ajuda atv2_4
+  - first:
+      213: -505504237455171870
+    second: 7 Ajuda atv2_5
+  - first:
+      213: -1486468304110397023
+    second: 7 Ajuda atv2_6
+  - first:
+      213: 738805878001713937
+    second: 7 Ajuda atv2_7
+  - first:
+      213: -3955808512560705950
+    second: 7 Ajuda atv2_8
+  - first:
+      213: -2333351460446340588
+    second: 7 Ajuda atv2_9
+  - first:
+      213: 8221779344918730194
+    second: 7 Ajuda atv2_10
+  - first:
+      213: -8264571001752103531
+    second: 7 Ajuda atv2_11
+  - first:
+      213: 3706349238308804852
+    second: 7 Ajuda atv2_12
+  - first:
+      213: 4998922882981578277
+    second: 7 Ajuda atv2_13
+  - first:
+      213: -2044480404489732125
+    second: 7 Ajuda atv2_14
+  - first:
+      213: 7230875543656427433
+    second: 7 Ajuda atv2_15
+  - first:
+      213: -183534346832603456
+    second: 7 Ajuda atv2_16
+  - first:
+      213: -8964874695723496082
+    second: 7 Ajuda atv2_17
+  - first:
+      213: -6098468081368956120
+    second: 7 Ajuda atv2_18
+  - first:
+      213: 1258543035337100992
+    second: 7 Ajuda atv2_19
+  - first:
+      213: 1158394316293793386
+    second: 7 Ajuda atv2_20
+  - first:
+      213: 1816193573459426707
+    second: 7 Ajuda atv2_21
+  - first:
+      213: -183282560417222941
+    second: 7 Ajuda atv2_22
+  - first:
+      213: 6974450143787671595
+    second: 7 Ajuda atv2_23
+  - first:
+      213: 6632125247001195617
+    second: 7 Ajuda atv2_24
+  - first:
+      213: 3139891673872111463
+    second: 7 Ajuda atv2_25
+  - first:
+      213: 8908483195676850065
+    second: 7 Ajuda atv2_26
+  - first:
+      213: -6454965442638367484
+    second: 7 Ajuda atv2_27
+  - first:
+      213: -6154325449358856042
+    second: 7 Ajuda atv2_28
+  - first:
+      213: 859779548715793509
+    second: 7 Ajuda atv2_29
+  - first:
+      213: 1635663592501957392
+    second: 7 Ajuda atv2_30
+  - first:
+      213: -1871700658129188996
+    second: 7 Ajuda atv2_31
+  - first:
+      213: 3986412140107722885
+    second: 7 Ajuda atv2_32
+  - first:
+      213: -7838096075647914864
+    second: 7 Ajuda atv2_33
+  - first:
+      213: -5026557810510621290
+    second: 7 Ajuda atv2_34
+  - first:
+      213: -2857884158715333002
+    second: 7 Ajuda atv2_35
+  - first:
+      213: -983668182397041176
+    second: 7 Ajuda atv2_36
+  - first:
+      213: 368128003514033297
+    second: 7 Ajuda atv2_37
+  - first:
+      213: -2672335871941567187
+    second: 7 Ajuda atv2_38
+  - first:
+      213: 3465100356684524080
+    second: 7 Ajuda atv2_39
+  - first:
+      213: -1479175963070343636
+    second: 7 Ajuda atv2_40
+  - first:
+      213: 1481790402277112827
+    second: 7 Ajuda atv2_41
+  - first:
+      213: 4205760583986510500
+    second: 7 Ajuda atv2_42
+  - first:
+      213: -5322894016457114298
+    second: 7 Ajuda atv2_43
+  - first:
+      213: -6936838357326282722
+    second: 7 Ajuda atv2_44
+  - first:
+      213: -133774580885123779
+    second: 7 Ajuda atv2_45
+  - first:
+      213: -8179985542683304035
+    second: 7 Ajuda atv2_46
+  - first:
+      213: 1224486416709299524
+    second: 7 Ajuda atv2_47
+  - first:
+      213: 2256151067322193462
+    second: 7 Ajuda atv2_48
+  - first:
+      213: -7964001350842800925
+    second: 7 Ajuda atv2_49
+  - first:
+      213: -6531369083774673525
+    second: 7 Ajuda atv2_50
+  - first:
+      213: 6880917328888130896
+    second: 7 Ajuda atv2_51
+  - first:
+      213: -2510430163474644893
+    second: 7 Ajuda atv2_52
+  - first:
+      213: 8020709111277483847
+    second: 7 Ajuda atv2_53
+  - first:
+      213: -4195602351388464853
+    second: 7 Ajuda atv2_54
+  - first:
+      213: 7299028993244453318
+    second: 7 Ajuda atv2_55
+  - first:
+      213: -7537409162201260347
+    second: 7 Ajuda atv2_56
+  - first:
+      213: -712057153202203613
+    second: 7 Ajuda atv2_57
+  - first:
+      213: 820834044925273596
+    second: 7 Ajuda atv2_58
+  - first:
+      213: 289424741127456973
+    second: 7 Ajuda atv2_59
+  - first:
+      213: -8541753667180194294
+    second: 7 Ajuda atv2_60
+  - first:
+      213: 957611320453249294
+    second: 7 Ajuda atv2_61
+  - first:
+      213: 1448613307983424790
+    second: 7 Ajuda atv2_62
+  - first:
+      213: -7396588436369238300
+    second: 7 Ajuda atv2_63
+  - first:
+      213: 6648575351685189999
+    second: 7 Ajuda atv2_64
+  - first:
+      213: 1576527574061269433
+    second: 7 Ajuda atv2_65
+  - first:
+      213: 6905567511055459197
+    second: 7 Ajuda atv2_66
+  - first:
+      213: -420595699050970820
+    second: 7 Ajuda atv2_67
+  - first:
+      213: -7307410680340222654
+    second: 7 Ajuda atv2_68
+  - first:
+      213: 6815210802668251299
+    second: 7 Ajuda atv2_69
+  - first:
+      213: -2361046981917931905
+    second: 7 Ajuda atv2_70
+  - first:
+      213: -6860905959123351693
+    second: 7 Ajuda atv2_71
+  - first:
+      213: -2541944512761131634
+    second: 7 Ajuda atv2_72
+  - first:
+      213: 7494635429445995314
+    second: 7 Ajuda atv2_73
+  - first:
+      213: -2094821431418462006
+    second: 7 Ajuda atv2_74
+  - first:
+      213: 1119319357841450622
+    second: 7 Ajuda atv2_75
+  - first:
+      213: -3134181071027838751
+    second: 7 Ajuda atv2_76
+  - first:
+      213: 9078312682367488135
+    second: 7 Ajuda atv2_77
+  - first:
+      213: 1445824946602178011
+    second: 7 Ajuda atv2_78
+  - first:
+      213: -7739282411992840418
+    second: 7 Ajuda atv2_79
+  - first:
+      213: -34698679013269491
+    second: 7 Ajuda atv2_80
+  - first:
+      213: 1308966551022464760
+    second: 7 Ajuda atv2_81
+  - first:
+      213: -7906695967048732768
+    second: 7 Ajuda atv2_82
+  - first:
+      213: -6648770918128384087
+    second: 7 Ajuda atv2_83
+  - first:
+      213: -8176286432572890992
+    second: 7 Ajuda atv2_84
+  - first:
+      213: 2191428851272565468
+    second: 7 Ajuda atv2_85
+  - first:
+      213: 1081867662207504025
+    second: 7 Ajuda atv2_86
+  - first:
+      213: 803438761954931994
+    second: 7 Ajuda atv2_87
+  - first:
+      213: -422551400375004974
+    second: 7 Ajuda atv2_88
+  - first:
+      213: -7296140243681625949
+    second: 7 Ajuda atv2_89
+  - first:
+      213: 4200166415446470446
+    second: 7 Ajuda atv2_90
+  - first:
+      213: 5947834175920222407
+    second: 7 Ajuda atv2_91
+  - first:
+      213: -6063684629826148789
+    second: 7 Ajuda atv2_92
+  - first:
+      213: -5298506079138103363
+    second: 7 Ajuda atv2_93
+  - first:
+      213: -5314799300194326053
+    second: 7 Ajuda atv2_94
+  - first:
+      213: -93734094726022542
+    second: 7 Ajuda atv2_95
+  - first:
+      213: -978491024443851239
+    second: 7 Ajuda atv2_96
+  - first:
+      213: 1867751413191815661
+    second: 7 Ajuda atv2_97
+  - first:
+      213: 6655075834727775170
+    second: 7 Ajuda atv2_98
+  - first:
+      213: 221328511001428275
+    second: 7 Ajuda atv2_99
+  - first:
+      213: 4066378888134898663
+    second: 7 Ajuda atv2_100
+  - first:
+      213: -5325339371272471358
+    second: 7 Ajuda atv2_101
+  - first:
+      213: 8591474068410265692
+    second: 7 Ajuda atv2_102
+  - first:
+      213: -8032830739798506369
+    second: 7 Ajuda atv2_103
+  - first:
+      213: -2419095762571874369
+    second: 7 Ajuda atv2_104
+  - first:
+      213: 4505859989375402917
+    second: 7 Ajuda atv2_105
+  - first:
+      213: -3214869890393058702
+    second: 7 Ajuda atv2_106
+  - first:
+      213: -809179903497561235
+    second: 7 Ajuda atv2_107
+  - first:
+      213: 2794448350256901005
+    second: 7 Ajuda atv2_108
+  - first:
+      213: -5711311742630339956
+    second: 7 Ajuda atv2_109
+  - first:
+      213: -5597024332517792222
+    second: 7 Ajuda atv2_110
+  - first:
+      213: -3096776239865059112
+    second: 7 Ajuda atv2_111
+  - first:
+      213: 4086250505543543186
+    second: 7 Ajuda atv2_112
+  - first:
+      213: -510253070286433339
+    second: 7 Ajuda atv2_113
+  - first:
+      213: -1863509029180080409
+    second: 7 Ajuda atv2_114
+  - first:
+      213: 627131813175317417
+    second: 7 Ajuda atv2_115
+  - first:
+      213: 6182350526809219519
+    second: 7 Ajuda atv2_116
+  - first:
+      213: -4326692610288628522
+    second: 7 Ajuda atv2_117
+  - first:
+      213: 4660295269937275714
+    second: 7 Ajuda atv2_118
+  - first:
+      213: -9119892130876110272
+    second: 7 Ajuda atv2_119
+  - first:
+      213: 7772404782874339350
+    second: 7 Ajuda atv2_120
+  - first:
+      213: -6545312352283961493
+    second: 7 Ajuda atv2_121
+  - first:
+      213: -625227245434839719
+    second: 7 Ajuda atv2_122
+  - first:
+      213: -8538725635755265624
+    second: 7 Ajuda atv2_123
+  - first:
+      213: -3406105423341972667
+    second: 7 Ajuda atv2_124
+  - first:
+      213: -5095579697117632484
+    second: 7 Ajuda atv2_125
+  - first:
+      213: -2559657990301165531
+    second: 7 Ajuda atv2_126
+  - first:
+      213: 8357453917667766481
+    second: 7 Ajuda atv2_127
+  - first:
+      213: 7662320008340321653
+    second: 7 Ajuda atv2_128
+  - first:
+      213: 281110154578258582
+    second: 7 Ajuda atv2_129
+  - first:
+      213: -2298055129877793739
+    second: 7 Ajuda atv2_130
+  - first:
+      213: -494671585480803218
+    second: 7 Ajuda atv2_131
+  - first:
+      213: -1852205100355291924
+    second: 7 Ajuda atv2_132
+  - first:
+      213: -238679765390557728
+    second: 7 Ajuda atv2_133
+  - first:
+      213: -5616271600785961666
+    second: 7 Ajuda atv2_134
+  - first:
+      213: -6908269883176337793
+    second: 7 Ajuda atv2_135
+  - first:
+      213: 7675955138239619101
+    second: 7 Ajuda atv2_136
+  - first:
+      213: 3437064199822565755
+    second: 7 Ajuda atv2_137
+  - first:
+      213: -2957511671093769814
+    second: 7 Ajuda atv2_138
+  - first:
+      213: 5320466939614941046
+    second: 7 Ajuda atv2_139
+  - first:
+      213: -7859380764674259121
+    second: 7 Ajuda atv2_140
+  - first:
+      213: -6337726311419893498
+    second: 7 Ajuda atv2_141
+  - first:
+      213: -2814127825666053743
+    second: 7 Ajuda atv2_142
+  - first:
+      213: -8951615986344893642
+    second: 7 Ajuda atv2_143
+  - first:
+      213: 5591782297493229299
+    second: 7 Ajuda atv2_144
+  - first:
+      213: -3976771859216899239
+    second: 7 Ajuda atv2_145
+  - first:
+      213: -1265222146738936414
+    second: 7 Ajuda atv2_146
+  - first:
+      213: 1996933360852449786
+    second: 7 Ajuda atv2_147
+  - first:
+      213: 1655326984409659014
+    second: 7 Ajuda atv2_148
+  - first:
+      213: 7342236441578664637
+    second: 7 Ajuda atv2_149
+  - first:
+      213: 356379945795493751
+    second: 7 Ajuda atv2_150
+  - first:
+      213: 8794610223689824460
+    second: 7 Ajuda atv2_151
+  - first:
+      213: -650239778112072208
+    second: 7 Ajuda atv2_152
+  - first:
+      213: -5969272473093977148
+    second: 7 Ajuda atv2_153
+  - first:
+      213: -4583446566927745697
+    second: 7 Ajuda atv2_154
+  - first:
+      213: -1635430546005461680
+    second: 7 Ajuda atv2_155
+  - first:
+      213: 2468558593657984605
+    second: 7 Ajuda atv2_156
+  - first:
+      213: -7178531832235702833
+    second: 7 Ajuda atv2_157
+  - first:
+      213: -970884481558735005
+    second: 7 Ajuda atv2_158
+  - first:
+      213: -6619049605685667888
+    second: 7 Ajuda atv2_159
+  - first:
+      213: -3838420615171282916
+    second: 7 Ajuda atv2_160
+  - first:
+      213: 6835486434901034960
+    second: 7 Ajuda atv2_161
+  - first:
+      213: 6821782002961783543
+    second: 7 Ajuda atv2_162
+  - first:
+      213: 4725340289635824642
+    second: 7 Ajuda atv2_163
+  - first:
+      213: 867960728737850566
+    second: 7 Ajuda atv2_164
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 7524
+        width: 609
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254e6fdfcfdd0a140800000000000000
+      internalID: 4729023687401333842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_1
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 7524
+        width: 609
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24fb508e35849260800000000000000
+      internalID: 7103449015758091309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_2
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 7524
+        width: 608
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83bf5c59f61c0cc00800000000000000
+      internalID: 918947008981891896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_3
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 7524
+        width: 612
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7bfbbefdc2ec5f0800000000000000
+      internalID: -734600348970272825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_4
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 7524
+        width: 612
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e9389922cbea1b0800000000000000
+      internalID: -5643366426258203135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_5
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 7524
+        width: 612
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee970603961cf8f0800000000000000
+      internalID: -505504237455171870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_6
+      rect:
+        serializedVersion: 2
+        x: 3724
+        y: 7524
+        width: 612
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a95f9bf3f00f5be0800000000000000
+      internalID: -1486468304110397023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_7
+      rect:
+        serializedVersion: 2
+        x: 4345
+        y: 7524
+        width: 608
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113434c1804c04a00800000000000000
+      internalID: 738805878001713937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_8
+      rect:
+        serializedVersion: 2
+        x: 4965
+        y: 7524
+        width: 609
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e4a59dd152a19c0800000000000000
+      internalID: -3955808512560705950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_9
+      rect:
+        serializedVersion: 2
+        x: 5585
+        y: 7524
+        width: 609
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41af4f795354e9fd0800000000000000
+      internalID: -2333351460446340588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 7056
+        width: 609
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5568bd0c0a91270800000000000000
+      internalID: 8221779344918730194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_11
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 7056
+        width: 609
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595529326785e4d80800000000000000
+      internalID: -8264571001752103531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_12
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 7056
+        width: 608
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f89fe2cef89f6330800000000000000
+      internalID: 3706349238308804852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_13
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 7056
+        width: 612
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52640bb60edbf5540800000000000000
+      internalID: 4998922882981578277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_14
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 7056
+        width: 612
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef742c77eb80a3e0800000000000000
+      internalID: -2044480404489732125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_15
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 7056
+        width: 612
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af63b20ffa395460800000000000000
+      internalID: 7230875543656427433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_16
+      rect:
+        serializedVersion: 2
+        x: 3724
+        y: 7056
+        width: 612
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c695f4eb74f37df0800000000000000
+      internalID: -183534346832603456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_17
+      rect:
+        serializedVersion: 2
+        x: 4345
+        y: 7056
+        width: 608
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d438156fd569380800000000000000
+      internalID: -8964874695723496082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_18
+      rect:
+        serializedVersion: 2
+        x: 4965
+        y: 7056
+        width: 609
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82302ff4793ed5ba0800000000000000
+      internalID: -6098468081368956120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_19
+      rect:
+        serializedVersion: 2
+        x: 5585
+        y: 7056
+        width: 609
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce4fcbf83e377110800000000000000
+      internalID: 1258543035337100992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 6584
+        width: 609
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66e5844e71731010800000000000000
+      internalID: 1158394316293793386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_21
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 6584
+        width: 609
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d7565be6a643910800000000000000
+      internalID: 1816193573459426707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_22
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 6584
+        width: 608
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eeaecc7b79d47df0800000000000000
+      internalID: -183282560417222941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_23
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 6584
+        width: 612
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20e22c14793ac060800000000000000
+      internalID: 6974450143787671595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_24
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 6584
+        width: 612
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164f76d06ca0a0c50800000000000000
+      internalID: 6632125247001195617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_25
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 6584
+        width: 612
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7679a5e67d2239b20800000000000000
+      internalID: 3139891673872111463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_26
+      rect:
+        serializedVersion: 2
+        x: 3724
+        y: 6584
+        width: 612
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197fadd644a41ab70800000000000000
+      internalID: 8908483195676850065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_27
+      rect:
+        serializedVersion: 2
+        x: 4345
+        y: 6584
+        width: 608
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4053e1a312b5b66a0800000000000000
+      internalID: -6454965442638367484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_28
+      rect:
+        serializedVersion: 2
+        x: 4965
+        y: 6584
+        width: 609
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690b1de5c91779aa0800000000000000
+      internalID: -6154325449358856042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_29
+      rect:
+        serializedVersion: 2
+        x: 5585
+        y: 6584
+        width: 609
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cb95ab1fc8eeb00800000000000000
+      internalID: 859779548715793509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_30
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 6115
+        width: 609
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0135e1b0f5b03b610800000000000000
+      internalID: 1635663592501957392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_31
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 6115
+        width: 609
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77485a0b226606e0800000000000000
+      internalID: -1871700658129188996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_32
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 6115
+        width: 608
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580fc6378b4925730800000000000000
+      internalID: 3986412140107722885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_33
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 6115
+        width: 612
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c6f9fa52d793390800000000000000
+      internalID: -7838096075647914864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_34
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 6115
+        width: 612
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6959c8d9d441e3ab0800000000000000
+      internalID: -5026557810510621290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_35
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 6115
+        width: 612
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6767e86df71c658d0800000000000000
+      internalID: -2857884158715333002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_36
+      rect:
+        serializedVersion: 2
+        x: 3724
+        y: 6115
+        width: 612
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5ce53fffe4952f0800000000000000
+      internalID: -983668182397041176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_37
+      rect:
+        serializedVersion: 2
+        x: 4345
+        y: 6115
+        width: 608
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194e351087adb1500800000000000000
+      internalID: 368128003514033297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_38
+      rect:
+        serializedVersion: 2
+        x: 4965
+        y: 6115
+        width: 609
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d9360eea4f9ead0800000000000000
+      internalID: -2672335871941567187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_39
+      rect:
+        serializedVersion: 2
+        x: 5585
+        y: 6115
+        width: 609
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03aa24f5a62861030800000000000000
+      internalID: 3465100356684524080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_40
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 5644
+        width: 609
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2655e07c49e87be0800000000000000
+      internalID: -1479175963070343636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_41
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 5644
+        width: 609
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb7f4f1580609410800000000000000
+      internalID: 1481790402277112827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_42
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 5644
+        width: 608
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aafad2d7fcdd5a30800000000000000
+      internalID: 4205760583986510500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_43
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 5644
+        width: 612
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d750c08184126b0800000000000000
+      internalID: -5322894016457114298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_44
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 5644
+        width: 612
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10434754466bbf90800000000000000
+      internalID: -6936838357326282722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_45
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 5644
+        width: 612
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d8d5a3abcb42ef0800000000000000
+      internalID: -133774580885123779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_46
+      rect:
+        serializedVersion: 2
+        x: 3724
+        y: 5644
+        width: 612
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9fd7840d7ada7e80800000000000000
+      internalID: -8179985542683304035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_47
+      rect:
+        serializedVersion: 2
+        x: 4345
+        y: 5644
+        width: 608
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44daf3c88ef3ef010800000000000000
+      internalID: 1224486416709299524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_48
+      rect:
+        serializedVersion: 2
+        x: 4965
+        y: 5644
+        width: 609
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6369b5f21757f4f10800000000000000
+      internalID: 2256151067322193462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_49
+      rect:
+        serializedVersion: 2
+        x: 5585
+        y: 5644
+        width: 609
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4a84c67fe2a7190800000000000000
+      internalID: -7964001350842800925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_50
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 5175
+        width: 609
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d54a84c6aeb55a0800000000000000
+      internalID: -6531369083774673525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_51
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 5175
+        width: 609
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05de43d9added7f50800000000000000
+      internalID: 6880917328888130896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_52
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 5175
+        width: 608
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3600ba03119292dd0800000000000000
+      internalID: -2510430163474644893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_53
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 5175
+        width: 612
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747fe60f0784f4f60800000000000000
+      internalID: 8020709111277483847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_54
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 5175
+        width: 612
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2962b204e936c5c0800000000000000
+      internalID: -4195602351388464853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_55
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 5175
+        width: 612
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9dc9b823c5b4560800000000000000
+      internalID: 7299028993244453318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_56
+      rect:
+        serializedVersion: 2
+        x: 3724
+        y: 5175
+        width: 612
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce18384d4eb56790800000000000000
+      internalID: -7537409162201260347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_57
+      rect:
+        serializedVersion: 2
+        x: 4345
+        y: 5175
+        width: 608
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3245b93bac34e16f0800000000000000
+      internalID: -712057153202203613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_58
+      rect:
+        serializedVersion: 2
+        x: 4965
+        y: 5175
+        width: 609
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf561530730346b00800000000000000
+      internalID: 820834044925273596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_59
+      rect:
+        serializedVersion: 2
+        x: 5585
+        y: 5175
+        width: 609
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc88c14c44e340400800000000000000
+      internalID: 289424741127456973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_60
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 4704
+        width: 609
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0695dcbb48957980800000000000000
+      internalID: -8541753667180194294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_61
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 4704
+        width: 609
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09328c1c6e1a4d00800000000000000
+      internalID: 957611320453249294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_62
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 4704
+        width: 608
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d6147e0228a1410800000000000000
+      internalID: 1448613307983424790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_63
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 4704
+        width: 612
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e61374810a0a5990800000000000000
+      internalID: -7396588436369238300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_64
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 4704
+        width: 612
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f611d938e0c744c50800000000000000
+      internalID: 6648575351685189999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_65
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 4704
+        width: 612
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1c78ec973f0e510800000000000000
+      internalID: 1576527574061269433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_66
+      rect:
+        serializedVersion: 2
+        x: 3724
+        y: 4704
+        width: 612
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7360f4601185df50800000000000000
+      internalID: 6905567511055459197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_67
+      rect:
+        serializedVersion: 2
+        x: 4345
+        y: 4704
+        width: 608
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31820ca07eb92af0800000000000000
+      internalID: -420595699050970820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_68
+      rect:
+        serializedVersion: 2
+        x: 4965
+        y: 4704
+        width: 609
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24dec6ad3bcd69a90800000000000000
+      internalID: -7307410680340222654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_69
+      rect:
+        serializedVersion: 2
+        x: 5585
+        y: 4704
+        width: 609
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a82272dd1e749e50800000000000000
+      internalID: 6815210802668251299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_70
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 4235
+        width: 609
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7606c08740eb3fd0800000000000000
+      internalID: -2361046981917931905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_71
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 4235
+        width: 609
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377871d716a29c0a0800000000000000
+      internalID: -6860905959123351693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_72
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 4235
+        width: 608
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d8e16fee239bcd0800000000000000
+      internalID: -2541944512761131634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_73
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 4235
+        width: 612
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b8f2df63b420860800000000000000
+      internalID: 7494635429445995314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_74
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 4235
+        width: 612
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac06d68c103bde2e0800000000000000
+      internalID: -2094821431418462006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_75
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 4235
+        width: 612
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76ab5a860f988f00800000000000000
+      internalID: 1119319357841450622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_76
+      rect:
+        serializedVersion: 2
+        x: 3724
+        y: 4235
+        width: 612
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0e1a7ebe62184d0800000000000000
+      internalID: -3134181071027838751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_77
+      rect:
+        serializedVersion: 2
+        x: 4345
+        y: 4235
+        width: 608
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78010702945acfd70800000000000000
+      internalID: 9078312682367488135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_78
+      rect:
+        serializedVersion: 2
+        x: 4965
+        y: 4235
+        width: 609
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5fe9de02a901410800000000000000
+      internalID: 1445824946602178011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_79
+      rect:
+        serializedVersion: 2
+        x: 5585
+        y: 4235
+        width: 609
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e170db896ab889490800000000000000
+      internalID: -7739282411992840418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_80
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 3765
+        width: 609
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d002d3b3cb9b48ff0800000000000000
+      internalID: -34698679013269491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_81
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 3765
+        width: 609
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8feef8894226a2210800000000000000
+      internalID: 1308966551022464760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_82
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 3765
+        width: 608
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0afeb01d8e5c54290800000000000000
+      internalID: -7906695967048732768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_83
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 3765
+        width: 612
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a78200a312dab3a0800000000000000
+      internalID: -6648770918128384087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_84
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 3765
+        width: 612
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090a5a43fcef78e80800000000000000
+      internalID: -8176286432572890992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_85
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 3765
+        width: 612
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2c4a6fde4896e10800000000000000
+      internalID: 2191428851272565468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_86
+      rect:
+        serializedVersion: 2
+        x: 3724
+        y: 3765
+        width: 612
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e4cd328e0930f00800000000000000
+      internalID: 1081867662207504025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_87
+      rect:
+        serializedVersion: 2
+        x: 4345
+        y: 3765
+        width: 608
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a157a151c43662b00800000000000000
+      internalID: 803438761954931994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_88
+      rect:
+        serializedVersion: 2
+        x: 4965
+        y: 3765
+        width: 609
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0dd497dbbc22af0800000000000000
+      internalID: -422551400375004974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_89
+      rect:
+        serializedVersion: 2
+        x: 5585
+        y: 3765
+        width: 609
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8bcefda17eeba90800000000000000
+      internalID: -7296140243681625949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_90
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 3295
+        width: 609
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f6636f91df94a30800000000000000
+      internalID: 4200166415446470446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_91
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 3295
+        width: 609
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c037a68ba3fa8250800000000000000
+      internalID: 5947834175920222407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_92
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 3295
+        width: 608
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b466739b4f679dba0800000000000000
+      internalID: -6063684629826148789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_93
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 3295
+        width: 612
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfb9b03bcce776b0800000000000000
+      internalID: -5298506079138103363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_94
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 3295
+        width: 612
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd92c6b023a0e36b0800000000000000
+      internalID: -5314799300194326053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_95
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 3295
+        width: 612
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a3384665df2bef0800000000000000
+      internalID: -93734094726022542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_96
+      rect:
+        serializedVersion: 2
+        x: 3724
+        y: 3295
+        width: 612
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ebd18f893bb62f0800000000000000
+      internalID: -978491024443851239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_97
+      rect:
+        serializedVersion: 2
+        x: 4345
+        y: 3295
+        width: 608
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de13808b3069be910800000000000000
+      internalID: 1867751413191815661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_98
+      rect:
+        serializedVersion: 2
+        x: 4965
+        y: 3295
+        width: 609
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb3c3a26349b5c50800000000000000
+      internalID: 6655075834727775170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_99
+      rect:
+        serializedVersion: 2
+        x: 5585
+        y: 3295
+        width: 609
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33108ecab11521300800000000000000
+      internalID: 221328511001428275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_100
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2827
+        width: 609
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3bd6ddd0eae6830800000000000000
+      internalID: 4066378888134898663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_101
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 2827
+        width: 609
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ccf6e28e089816b0800000000000000
+      internalID: -5325339371272471358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_102
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 2827
+        width: 608
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50f298452c0b3770800000000000000
+      internalID: 8591474068410265692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_103
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 2827
+        width: 612
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74c87d7007a58090800000000000000
+      internalID: -8032830739798506369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_104
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 2827
+        width: 612
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf204a8835ad6ed0800000000000000
+      internalID: -2419095762571874369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_105
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 2827
+        width: 612
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3cd5a89c7088e30800000000000000
+      internalID: 4505859989375402917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_106
+      rect:
+        serializedVersion: 2
+        x: 3724
+        y: 2827
+        width: 612
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272d5082edc7263d0800000000000000
+      internalID: -3214869890393058702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_107
+      rect:
+        serializedVersion: 2
+        x: 4345
+        y: 2827
+        width: 608
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b94ac3a2735c4f0800000000000000
+      internalID: -809179903497561235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_108
+      rect:
+        serializedVersion: 2
+        x: 4965
+        y: 2827
+        width: 609
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b2d3c08ffd7c620800000000000000
+      internalID: 2794448350256901005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_109
+      rect:
+        serializedVersion: 2
+        x: 5585
+        y: 2827
+        width: 609
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a500bda385db0b0800000000000000
+      internalID: -5711311742630339956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_110
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2355
+        width: 609
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2262f0d16006352b0800000000000000
+      internalID: -5597024332517792222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_111
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 2355
+        width: 609
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d829f1da6a0605d0800000000000000
+      internalID: -3096776239865059112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_112
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 2355
+        width: 608
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299ee265f2745b830800000000000000
+      internalID: 4086250505543543186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_113
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 2355
+        width: 612
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3560839873be8f0800000000000000
+      internalID: -510253070286433339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_114
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 2355
+        width: 612
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eefcf7496c7326e0800000000000000
+      internalID: -1863509029180080409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_115
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 2355
+        width: 612
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a359a7bf0504b800800000000000000
+      internalID: 627131813175317417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_116
+      rect:
+        serializedVersion: 2
+        x: 3724
+        y: 2355
+        width: 612
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1a9637c0f1cc550800000000000000
+      internalID: 6182350526809219519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_117
+      rect:
+        serializedVersion: 2
+        x: 4345
+        y: 2355
+        width: 608
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc4077aeff74f3c0800000000000000
+      internalID: -4326692610288628522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_118
+      rect:
+        serializedVersion: 2
+        x: 4965
+        y: 2355
+        width: 609
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2436b015bd1bca040800000000000000
+      internalID: 4660295269937275714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_119
+      rect:
+        serializedVersion: 2
+        x: 5585
+        y: 2355
+        width: 609
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04acf3d1d62af6180800000000000000
+      internalID: -9119892130876110272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_120
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1886
+        width: 609
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618a5c558f02ddb60800000000000000
+      internalID: 7772404782874339350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_121
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1886
+        width: 609
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67532a18116a25a0800000000000000
+      internalID: -6545312352283961493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_122
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 1886
+        width: 608
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95dd5f3022fb257f0800000000000000
+      internalID: -625227245434839719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_123
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 1886
+        width: 612
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1394e364a508980800000000000000
+      internalID: -8538725635755265624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_124
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 1886
+        width: 612
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5439b2ee9251bb0d0800000000000000
+      internalID: -3406105423341972667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_125
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 1886
+        width: 612
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c186c94534dd849b0800000000000000
+      internalID: -5095579697117632484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_126
+      rect:
+        serializedVersion: 2
+        x: 3724
+        y: 1886
+        width: 612
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528db959e944a7cd0800000000000000
+      internalID: -2559657990301165531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_127
+      rect:
+        serializedVersion: 2
+        x: 4345
+        y: 1886
+        width: 608
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0b845fe04abf370800000000000000
+      internalID: 8357453917667766481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_128
+      rect:
+        serializedVersion: 2
+        x: 4965
+        y: 1886
+        width: 609
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5753e7c6377065a60800000000000000
+      internalID: 7662320008340321653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_129
+      rect:
+        serializedVersion: 2
+        x: 5585
+        y: 1886
+        width: 609
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a646a3234b6e300800000000000000
+      internalID: 281110154578258582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_130
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1414
+        width: 609
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534be55f80bab10e0800000000000000
+      internalID: -2298055129877793739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_131
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1414
+        width: 609
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cffea50d29229f0800000000000000
+      internalID: -494671585480803218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_132
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 1414
+        width: 608
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4f72e4645ab46e0800000000000000
+      internalID: -1852205100355291924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_133
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 1414
+        width: 612
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed72d8940a00bcf0800000000000000
+      internalID: -238679765390557728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_134
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 1414
+        width: 612
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3dc9014cbefe02b0800000000000000
+      internalID: -5616271600785961666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_135
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 1414
+        width: 612
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ebeb09425e020a0800000000000000
+      internalID: -6908269883176337793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_136
+      rect:
+        serializedVersion: 2
+        x: 3724
+        y: 1414
+        width: 612
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d106b9e7788768a60800000000000000
+      internalID: 7675955138239619101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_137
+      rect:
+        serializedVersion: 2
+        x: 4345
+        y: 1414
+        width: 608
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71e2aceda7e2bf20800000000000000
+      internalID: 3437064199822565755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_138
+      rect:
+        serializedVersion: 2
+        x: 4965
+        y: 1414
+        width: 609
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa942610ecec4f6d0800000000000000
+      internalID: -2957511671093769814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_139
+      rect:
+        serializedVersion: 2
+        x: 5585
+        y: 1414
+        width: 609
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f45f61e7816d940800000000000000
+      internalID: 5320466939614941046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_140
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 946
+        width: 609
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f478d07d5dedde290800000000000000
+      internalID: -7859380764674259121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_141
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 946
+        width: 609
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609ab2c9f7fdb08a0800000000000000
+      internalID: -6337726311419893498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_142
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 946
+        width: 608
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199e1a607a532f8d0800000000000000
+      internalID: -2814127825666053743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_143
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 946
+        width: 612
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633643820b875c380800000000000000
+      internalID: -8951615986344893642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_144
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 946
+        width: 612
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fec66f7f500a9d40800000000000000
+      internalID: 5591782297493229299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_145
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 946
+        width: 612
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9536b9a501bafc8c0800000000000000
+      internalID: -3976771859216899239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_146
+      rect:
+        serializedVersion: 2
+        x: 3724
+        y: 946
+        width: 612
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a52ba53927017ee0800000000000000
+      internalID: -1265222146738936414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_147
+      rect:
+        serializedVersion: 2
+        x: 4345
+        y: 946
+        width: 608
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9bcbdbf4886bb10800000000000000
+      internalID: 1996933360852449786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_148
+      rect:
+        serializedVersion: 2
+        x: 4965
+        y: 946
+        width: 609
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6863bdc3f17e8f610800000000000000
+      internalID: 1655326984409659014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_149
+      rect:
+        serializedVersion: 2
+        x: 5585
+        y: 946
+        width: 609
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2793d842dd4e560800000000000000
+      internalID: 7342236441578664637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_150
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 474
+        width: 609
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f963a2cad12f400800000000000000
+      internalID: 356379945795493751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_151
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 474
+        width: 609
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8fc01176bbc0a70800000000000000
+      internalID: 8794610223689824460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_152
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 474
+        width: 608
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f51dceed52e9f6f0800000000000000
+      internalID: -650239778112072208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_153
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 474
+        width: 612
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb47b1ff42e82da0800000000000000
+      internalID: -5969272473093977148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_154
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 474
+        width: 612
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5db94ba1a35460c0800000000000000
+      internalID: -4583446566927745697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_155
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 474
+        width: 612
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05575825598cd49e0800000000000000
+      internalID: -1635430546005461680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_156
+      rect:
+        serializedVersion: 2
+        x: 3724
+        y: 474
+        width: 612
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56d83246f4124220800000000000000
+      internalID: 2468558593657984605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_157
+      rect:
+        serializedVersion: 2
+        x: 4345
+        y: 474
+        width: 608
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5c1c2055bb06c90800000000000000
+      internalID: -7178531832235702833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_158
+      rect:
+        serializedVersion: 2
+        x: 4965
+        y: 474
+        width: 609
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36790ce35b9b682f0800000000000000
+      internalID: -970884481558735005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_159
+      rect:
+        serializedVersion: 2
+        x: 5585
+        y: 474
+        width: 609
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d79a6ee3796424a0800000000000000
+      internalID: -6619049605685667888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_160
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 6
+        width: 609
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18ed2e89c03bbac0800000000000000
+      internalID: -3838420615171282916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_161
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 6
+        width: 609
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7074352b68cde50800000000000000
+      internalID: 6835486434901034960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_162
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 6
+        width: 608
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa90bd9696dbae50800000000000000
+      internalID: 6821782002961783543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_163
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 6
+        width: 612
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204b59e15f7c39140800000000000000
+      internalID: 4725340289635824642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7 Ajuda atv2_164
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 6
+        width: 612
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4a8632fad9b0c00800000000000000
+      internalID: 867960728737850566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

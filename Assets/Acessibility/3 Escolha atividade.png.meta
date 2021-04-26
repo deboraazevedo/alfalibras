@@ -1,0 +1,1676 @@
+fileFormatVersion: 2
+guid: bb029691e9d6bd121b03b03f874f9b4f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3577857683320088665
+    second: 3 Escolha atividade_0
+  - first:
+      213: 1879185880038287921
+    second: 3 Escolha atividade_1
+  - first:
+      213: 6874014527693814161
+    second: 3 Escolha atividade_2
+  - first:
+      213: 1141646670531583512
+    second: 3 Escolha atividade_3
+  - first:
+      213: 4693771866193316330
+    second: 3 Escolha atividade_4
+  - first:
+      213: -5096324380549277600
+    second: 3 Escolha atividade_5
+  - first:
+      213: 1121504244540215978
+    second: 3 Escolha atividade_6
+  - first:
+      213: 2115847062136717375
+    second: 3 Escolha atividade_7
+  - first:
+      213: -3682730106018476468
+    second: 3 Escolha atividade_8
+  - first:
+      213: -5040154613438489738
+    second: 3 Escolha atividade_9
+  - first:
+      213: -2612555225140516471
+    second: 3 Escolha atividade_10
+  - first:
+      213: -3890952257808889317
+    second: 3 Escolha atividade_11
+  - first:
+      213: 7093383881127007678
+    second: 3 Escolha atividade_12
+  - first:
+      213: -3627543786833404321
+    second: 3 Escolha atividade_13
+  - first:
+      213: 5107332808370961144
+    second: 3 Escolha atividade_14
+  - first:
+      213: -9057168454495970344
+    second: 3 Escolha atividade_15
+  - first:
+      213: -494989291602102854
+    second: 3 Escolha atividade_16
+  - first:
+      213: -752995160428011799
+    second: 3 Escolha atividade_17
+  - first:
+      213: 5672196717355811420
+    second: 3 Escolha atividade_18
+  - first:
+      213: 7088983113515955726
+    second: 3 Escolha atividade_19
+  - first:
+      213: 2444343074342755050
+    second: 3 Escolha atividade_20
+  - first:
+      213: 4706931606393989188
+    second: 3 Escolha atividade_21
+  - first:
+      213: 2353552694287485966
+    second: 3 Escolha atividade_22
+  - first:
+      213: -5740758242891100991
+    second: 3 Escolha atividade_23
+  - first:
+      213: -1831342151586868235
+    second: 3 Escolha atividade_24
+  - first:
+      213: -7142726470714192087
+    second: 3 Escolha atividade_25
+  - first:
+      213: -5451846678522999117
+    second: 3 Escolha atividade_26
+  - first:
+      213: 4310568001095557731
+    second: 3 Escolha atividade_27
+  - first:
+      213: -4069210208090195853
+    second: 3 Escolha atividade_28
+  - first:
+      213: 4588975106501888095
+    second: 3 Escolha atividade_29
+  - first:
+      213: -8074212807106903739
+    second: 3 Escolha atividade_30
+  - first:
+      213: -5747815507042786848
+    second: 3 Escolha atividade_31
+  - first:
+      213: 7052583489812432053
+    second: 3 Escolha atividade_32
+  - first:
+      213: -3422957714727817247
+    second: 3 Escolha atividade_33
+  - first:
+      213: -8277987262619532602
+    second: 3 Escolha atividade_34
+  - first:
+      213: -8756518251203707410
+    second: 3 Escolha atividade_35
+  - first:
+      213: 8155709402788206115
+    second: 3 Escolha atividade_36
+  - first:
+      213: -1209809864573416816
+    second: 3 Escolha atividade_37
+  - first:
+      213: -1474533333533675824
+    second: 3 Escolha atividade_38
+  - first:
+      213: -7979933119893615924
+    second: 3 Escolha atividade_39
+  - first:
+      213: 3993014414013165363
+    second: 3 Escolha atividade_40
+  - first:
+      213: 3740271515598897245
+    second: 3 Escolha atividade_41
+  - first:
+      213: -3839528277142955671
+    second: 3 Escolha atividade_42
+  - first:
+      213: -3473637682845202626
+    second: 3 Escolha atividade_43
+  - first:
+      213: 5798524776240700505
+    second: 3 Escolha atividade_44
+  - first:
+      213: 4518108622889677488
+    second: 3 Escolha atividade_45
+  - first:
+      213: 3442063951389172888
+    second: 3 Escolha atividade_46
+  - first:
+      213: -107383022424792573
+    second: 3 Escolha atividade_47
+  - first:
+      213: -8242946214509617706
+    second: 3 Escolha atividade_48
+  - first:
+      213: -7712957896185579391
+    second: 3 Escolha atividade_49
+  - first:
+      213: 47650776243013834
+    second: 3 Escolha atividade_50
+  - first:
+      213: 7266912121594774445
+    second: 3 Escolha atividade_51
+  - first:
+      213: -214363861777133369
+    second: 3 Escolha atividade_52
+  - first:
+      213: -5882741398803390696
+    second: 3 Escolha atividade_53
+  - first:
+      213: -4871368514184930201
+    second: 3 Escolha atividade_54
+  - first:
+      213: -8220912584557777070
+    second: 3 Escolha atividade_55
+  - first:
+      213: 2741188259453716008
+    second: 3 Escolha atividade_56
+  - first:
+      213: 2701813499388853428
+    second: 3 Escolha atividade_57
+  - first:
+      213: 8956280296969542178
+    second: 3 Escolha atividade_58
+  - first:
+      213: -1579291705063787936
+    second: 3 Escolha atividade_59
+  - first:
+      213: 5011944199897521318
+    second: 3 Escolha atividade_60
+  - first:
+      213: -1950876192213455890
+    second: 3 Escolha atividade_61
+  - first:
+      213: -7045901125406445653
+    second: 3 Escolha atividade_62
+  - first:
+      213: 7333690710702513903
+    second: 3 Escolha atividade_63
+  - first:
+      213: -3302788293652355535
+    second: 3 Escolha atividade_64
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 3 Escolha atividade_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 5646
+        width: 606
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958223f4b9a17a130800000000000000
+      internalID: 3577857683320088665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Escolha atividade_1
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 5646
+        width: 609
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13aac9ef995341a10800000000000000
+      internalID: 1879185880038287921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Escolha atividade_2
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 5646
+        width: 608
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1997018fac7656f50800000000000000
+      internalID: 6874014527693814161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Escolha atividade_3
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 5646
+        width: 609
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81eda002991f7df00800000000000000
+      internalID: 1141646670531583512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Escolha atividade_4
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 5646
+        width: 606
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9cc25c4a0a32140800000000000000
+      internalID: 4693771866193316330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Escolha atividade_5
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 5175
+        width: 606
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06892353af73649b0800000000000000
+      internalID: -5096324380549277600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Escolha atividade_6
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 5175
+        width: 609
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa299ed1b22609f00800000000000000
+      internalID: 1121504244540215978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Escolha atividade_7
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 5175
+        width: 608
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3086b951bffc5d10800000000000000
+      internalID: 2115847062136717375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Escolha atividade_8
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 5175
+        width: 609
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ec1230b7054ecc0800000000000000
+      internalID: -3682730106018476468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Escolha atividade_9
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 5175
+        width: 606
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67bd3fc3516cd0ab0800000000000000
+      internalID: -5040154613438489738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Escolha atividade_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 4706
+        width: 606
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989a8695dd65ebbd0800000000000000
+      internalID: -2612555225140516471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Escolha atividade_11
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 4706
+        width: 609
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a0c43698f800ac0800000000000000
+      internalID: -3890952257808889317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Escolha atividade_12
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 4706
+        width: 608
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb59e0abe03c07260800000000000000
+      internalID: 7093383881127007678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Escolha atividade_13
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 4706
+        width: 609
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e9e9a352068adc0800000000000000
+      internalID: -3627543786833404321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Escolha atividade_14
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 4706
+        width: 606
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa36a02124e0e640800000000000000
+      internalID: 5107332808370961144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Escolha atividade_15
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 4235
+        width: 606
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbd4ee07497e4280800000000000000
+      internalID: -9057168454495970344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Escolha atividade_16
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 4235
+        width: 609
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab53f62acd17129f0800000000000000
+      internalID: -494989291602102854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Escolha atividade_17
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 4235
+        width: 608
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee991124e2dc85f0800000000000000
+      internalID: -752995160428011799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Escolha atividade_18
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 4235
+        width: 609
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c524122acd0b7be40800000000000000
+      internalID: 5672196717355811420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Escolha atividade_19
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 4235
+        width: 606
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e067cdb2590216260800000000000000
+      internalID: 7088983113515955726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Escolha atividade_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3767
+        width: 606
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aead26f431d0ce120800000000000000
+      internalID: 2444343074342755050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Escolha atividade_21
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 3767
+        width: 609
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4482c2d8b51625140800000000000000
+      internalID: 4706931606393989188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Escolha atividade_22
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 3767
+        width: 608
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c4b2fa4bf79a020800000000000000
+      internalID: 2353552694287485966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Escolha atividade_23
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 3767
+        width: 609
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc841f3bcab450b0800000000000000
+      internalID: -5740758242891100991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Escolha atividade_24
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 3767
+        width: 606
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f317781404c596e0800000000000000
+      internalID: -1831342151586868235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Escolha atividade_25
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3295
+        width: 606
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f0d416e10ffdc90800000000000000
+      internalID: -7142726470714192087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Escolha atividade_26
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 3295
+        width: 609
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be4ebcb4562754b0800000000000000
+      internalID: -5451846678522999117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Escolha atividade_27
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 3295
+        width: 608
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362677532c632db30800000000000000
+      internalID: 4310568001095557731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Escolha atividade_28
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 3295
+        width: 609
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378f36610e24787c0800000000000000
+      internalID: -4069210208090195853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Escolha atividade_29
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 3295
+        width: 606
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58c722cb805faf30800000000000000
+      internalID: 4588975106501888095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Escolha atividade_30
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2827
+        width: 606
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541cb7f1b32a2ff80800000000000000
+      internalID: -8074212807106903739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Escolha atividade_31
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 2827
+        width: 609
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1ab34ef38ab30b0800000000000000
+      internalID: -5747815507042786848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Escolha atividade_32
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 2827
+        width: 608
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b40e0b515fcfd160800000000000000
+      internalID: 7052583489812432053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Escolha atividade_33
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 2827
+        width: 609
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef277418163f70d0800000000000000
+      internalID: -3422957714727817247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Escolha atividade_34
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 2827
+        width: 606
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2ca5c717eae1d80800000000000000
+      internalID: -8277987262619532602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Escolha atividade_35
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2355
+        width: 606
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed37c76b099a7680800000000000000
+      internalID: -8756518251203707410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Escolha atividade_36
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 2355
+        width: 609
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3261184bd76ee2170800000000000000
+      internalID: 8155709402788206115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Escolha atividade_37
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 2355
+        width: 608
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a86588654e53fe0800000000000000
+      internalID: -1209809864573416816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Escolha atividade_38
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 2355
+        width: 609
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dea04ddeb7698be0800000000000000
+      internalID: -1474533333533675824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Escolha atividade_39
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 2355
+        width: 606
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccacd516b15914190800000000000000
+      internalID: -7979933119893615924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Escolha atividade_40
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1887
+        width: 606
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33fe44224790a6730800000000000000
+      internalID: 3993014414013165363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Escolha atividade_41
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1887
+        width: 609
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50c8ca602d18e330800000000000000
+      internalID: 3740271515598897245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Escolha atividade_42
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 1887
+        width: 608
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96993d7ef5147bac0800000000000000
+      internalID: -3839528277142955671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Escolha atividade_43
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 1887
+        width: 609
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37c99b7ee82bcfc0800000000000000
+      internalID: -3473637682845202626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Escolha atividade_44
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 1887
+        width: 606
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cd025ef8f787050800000000000000
+      internalID: 5798524776240700505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Escolha atividade_45
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1416
+        width: 606
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2f7f3cadb83be30800000000000000
+      internalID: 4518108622889677488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Escolha atividade_46
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1416
+        width: 609
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894aabc4deaa4cf20800000000000000
+      internalID: 3442063951389172888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Escolha atividade_47
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 1416
+        width: 608
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3026675c5bf728ef0800000000000000
+      internalID: -107383022424792573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Escolha atividade_48
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 1416
+        width: 609
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ddd085471c2b9d80800000000000000
+      internalID: -8242946214509617706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Escolha atividade_49
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 1416
+        width: 606
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188705e88a116f490800000000000000
+      internalID: -7712957896185579391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Escolha atividade_50
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 947
+        width: 606
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac88c37e02a49a000800000000000000
+      internalID: 47650776243013834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Escolha atividade_51
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 947
+        width: 609
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da303a5a21249d460800000000000000
+      internalID: 7266912121594774445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Escolha atividade_52
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 947
+        width: 608
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0d716143d660df0800000000000000
+      internalID: -214363861777133369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Escolha atividade_53
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 947
+        width: 609
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81fd6daaddd4c5ea0800000000000000
+      internalID: -5882741398803390696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Escolha atividade_54
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 947
+        width: 606
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c1cfd552c656cb0800000000000000
+      internalID: -4871368514184930201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Escolha atividade_55
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 476
+        width: 606
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f25e38f8379ed80800000000000000
+      internalID: -8220912584557777070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Escolha atividade_56
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 476
+        width: 609
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826c533d238aa0620800000000000000
+      internalID: 2741188259453716008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Escolha atividade_57
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 476
+        width: 608
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc7d681015ce7520800000000000000
+      internalID: 2701813499388853428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Escolha atividade_58
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 476
+        width: 609
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a13b94a791b4c70800000000000000
+      internalID: 8956280296969542178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Escolha atividade_59
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 476
+        width: 606
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062b3facf8a351ae0800000000000000
+      internalID: -1579291705063787936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Escolha atividade_60
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 7
+        width: 606
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac98f402b00e8540800000000000000
+      internalID: 5011944199897521318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Escolha atividade_61
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 7
+        width: 609
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeba95a70781de4e0800000000000000
+      internalID: -1950876192213455890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Escolha atividade_62
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 7
+        width: 608
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafaf99d14ee73e90800000000000000
+      internalID: -7045901125406445653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Escolha atividade_63
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 7
+        width: 609
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee510888d086c560800000000000000
+      internalID: 7333690710702513903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3 Escolha atividade_64
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 7
+        width: 606
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136688cbb832a22d0800000000000000
+      internalID: -3302788293652355535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

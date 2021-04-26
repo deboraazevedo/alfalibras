@@ -1,0 +1,1676 @@
+fileFormatVersion: 2
+guid: dd26c1d117324e73880586dbf4e45009
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5283916988242716847
+    second: "2 Autentica\xE7ao_0"
+  - first:
+      213: -7897541922149176616
+    second: "2 Autentica\xE7ao_1"
+  - first:
+      213: 7221985083859345766
+    second: "2 Autentica\xE7ao_2"
+  - first:
+      213: 3550746326278408143
+    second: "2 Autentica\xE7ao_3"
+  - first:
+      213: -7856249563903886665
+    second: "2 Autentica\xE7ao_4"
+  - first:
+      213: -1574849610320155092
+    second: "2 Autentica\xE7ao_5"
+  - first:
+      213: 4799056941277480264
+    second: "2 Autentica\xE7ao_6"
+  - first:
+      213: 3121153915378139424
+    second: "2 Autentica\xE7ao_7"
+  - first:
+      213: -6537198636462875470
+    second: "2 Autentica\xE7ao_8"
+  - first:
+      213: -478780550467152674
+    second: "2 Autentica\xE7ao_9"
+  - first:
+      213: -3891966837900979834
+    second: "2 Autentica\xE7ao_10"
+  - first:
+      213: 1450219140857526802
+    second: "2 Autentica\xE7ao_11"
+  - first:
+      213: 1352815147303913404
+    second: "2 Autentica\xE7ao_12"
+  - first:
+      213: 2466363141042321382
+    second: "2 Autentica\xE7ao_13"
+  - first:
+      213: -1465508155483044169
+    second: "2 Autentica\xE7ao_14"
+  - first:
+      213: -100836962458496668
+    second: "2 Autentica\xE7ao_15"
+  - first:
+      213: -7683864357653992561
+    second: "2 Autentica\xE7ao_16"
+  - first:
+      213: -8387072455777639645
+    second: "2 Autentica\xE7ao_17"
+  - first:
+      213: 9029910082858849481
+    second: "2 Autentica\xE7ao_18"
+  - first:
+      213: -7391271452218489231
+    second: "2 Autentica\xE7ao_19"
+  - first:
+      213: -8873511148542713141
+    second: "2 Autentica\xE7ao_20"
+  - first:
+      213: 5300737797781597516
+    second: "2 Autentica\xE7ao_21"
+  - first:
+      213: -3446802834935312933
+    second: "2 Autentica\xE7ao_22"
+  - first:
+      213: -8359908232582005593
+    second: "2 Autentica\xE7ao_23"
+  - first:
+      213: -8586612409002696563
+    second: "2 Autentica\xE7ao_24"
+  - first:
+      213: 9171493959662198964
+    second: "2 Autentica\xE7ao_25"
+  - first:
+      213: 7367009093008923200
+    second: "2 Autentica\xE7ao_26"
+  - first:
+      213: 2070085377846293439
+    second: "2 Autentica\xE7ao_27"
+  - first:
+      213: -6451284600544969575
+    second: "2 Autentica\xE7ao_28"
+  - first:
+      213: 2966896949105681898
+    second: "2 Autentica\xE7ao_29"
+  - first:
+      213: 2581991787575623906
+    second: "2 Autentica\xE7ao_30"
+  - first:
+      213: 2425353194869967744
+    second: "2 Autentica\xE7ao_31"
+  - first:
+      213: -6705668322651619781
+    second: "2 Autentica\xE7ao_32"
+  - first:
+      213: 3101197345059659493
+    second: "2 Autentica\xE7ao_33"
+  - first:
+      213: 4730640709024992153
+    second: "2 Autentica\xE7ao_34"
+  - first:
+      213: -6221241312177601760
+    second: "2 Autentica\xE7ao_35"
+  - first:
+      213: 3122452778407963190
+    second: "2 Autentica\xE7ao_36"
+  - first:
+      213: -416427374261346878
+    second: "2 Autentica\xE7ao_37"
+  - first:
+      213: -4068344784961476849
+    second: "2 Autentica\xE7ao_38"
+  - first:
+      213: 374268325574957264
+    second: "2 Autentica\xE7ao_39"
+  - first:
+      213: 7966603848104040609
+    second: "2 Autentica\xE7ao_40"
+  - first:
+      213: 2412399175978958065
+    second: "2 Autentica\xE7ao_41"
+  - first:
+      213: 1723145501703896767
+    second: "2 Autentica\xE7ao_42"
+  - first:
+      213: 133246780511553405
+    second: "2 Autentica\xE7ao_43"
+  - first:
+      213: -9022685294748552310
+    second: "2 Autentica\xE7ao_44"
+  - first:
+      213: 7168004571184263946
+    second: "2 Autentica\xE7ao_45"
+  - first:
+      213: 1438269821651619669
+    second: "2 Autentica\xE7ao_46"
+  - first:
+      213: -4948888929700621823
+    second: "2 Autentica\xE7ao_47"
+  - first:
+      213: 8201718413243315085
+    second: "2 Autentica\xE7ao_48"
+  - first:
+      213: -8679211362965480145
+    second: "2 Autentica\xE7ao_49"
+  - first:
+      213: -1890948103258927743
+    second: "2 Autentica\xE7ao_50"
+  - first:
+      213: 4583726326127638382
+    second: "2 Autentica\xE7ao_51"
+  - first:
+      213: -91128879526409025
+    second: "2 Autentica\xE7ao_52"
+  - first:
+      213: 1566677916624094641
+    second: "2 Autentica\xE7ao_53"
+  - first:
+      213: 1198974632133205738
+    second: "2 Autentica\xE7ao_54"
+  - first:
+      213: 2959842028381640486
+    second: "2 Autentica\xE7ao_55"
+  - first:
+      213: 7108160908990293550
+    second: "2 Autentica\xE7ao_56"
+  - first:
+      213: -7030850635723842297
+    second: "2 Autentica\xE7ao_57"
+  - first:
+      213: -3718020004309240338
+    second: "2 Autentica\xE7ao_58"
+  - first:
+      213: -1335588324112436280
+    second: "2 Autentica\xE7ao_59"
+  - first:
+      213: 5320886785644192816
+    second: "2 Autentica\xE7ao_60"
+  - first:
+      213: 7381772452094624573
+    second: "2 Autentica\xE7ao_61"
+  - first:
+      213: 3031091297208521949
+    second: "2 Autentica\xE7ao_62"
+  - first:
+      213: 8680527354310897412
+    second: "2 Autentica\xE7ao_63"
+  - first:
+      213: -8416912480022602561
+    second: "2 Autentica\xE7ao_64"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_0"
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 5646
+        width: 606
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8ebd2618e345940800000000000000
+      internalID: 5283916988242716847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_1"
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 5646
+        width: 609
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8daea8bf67b466290800000000000000
+      internalID: -7897541922149176616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_2"
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 5646
+        width: 608
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6612b988b25a93460800000000000000
+      internalID: 7221985083859345766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_3"
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 5646
+        width: 609
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7095998f8c64130800000000000000
+      internalID: 3550746326278408143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_4"
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 5646
+        width: 606
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7baf0b455aef8f290800000000000000
+      internalID: -7856249563903886665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_5"
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 5175
+        width: 606
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e64329f92052ae0800000000000000
+      internalID: -1574849610320155092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_6"
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 5175
+        width: 609
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84587b19cdca99240800000000000000
+      internalID: 4799056941277480264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_7"
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 5175
+        width: 608
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0210f6f03f0905b20800000000000000
+      internalID: 3121153915378139424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_8"
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 5175
+        width: 609
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc5677c9743745a0800000000000000
+      internalID: -6537198636462875470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_9"
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 5175
+        width: 606
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed41a0440a70b59f0800000000000000
+      internalID: -478780550467152674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_10"
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 4706
+        width: 606
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681df4d08c4fcf9c0800000000000000
+      internalID: -3891966837900979834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_11"
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 4706
+        width: 609
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21af84100a6302410800000000000000
+      internalID: 1450219140857526802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_12"
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 4706
+        width: 608
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb741dd753a26c210800000000000000
+      internalID: 1352815147303913404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_13"
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 4706
+        width: 609
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7b1fc95384a3220800000000000000
+      internalID: 2466363141042321382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_14"
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 4706
+        width: 606
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6cef0e81879abe0800000000000000
+      internalID: -1465508155483044169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_15"
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 4235
+        width: 606
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4619e602151c99ef0800000000000000
+      internalID: -100836962458496668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_16"
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 4235
+        width: 609
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8bafbbd31e6d5590800000000000000
+      internalID: -7683864357653992561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_17"
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 4235
+        width: 608
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32329efb9022b9b80800000000000000
+      internalID: -8387072455777639645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_18"
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 4235
+        width: 609
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4158ab06fa05d70800000000000000
+      internalID: 9029910082858849481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_19"
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 4235
+        width: 606
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176080c56cdec6990800000000000000
+      internalID: -7391271452218489231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_20"
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3767
+        width: 606
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2a4a0df94fad480800000000000000
+      internalID: -8873511148542713141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_21"
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 3767
+        width: 609
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d224c41f0009940800000000000000
+      internalID: 5300737797781597516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_22"
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 3767
+        width: 608
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd0fd4651f7a20d0800000000000000
+      internalID: -3446802834935312933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_23"
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 3767
+        width: 609
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acf51251c3abfb80800000000000000
+      internalID: -8359908232582005593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_24"
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 3767
+        width: 606
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80ee61028936d880800000000000000
+      internalID: -8586612409002696563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_25"
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3295
+        width: 606
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b06e45e921b74f70800000000000000
+      internalID: 9171493959662198964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_26"
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 3295
+        width: 609
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a9eddecbfdc3660800000000000000
+      internalID: 7367009093008923200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_27"
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 3295
+        width: 608
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb33241feab6abc10800000000000000
+      internalID: 2070085377846293439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_28"
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 3295
+        width: 609
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99cb19f06de6876a0800000000000000
+      internalID: -6451284600544969575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_29"
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 3295
+        width: 606
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae562a05e098c2920800000000000000
+      internalID: 2966896949105681898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_30"
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2827
+        width: 606
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0cb6fc9d315d320800000000000000
+      internalID: 2581991787575623906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_31"
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 2827
+        width: 609
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b451371e598a120800000000000000
+      internalID: 2425353194869967744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_32"
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 2827
+        width: 608
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3eb2ce403ea0f2a0800000000000000
+      internalID: -6705668322651619781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_33"
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 2827
+        width: 609
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee5aa2fd8aa90b20800000000000000
+      internalID: 3101197345059659493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_34"
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 2827
+        width: 606
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99bcf6d29ac96a140800000000000000
+      internalID: 4730640709024992153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_35"
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2355
+        width: 606
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0234ba5fcf5b9a9a0800000000000000
+      internalID: -6221241312177601760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_36"
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 2355
+        width: 609
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a20fc224e255b20800000000000000
+      internalID: 3122452778407963190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_37"
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 2355
+        width: 608
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd576a628d883af0800000000000000
+      internalID: -416427374261346878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_38"
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 2355
+        width: 609
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07ee8c19f55a87c0800000000000000
+      internalID: -4068344784961476849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_39"
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 2355
+        width: 606
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d853942f0ba13500800000000000000
+      internalID: 374268325574957264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_40"
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1887
+        width: 606
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a85080bdff0f8e60800000000000000
+      internalID: 7966603848104040609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_41"
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1887
+        width: 609
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fcbba4e4409a7120800000000000000
+      internalID: 2412399175978958065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_42"
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 1887
+        width: 608
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe7f5544b7d9e710800000000000000
+      internalID: 1723145501703896767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_43"
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 1887
+        width: 609
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d770bdbad3369d100800000000000000
+      internalID: 133246780511553405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_44"
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 1887
+        width: 606
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a833f56578bf8c280800000000000000
+      internalID: -9022685294748552310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_45"
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1416
+        width: 606
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0370d50e2ed97360800000000000000
+      internalID: 7168004571184263946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_46"
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1416
+        width: 609
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f85b258c2c5f310800000000000000
+      internalID: 1438269821651619669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_47"
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 1416
+        width: 608
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102d4502db3025bb0800000000000000
+      internalID: -4948888929700621823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_48"
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 1416
+        width: 609
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83f529317b52d170800000000000000
+      internalID: 8201718413243315085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_49"
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 1416
+        width: 606
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d98e3ff3f3d8780800000000000000
+      internalID: -8679211362965480145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_50"
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 947
+        width: 606
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d8d8008b002c5e0800000000000000
+      internalID: -1890948103258927743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_51"
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 947
+        width: 609
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67b178decaac9f30800000000000000
+      internalID: 4583726326127638382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_52"
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 947
+        width: 608
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc8c0354ce3cbef0800000000000000
+      internalID: -91128879526409025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_53"
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 947
+        width: 609
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b504d9b345fdb510800000000000000
+      internalID: 1566677916624094641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_54"
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 947
+        width: 606
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee1103531d93a010800000000000000
+      internalID: 1198974632133205738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_55"
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 476
+        width: 606
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62795f494a8731920800000000000000
+      internalID: 2959842028381640486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_56"
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 476
+        width: 609
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e262fa2afa245a260800000000000000
+      internalID: 7108160908990293550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_57"
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 476
+        width: 608
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70dd9dc09966d6e90800000000000000
+      internalID: -7030850635723842297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_58"
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 476
+        width: 609
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5f9574180f66cc0800000000000000
+      internalID: -3718020004309240338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_59"
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 476
+        width: 606
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c37e17de79077de0800000000000000
+      internalID: -1335588324112436280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_60"
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 7
+        width: 606
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034646c175697d940800000000000000
+      internalID: 5320886785644192816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_61"
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 7
+        width: 609
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d334dd35fe2517660800000000000000
+      internalID: 7381772452094624573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_62"
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 7
+        width: 608
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd454e3b979901a20800000000000000
+      internalID: 3031091297208521949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_63"
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 7
+        width: 609
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f23c823ad677870800000000000000
+      internalID: 8680527354310897412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2 Autentica\xE7ao_64"
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 7
+        width: 606
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc53b2b1be113b80800000000000000
+      internalID: -8416912480022602561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

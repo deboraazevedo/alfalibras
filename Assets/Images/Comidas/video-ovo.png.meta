@@ -1,0 +1,1340 @@
+fileFormatVersion: 2
+guid: d804743c77970fb3488008319c177d4e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3165825637069080637
+    second: video-ovo
+  - first:
+      213: -3438283380042326026
+    second: video-ovo_1
+  - first:
+      213: -3939854959744662485
+    second: video-ovo_2
+  - first:
+      213: -6867568731853633394
+    second: video-ovo_3
+  - first:
+      213: 6897843207462685030
+    second: video-ovo_4
+  - first:
+      213: -8671456109438123442
+    second: video-ovo_5
+  - first:
+      213: -6568931563704767794
+    second: video-ovo_6
+  - first:
+      213: -7286300618851191869
+    second: video-ovo_7
+  - first:
+      213: -7978177216925136607
+    second: video-ovo_8
+  - first:
+      213: -5545106315036004169
+    second: video-ovo_9
+  - first:
+      213: -8560152873111786772
+    second: video-ovo_10
+  - first:
+      213: -7814290739271550706
+    second: video-ovo_11
+  - first:
+      213: 1129385664920840679
+    second: video-ovo_12
+  - first:
+      213: -65790003187977229
+    second: video-ovo_13
+  - first:
+      213: -455310057175751729
+    second: video-ovo_14
+  - first:
+      213: 4240077851417945278
+    second: video-ovo_15
+  - first:
+      213: 2246632220422963567
+    second: video-ovo_16
+  - first:
+      213: 5751669084977493347
+    second: video-ovo_17
+  - first:
+      213: 2684468876617482097
+    second: video-ovo_18
+  - first:
+      213: -7435180241603476618
+    second: video-ovo_19
+  - first:
+      213: -5340075127880165081
+    second: video-ovo_20
+  - first:
+      213: 8046062266179119975
+    second: video-ovo_21
+  - first:
+      213: -7525805945108038887
+    second: video-ovo_22
+  - first:
+      213: 671820521968618369
+    second: video-ovo_23
+  - first:
+      213: 8579346076943299910
+    second: video-ovo_24
+  - first:
+      213: -4703143780102597791
+    second: video-ovo_25
+  - first:
+      213: 5780098500620225822
+    second: video-ovo_26
+  - first:
+      213: 4565314527993649293
+    second: video-ovo_27
+  - first:
+      213: 1734771464516048874
+    second: video-ovo_28
+  - first:
+      213: 132032786354975166
+    second: video-ovo_29
+  - first:
+      213: -6063975972551965824
+    second: video-ovo_30
+  - first:
+      213: 2896624055576109569
+    second: video-ovo_31
+  - first:
+      213: 2019584539678651273
+    second: video-ovo_32
+  - first:
+      213: -5568317954724848117
+    second: video-ovo_33
+  - first:
+      213: -4260208593280290940
+    second: video-ovo_34
+  - first:
+      213: 8243546113728870137
+    second: video-ovo_35
+  - first:
+      213: 6797086946864971895
+    second: video-ovo_36
+  - first:
+      213: 3531175801709018564
+    second: video-ovo_37
+  - first:
+      213: 1505762555632682603
+    second: video-ovo_38
+  - first:
+      213: 2567981232611822020
+    second: video-ovo_39
+  - first:
+      213: 8808683062917969557
+    second: video-ovo_40
+  - first:
+      213: 1167263946423264747
+    second: video-ovo_41
+  - first:
+      213: 8460834782767500795
+    second: video-ovo_42
+  - first:
+      213: 8862195620631274665
+    second: video-ovo_43
+  - first:
+      213: 2261853007313561605
+    second: video-ovo_44
+  - first:
+      213: 9014918422103595823
+    second: video-ovo_45
+  - first:
+      213: -3636575783086930204
+    second: video-ovo_46
+  - first:
+      213: -1590454431377672178
+    second: video-ovo_47
+  - first:
+      213: 2232997713618835621
+    second: video-ovo_48
+  - first:
+      213: 8597685699468708083
+    second: video-ovo_49
+  - first:
+      213: -7959425082663115610
+    second: video-ovo_50
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: video-ovo
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3243
+        width: 643
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c73ca93b5ab014d0800000000000000
+      internalID: -3165825637069080637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovo_1
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 3243
+        width: 644
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff927f8b73c840d0800000000000000
+      internalID: -3438283380042326026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovo_2
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 3243
+        width: 642
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24cbd1d9c2d259c0800000000000000
+      internalID: -3939854959744662485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovo_3
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 3243
+        width: 644
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88c843df9e71b0a0800000000000000
+      internalID: -6867568731853633394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovo_4
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 3243
+        width: 643
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6698721d9df0abf50800000000000000
+      internalID: 6897843207462685030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovo_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2919
+        width: 643
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42cc8f9c9cc8a780800000000000000
+      internalID: -8671456109438123442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovo_6
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 2919
+        width: 644
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecaa687eb8776d4a0800000000000000
+      internalID: -6568931563704767794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovo_7
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 2919
+        width: 642
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c37aae013cd1ea90800000000000000
+      internalID: -7286300618851191869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovo_8
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 2919
+        width: 644
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12900166712d74190800000000000000
+      internalID: -7978177216925136607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovo_9
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 2919
+        width: 643
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0f08a8f23db03b0800000000000000
+      internalID: -5545106315036004169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovo_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2596
+        width: 643
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceae127c05a343980800000000000000
+      internalID: -8560152873111786772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovo_11
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 2596
+        width: 644
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09381a79ff0e8390800000000000000
+      internalID: -7814290739271550706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovo_12
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 2596
+        width: 642
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9660c47426caf00800000000000000
+      internalID: 1129385664920840679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovo_13
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 2596
+        width: 644
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f375363754461ff0800000000000000
+      internalID: -65790003187977229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovo_14
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 2596
+        width: 643
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc360635ae96ea9f0800000000000000
+      internalID: -455310057175751729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovo_15
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2272
+        width: 643
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4a4c94758c7da30800000000000000
+      internalID: 4240077851417945278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovo_16
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 2272
+        width: 644
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61024fe914ad2f10800000000000000
+      internalID: 2246632220422963567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovo_17
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 2272
+        width: 642
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365fda32f8802df40800000000000000
+      internalID: 5751669084977493347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovo_18
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 2272
+        width: 644
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f70696836214520800000000000000
+      internalID: 2684468876617482097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovo_19
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 2272
+        width: 643
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673c83aa6fee0d890800000000000000
+      internalID: -7435180241603476618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovo_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1946
+        width: 643
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729ddc0d6fd34e5b0800000000000000
+      internalID: -5340075127880165081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovo_21
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1946
+        width: 644
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76be740500b59af60800000000000000
+      internalID: 8046062266179119975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovo_22
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 1946
+        width: 642
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bff49cd57fe8790800000000000000
+      internalID: -7525805945108038887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovo_23
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 1946
+        width: 644
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bc1cc8439c25900800000000000000
+      internalID: 671820521968618369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovo_24
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 1946
+        width: 643
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645b8593dc5ff0770800000000000000
+      internalID: 8579346076943299910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovo_25
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1623
+        width: 643
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163956b76a31bbeb0800000000000000
+      internalID: -4703143780102597791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovo_26
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1623
+        width: 644
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d8c3846f8073050800000000000000
+      internalID: 5780098500620225822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovo_27
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 1623
+        width: 642
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88ddf800614b5f30800000000000000
+      internalID: 4565314527993649293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovo_28
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 1623
+        width: 644
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae796fca475231810800000000000000
+      internalID: 1734771464516048874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovo_29
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 1623
+        width: 643
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1b461ae1315d100800000000000000
+      internalID: 132032786354975166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovo_30
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1299
+        width: 643
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08349853bfd68dba0800000000000000
+      internalID: -6063975972551965824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovo_31
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1299
+        width: 644
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10227784b30e23820800000000000000
+      internalID: 2896624055576109569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovo_32
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 1299
+        width: 642
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983ba694071070c10800000000000000
+      internalID: 2019584539678651273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovo_33
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 1299
+        width: 644
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e1238825c59b2b0800000000000000
+      internalID: -5568317954724848117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovo_34
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 1299
+        width: 643
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f26702bd2b0e4c0800000000000000
+      internalID: -4260208593280290940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovo_35
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 975
+        width: 643
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f67c56a385f66270800000000000000
+      internalID: 8243546113728870137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovo_36
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 975
+        width: 644
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770c45fc09a145e50800000000000000
+      internalID: 6797086946864971895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovo_37
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 975
+        width: 642
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd3254cea1410130800000000000000
+      internalID: 3531175801709018564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovo_38
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 975
+        width: 644
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b660294011b85e410800000000000000
+      internalID: 1505762555632682603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovo_39
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 975
+        width: 643
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c982b7435d43a320800000000000000
+      internalID: 2567981232611822020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovo_40
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 652
+        width: 643
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596b938439abe3a70800000000000000
+      internalID: 8808683062917969557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovo_41
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 652
+        width: 644
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5eda5ff54f23010800000000000000
+      internalID: 1167263946423264747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovo_42
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 652
+        width: 642
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd4022586cea6570800000000000000
+      internalID: 8460834782767500795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovo_43
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 652
+        width: 644
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4efb986f7dcfa70800000000000000
+      internalID: 8862195620631274665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovo_44
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 652
+        width: 643
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508e21b8357b36f10800000000000000
+      internalID: 2261853007313561605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovo_45
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 326
+        width: 643
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b1c94ba8c6b1d70800000000000000
+      internalID: 9014918422103595823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovo_46
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 326
+        width: 644
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6c05ab799488dc0800000000000000
+      internalID: -3636575783086930204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovo_47
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 326
+        width: 642
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08b94a0f129de9e0800000000000000
+      internalID: -1590454431377672178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovo_48
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 326
+        width: 644
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a89280f6933dfe10800000000000000
+      internalID: 2232997713618835621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovo_49
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 326
+        width: 643
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8c947579d115770800000000000000
+      internalID: 8597685699468708083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: video-ovo_50
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 643
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4e783ee017a8190800000000000000
+      internalID: -7959425082663115610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

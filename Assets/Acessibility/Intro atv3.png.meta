@@ -1,0 +1,4508 @@
+fileFormatVersion: 2
+guid: 4a4a6718fa060b0409da5b95f78f6077
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5241482727978128417
+    second: Intro atv3_0
+  - first:
+      213: -6662398758409918692
+    second: Intro atv3_1
+  - first:
+      213: -3707554308256680171
+    second: Intro atv3_2
+  - first:
+      213: -8344178053521307596
+    second: Intro atv3_3
+  - first:
+      213: 8006732950634001758
+    second: Intro atv3_4
+  - first:
+      213: -7905225622336127751
+    second: Intro atv3_5
+  - first:
+      213: -6500078310547783937
+    second: Intro atv3_6
+  - first:
+      213: 4647381753117448269
+    second: Intro atv3_7
+  - first:
+      213: -3509285965265594141
+    second: Intro atv3_8
+  - first:
+      213: 3620808279396124435
+    second: Intro atv3_9
+  - first:
+      213: -4046362114842125618
+    second: Intro atv3_10
+  - first:
+      213: -4316201150505629587
+    second: Intro atv3_11
+  - first:
+      213: -559828860306394943
+    second: Intro atv3_12
+  - first:
+      213: -7356525107181833553
+    second: Intro atv3_13
+  - first:
+      213: -3997989465466102682
+    second: Intro atv3_14
+  - first:
+      213: -2941966929555211175
+    second: Intro atv3_15
+  - first:
+      213: -9183185273804983400
+    second: Intro atv3_16
+  - first:
+      213: 6515631055394169747
+    second: Intro atv3_17
+  - first:
+      213: 2447323625356099947
+    second: Intro atv3_18
+  - first:
+      213: -5157448373734420100
+    second: Intro atv3_19
+  - first:
+      213: -6256987329007068152
+    second: Intro atv3_20
+  - first:
+      213: 411307706534676656
+    second: Intro atv3_21
+  - first:
+      213: -4978070838616886945
+    second: Intro atv3_22
+  - first:
+      213: 829697118914050353
+    second: Intro atv3_23
+  - first:
+      213: 817957492821403566
+    second: Intro atv3_24
+  - first:
+      213: 311267609781682178
+    second: Intro atv3_25
+  - first:
+      213: -2001083931855811275
+    second: Intro atv3_26
+  - first:
+      213: -8226330879847015619
+    second: Intro atv3_27
+  - first:
+      213: 2366489979484801143
+    second: Intro atv3_28
+  - first:
+      213: 2904189759832372139
+    second: Intro atv3_29
+  - first:
+      213: 8031406019923316139
+    second: Intro atv3_30
+  - first:
+      213: -3413339722878515838
+    second: Intro atv3_31
+  - first:
+      213: -4521378849704726969
+    second: Intro atv3_32
+  - first:
+      213: 2474181871687768304
+    second: Intro atv3_33
+  - first:
+      213: 708061057578044319
+    second: Intro atv3_34
+  - first:
+      213: -8038663120016992989
+    second: Intro atv3_35
+  - first:
+      213: -2552360706232329705
+    second: Intro atv3_36
+  - first:
+      213: 7719503984183255450
+    second: Intro atv3_37
+  - first:
+      213: -8488593978908275027
+    second: Intro atv3_38
+  - first:
+      213: -6870061964228429092
+    second: Intro atv3_39
+  - first:
+      213: -2588082802122987442
+    second: Intro atv3_40
+  - first:
+      213: -5091894681125247450
+    second: Intro atv3_41
+  - first:
+      213: 4910587087180803838
+    second: Intro atv3_42
+  - first:
+      213: -4951874531439911721
+    second: Intro atv3_43
+  - first:
+      213: -8688639353163323174
+    second: Intro atv3_44
+  - first:
+      213: -1863794916732532040
+    second: Intro atv3_45
+  - first:
+      213: -3881767390331300200
+    second: Intro atv3_46
+  - first:
+      213: -37079929297196014
+    second: Intro atv3_47
+  - first:
+      213: -753047650231170981
+    second: Intro atv3_48
+  - first:
+      213: 4532746450007968555
+    second: Intro atv3_49
+  - first:
+      213: 1902196259212403066
+    second: Intro atv3_50
+  - first:
+      213: 7459178430674314887
+    second: Intro atv3_51
+  - first:
+      213: -6855005483379992719
+    second: Intro atv3_52
+  - first:
+      213: -2248036993518536334
+    second: Intro atv3_53
+  - first:
+      213: -3772280651103988374
+    second: Intro atv3_54
+  - first:
+      213: -1599488546640660310
+    second: Intro atv3_55
+  - first:
+      213: -1638198778248377344
+    second: Intro atv3_56
+  - first:
+      213: 8841909621275837269
+    second: Intro atv3_57
+  - first:
+      213: -2881358476913419196
+    second: Intro atv3_58
+  - first:
+      213: 9015344094733920298
+    second: Intro atv3_59
+  - first:
+      213: 4832983009324821760
+    second: Intro atv3_60
+  - first:
+      213: -4135357223432163682
+    second: Intro atv3_61
+  - first:
+      213: -4337460887672010387
+    second: Intro atv3_62
+  - first:
+      213: 1012576778505293283
+    second: Intro atv3_63
+  - first:
+      213: -8049738649237752513
+    second: Intro atv3_64
+  - first:
+      213: -9013290966437317434
+    second: Intro atv3_65
+  - first:
+      213: 4985416774324209404
+    second: Intro atv3_66
+  - first:
+      213: -2269230705947906236
+    second: Intro atv3_67
+  - first:
+      213: -1007571979681625127
+    second: Intro atv3_68
+  - first:
+      213: 3093478790393569775
+    second: Intro atv3_69
+  - first:
+      213: -4200380857490820570
+    second: Intro atv3_70
+  - first:
+      213: -71996466219272800
+    second: Intro atv3_71
+  - first:
+      213: 1175139228715572701
+    second: Intro atv3_72
+  - first:
+      213: 3841687036492740751
+    second: Intro atv3_73
+  - first:
+      213: 6337713548753456923
+    second: Intro atv3_74
+  - first:
+      213: -4874094027860758038
+    second: Intro atv3_75
+  - first:
+      213: 2626579408503024558
+    second: Intro atv3_76
+  - first:
+      213: -2173584946196630841
+    second: Intro atv3_77
+  - first:
+      213: 1901809004089367215
+    second: Intro atv3_78
+  - first:
+      213: 2969648935275802314
+    second: Intro atv3_79
+  - first:
+      213: -1010919469270138927
+    second: Intro atv3_80
+  - first:
+      213: -1377579202487527540
+    second: Intro atv3_81
+  - first:
+      213: -7438178494495915107
+    second: Intro atv3_82
+  - first:
+      213: 7038070052271547669
+    second: Intro atv3_83
+  - first:
+      213: -8318839283895993131
+    second: Intro atv3_84
+  - first:
+      213: -5930001622499030166
+    second: Intro atv3_85
+  - first:
+      213: 1104432567604487291
+    second: Intro atv3_86
+  - first:
+      213: -2439549301790834918
+    second: Intro atv3_87
+  - first:
+      213: 7567680493330834928
+    second: Intro atv3_88
+  - first:
+      213: -1514821689752210752
+    second: Intro atv3_89
+  - first:
+      213: -9201647124152762445
+    second: Intro atv3_90
+  - first:
+      213: 680029506561178096
+    second: Intro atv3_91
+  - first:
+      213: -5926038035301954653
+    second: Intro atv3_92
+  - first:
+      213: -8391672416679863009
+    second: Intro atv3_93
+  - first:
+      213: 2998693208404208073
+    second: Intro atv3_94
+  - first:
+      213: -210390397819339627
+    second: Intro atv3_95
+  - first:
+      213: -8224780251832425911
+    second: Intro atv3_96
+  - first:
+      213: -4633996945363686577
+    second: Intro atv3_97
+  - first:
+      213: 7416955167731902252
+    second: Intro atv3_98
+  - first:
+      213: 7588617948489192434
+    second: Intro atv3_99
+  - first:
+      213: 7966138394297280634
+    second: Intro atv3_100
+  - first:
+      213: 5182267872586416045
+    second: Intro atv3_101
+  - first:
+      213: 1778311809312292792
+    second: Intro atv3_102
+  - first:
+      213: 7904342213450535794
+    second: Intro atv3_103
+  - first:
+      213: 6848920185602741433
+    second: Intro atv3_104
+  - first:
+      213: 8262556975809079469
+    second: Intro atv3_105
+  - first:
+      213: -904655293936441129
+    second: Intro atv3_106
+  - first:
+      213: -2618038575122447811
+    second: Intro atv3_107
+  - first:
+      213: -4185538605743189344
+    second: Intro atv3_108
+  - first:
+      213: 7788587219457140377
+    second: Intro atv3_109
+  - first:
+      213: 1958097510345204019
+    second: Intro atv3_110
+  - first:
+      213: 4046652182962069492
+    second: Intro atv3_111
+  - first:
+      213: 3634269302447280960
+    second: Intro atv3_112
+  - first:
+      213: -1628409529169901675
+    second: Intro atv3_113
+  - first:
+      213: 7749957390813751126
+    second: Intro atv3_114
+  - first:
+      213: 5668614967576040484
+    second: Intro atv3_115
+  - first:
+      213: 238987779580036317
+    second: Intro atv3_116
+  - first:
+      213: 5296109878196392302
+    second: Intro atv3_117
+  - first:
+      213: 2013293181827030774
+    second: Intro atv3_118
+  - first:
+      213: 1062977669960356437
+    second: Intro atv3_119
+  - first:
+      213: 4267214334749528554
+    second: Intro atv3_120
+  - first:
+      213: 7364985723426185032
+    second: Intro atv3_121
+  - first:
+      213: 7393304602090463676
+    second: Intro atv3_122
+  - first:
+      213: 1108644270113770525
+    second: Intro atv3_123
+  - first:
+      213: -9191416239842736510
+    second: Intro atv3_124
+  - first:
+      213: -8410647899259153249
+    second: Intro atv3_125
+  - first:
+      213: 6803882006666964226
+    second: Intro atv3_126
+  - first:
+      213: -1552671869608263865
+    second: Intro atv3_127
+  - first:
+      213: 6713889724412769534
+    second: Intro atv3_128
+  - first:
+      213: -5264639027333876773
+    second: Intro atv3_129
+  - first:
+      213: 6346649782490104412
+    second: Intro atv3_130
+  - first:
+      213: -3607182262645890051
+    second: Intro atv3_131
+  - first:
+      213: 7406545883047551610
+    second: Intro atv3_132
+  - first:
+      213: -5241935482695225752
+    second: Intro atv3_133
+  - first:
+      213: 3466888114967156334
+    second: Intro atv3_134
+  - first:
+      213: 4543183986858997051
+    second: Intro atv3_135
+  - first:
+      213: -2354330284362211103
+    second: Intro atv3_136
+  - first:
+      213: 2414195092274505972
+    second: Intro atv3_137
+  - first:
+      213: -3864691789975027411
+    second: Intro atv3_138
+  - first:
+      213: 8998324223575456311
+    second: Intro atv3_139
+  - first:
+      213: -2195967405981319041
+    second: Intro atv3_140
+  - first:
+      213: 9089617063128772545
+    second: Intro atv3_141
+  - first:
+      213: -1620936204564347704
+    second: Intro atv3_142
+  - first:
+      213: 8310669073563296762
+    second: Intro atv3_143
+  - first:
+      213: -2816305911290113636
+    second: Intro atv3_144
+  - first:
+      213: -2995398630382944869
+    second: Intro atv3_145
+  - first:
+      213: 7680200901745568384
+    second: Intro atv3_146
+  - first:
+      213: -9205060773019891223
+    second: Intro atv3_147
+  - first:
+      213: -4539453463327932768
+    second: Intro atv3_148
+  - first:
+      213: 7827678491530049705
+    second: Intro atv3_149
+  - first:
+      213: 6580479620238349977
+    second: Intro atv3_150
+  - first:
+      213: -6818949057125367533
+    second: Intro atv3_151
+  - first:
+      213: 220241283925603396
+    second: Intro atv3_152
+  - first:
+      213: -8280613679653567240
+    second: Intro atv3_153
+  - first:
+      213: -5434357621900577090
+    second: Intro atv3_154
+  - first:
+      213: -5481366450725237392
+    second: Intro atv3_155
+  - first:
+      213: -7144924100558330352
+    second: Intro atv3_156
+  - first:
+      213: 1500830084985833704
+    second: Intro atv3_157
+  - first:
+      213: -3591307604891362750
+    second: Intro atv3_158
+  - first:
+      213: 1731610851918594848
+    second: Intro atv3_159
+  - first:
+      213: -9087463716479368619
+    second: Intro atv3_160
+  - first:
+      213: -4795657574856964317
+    second: Intro atv3_161
+  - first:
+      213: -8301233043346476241
+    second: Intro atv3_162
+  - first:
+      213: -4888031565508599839
+    second: Intro atv3_163
+  - first:
+      213: 1542346251193407690
+    second: Intro atv3_164
+  - first:
+      213: 5166896898560420469
+    second: Intro atv3_165
+  - first:
+      213: -5217143785152750859
+    second: Intro atv3_166
+  - first:
+      213: -6025321783887054769
+    second: Intro atv3_167
+  - first:
+      213: -2365345790420168614
+    second: Intro atv3_168
+  - first:
+      213: 5627408065208722675
+    second: Intro atv3_169
+  - first:
+      213: -4611184426172764748
+    second: Intro atv3_170
+  - first:
+      213: -4964975352596423431
+    second: Intro atv3_171
+  - first:
+      213: 7161078034481154043
+    second: Intro atv3_172
+  - first:
+      213: 7841715218422002943
+    second: Intro atv3_173
+  - first:
+      213: -7266319550884682097
+    second: Intro atv3_174
+  - first:
+      213: -6376355776991477222
+    second: Intro atv3_175
+  - first:
+      213: 8557664263334358557
+    second: Intro atv3_176
+  - first:
+      213: -2522156811243118620
+    second: Intro atv3_177
+  - first:
+      213: 6533135525690426943
+    second: Intro atv3_178
+  - first:
+      213: -1207310949858606632
+    second: Intro atv3_179
+  - first:
+      213: 8655548985600571639
+    second: Intro atv3_180
+  - first:
+      213: -6672203323976873329
+    second: Intro atv3_181
+  - first:
+      213: -8998477229654516805
+    second: Intro atv3_182
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Intro atv3_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 8466
+        width: 614
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1245b7145cc7db840800000000000000
+      internalID: 5241482727978128417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_1
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 8466
+        width: 610
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1729fcc0a76a83a0800000000000000
+      internalID: -6662398758409918692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_2
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 8466
+        width: 610
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51734e6000f1c8cc0800000000000000
+      internalID: -3707554308256680171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_3
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 8466
+        width: 610
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43880490546833c80800000000000000
+      internalID: -8344178053521307596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_4
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 8466
+        width: 614
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5574f57231ad1f60800000000000000
+      internalID: 8006732950634001758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_5
+      rect:
+        serializedVersion: 2
+        x: 3103
+        y: 8466
+        width: 614
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fcb65f1e2ffa4290800000000000000
+      internalID: -7905225622336127751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_6
+      rect:
+        serializedVersion: 2
+        x: 3726
+        y: 8466
+        width: 610
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffef39727351bc5a0800000000000000
+      internalID: -6500078310547783937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_7
+      rect:
+        serializedVersion: 2
+        x: 4345
+        y: 8466
+        width: 610
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d489232e411de7040800000000000000
+      internalID: 4647381753117448269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_8
+      rect:
+        serializedVersion: 2
+        x: 4964
+        y: 8466
+        width: 610
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e89411f1038c4fc0800000000000000
+      internalID: -3509285965265594141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_9
+      rect:
+        serializedVersion: 2
+        x: 5583
+        y: 8466
+        width: 614
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317033d32f1bf3230800000000000000
+      internalID: 3620808279396124435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 7995
+        width: 614
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca9c38581f68d7c0800000000000000
+      internalID: -4046362114842125618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_11
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 7995
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68cafcfbe5c914c0800000000000000
+      internalID: -4316201150505629587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_12
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 7995
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0fc6e1e961b38f0800000000000000
+      internalID: -559828860306394943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_13
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 7995
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa23f2d346f58e990800000000000000
+      internalID: -7356525107181833553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_14
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 7995
+        width: 614
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c932f63c94488c0800000000000000
+      internalID: -3997989465466102682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_15
+      rect:
+        serializedVersion: 2
+        x: 3103
+        y: 7995
+        width: 614
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c3aee2aa80c27d0800000000000000
+      internalID: -2941966929555211175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_16
+      rect:
+        serializedVersion: 2
+        x: 3726
+        y: 7995
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8937148e5a5ce8080800000000000000
+      internalID: -9183185273804983400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_17
+      rect:
+        serializedVersion: 2
+        x: 4345
+        y: 7995
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393e5407ceb2c6a50800000000000000
+      internalID: 6515631055394169747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_18
+      rect:
+        serializedVersion: 2
+        x: 4964
+        y: 7995
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6185cbeed3a6f120800000000000000
+      internalID: 2447323625356099947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_19
+      rect:
+        serializedVersion: 2
+        x: 5583
+        y: 7995
+        width: 614
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71d42887001d68b0800000000000000
+      internalID: -5157448373734420100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 7524
+        width: 614
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cd96adc27ba29a0800000000000000
+      internalID: -6256987329007068152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_21
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 7524
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8416d0e2245b500800000000000000
+      internalID: 411307706534676656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_22
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 7524
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51728d72f65aeab0800000000000000
+      internalID: -4978070838616886945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_23
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 7524
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139790c322da38b00800000000000000
+      internalID: 829697118914050353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_24
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 7524
+        width: 614
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea72df88108f95b00800000000000000
+      internalID: 817957492821403566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_25
+      rect:
+        serializedVersion: 2
+        x: 3103
+        y: 7524
+        width: 614
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2004f1fed38d15400800000000000000
+      internalID: 311267609781682178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_26
+      rect:
+        serializedVersion: 2
+        x: 3726
+        y: 7524
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d0ef324c8ba34e0800000000000000
+      internalID: -2001083931855811275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_27
+      rect:
+        serializedVersion: 2
+        x: 4345
+        y: 7524
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b54e556a336dd80800000000000000
+      internalID: -8226330879847015619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_28
+      rect:
+        serializedVersion: 2
+        x: 4964
+        y: 7524
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77886bf191677d020800000000000000
+      internalID: 2366489979484801143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_29
+      rect:
+        serializedVersion: 2
+        x: 5583
+        y: 7524
+        width: 614
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3b2231331cd4820800000000000000
+      internalID: 2904189759832372139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_30
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 7053
+        width: 614
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad86701939457f60800000000000000
+      internalID: 8031406019923316139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_31
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 7053
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28588105b9161a0d0800000000000000
+      internalID: -3413339722878515838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_32
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 7053
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ea26834e5d041c0800000000000000
+      internalID: -4521378849704726969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_33
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 7053
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f819a3bd4f065220800000000000000
+      internalID: 2474181871687768304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_34
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 7053
+        width: 614
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b0a38c7c983d900800000000000000
+      internalID: 708061057578044319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_35
+      rect:
+        serializedVersion: 2
+        x: 3103
+        y: 7053
+        width: 614
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3259a56ab7ee07090800000000000000
+      internalID: -8038663120016992989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_36
+      rect:
+        serializedVersion: 2
+        x: 3726
+        y: 7053
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a5b5ee571349cd0800000000000000
+      internalID: -2552360706232329705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_37
+      rect:
+        serializedVersion: 2
+        x: 4345
+        y: 7053
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91a47359ff212b60800000000000000
+      internalID: 7719503984183255450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_38
+      rect:
+        serializedVersion: 2
+        x: 4964
+        y: 7053
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae07ac20c4723a80800000000000000
+      internalID: -8488593978908275027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_39
+      rect:
+        serializedVersion: 2
+        x: 5583
+        y: 7053
+        width: 614
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdafd3dea03a8a0a0800000000000000
+      internalID: -6870061964228429092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_40
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 6586
+        width: 614
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48692a5768451cd0800000000000000
+      internalID: -2588082802122987442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_41
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 6586
+        width: 610
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62624d9f3c4f559b0800000000000000
+      internalID: -5091894681125247450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_42
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 6586
+        width: 610
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe280a30f8e52440800000000000000
+      internalID: 4910587087180803838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_43
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 6586
+        width: 610
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc583d8958674bb0800000000000000
+      internalID: -4951874531439911721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_44
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 6586
+        width: 614
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8683dea80cb6780800000000000000
+      internalID: -8688639353163323174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_45
+      rect:
+        serializedVersion: 2
+        x: 3103
+        y: 6586
+        width: 614
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba8af5e5687226e0800000000000000
+      internalID: -1863794916732532040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_46
+      rect:
+        serializedVersion: 2
+        x: 3726
+        y: 6586
+        width: 610
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8969b9eff11312ac0800000000000000
+      internalID: -3881767390331300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_47
+      rect:
+        serializedVersion: 2
+        x: 4345
+        y: 6586
+        width: 610
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ca1f130044c7ff0800000000000000
+      internalID: -37079929297196014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_48
+      rect:
+        serializedVersion: 2
+        x: 4964
+        y: 6586
+        width: 610
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b584705e623ac85f0800000000000000
+      internalID: -753047650231170981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_49
+      rect:
+        serializedVersion: 2
+        x: 5583
+        y: 6586
+        width: 614
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b43a971ec87ee30800000000000000
+      internalID: 4532746450007968555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_50
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 6115
+        width: 614
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71ae636b65f56a10800000000000000
+      internalID: 1902196259212403066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_51
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 6115
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78629942343548760800000000000000
+      internalID: 7459178430674314887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_52
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 6115
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177d7cd05d02ed0a0800000000000000
+      internalID: -6855005483379992719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_53
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 6115
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279f367d34e5dc0e0800000000000000
+      internalID: -2248036993518536334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_54
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 6115
+        width: 614
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a651ed5fbba26abc0800000000000000
+      internalID: -3772280651103988374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_55
+      rect:
+        serializedVersion: 2
+        x: 3103
+        y: 6115
+        width: 614
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa87d2b24a97dc9e0800000000000000
+      internalID: -1599488546640660310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_56
+      rect:
+        serializedVersion: 2
+        x: 3726
+        y: 6115
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00cc60704e2f349e0800000000000000
+      internalID: -1638198778248377344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_57
+      rect:
+        serializedVersion: 2
+        x: 4345
+        y: 6115
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553414044f5c4ba70800000000000000
+      internalID: 8841909621275837269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_58
+      rect:
+        serializedVersion: 2
+        x: 4964
+        y: 6115
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cd3093bbb5308d0800000000000000
+      internalID: -2881358476913419196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_59
+      rect:
+        serializedVersion: 2
+        x: 5583
+        y: 6115
+        width: 614
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28e78650bfec1d70800000000000000
+      internalID: 9015344094733920298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_60
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 5645
+        width: 614
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ded44d074321340800000000000000
+      internalID: 4832983009324821760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_61
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 5645
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9eeafde3824c96c0800000000000000
+      internalID: -4135357223432163682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_62
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 5645
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69c823bd4e3ec3c0800000000000000
+      internalID: -4337460887672010387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_63
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 5645
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed0e9617356d0e00800000000000000
+      internalID: 1012576778505293283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_64
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 5645
+        width: 614
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35737d0955994090800000000000000
+      internalID: -8049738649237752513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_65
+      rect:
+        serializedVersion: 2
+        x: 3103
+        y: 5645
+        width: 614
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c43448de9b5ae280800000000000000
+      internalID: -9013290966437317434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_66
+      rect:
+        serializedVersion: 2
+        x: 3726
+        y: 5645
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf64ed27422cf2540800000000000000
+      internalID: 4985416774324209404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_67
+      rect:
+        serializedVersion: 2
+        x: 4345
+        y: 5645
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44fe09222b21280e0800000000000000
+      internalID: -2269230705947906236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_68
+      rect:
+        serializedVersion: 2
+        x: 4964
+        y: 5645
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db80717f926402f0800000000000000
+      internalID: -1007571979681625127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_69
+      rect:
+        serializedVersion: 2
+        x: 5583
+        y: 5645
+        width: 614
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe12d95e19e3eea20800000000000000
+      internalID: 3093478790393569775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_70
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 5174
+        width: 614
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622b8eb5ddf35b5c0800000000000000
+      internalID: -4200380857490820570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_71
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 5174
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5baed6897300ff0800000000000000
+      internalID: -71996466219272800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_72
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 5174
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dddd73107eeee4010800000000000000
+      internalID: 1175139228715572701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_73
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 5174
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f887f5c610a605530800000000000000
+      internalID: 3841687036492740751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_74
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 5174
+        width: 614
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f41a9d4e414f750800000000000000
+      internalID: 6337713548753456923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_75
+      rect:
+        serializedVersion: 2
+        x: 3103
+        y: 5174
+        width: 614
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1b1834e4dbb5cb0800000000000000
+      internalID: -4874094027860758038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_76
+      rect:
+        serializedVersion: 2
+        x: 3726
+        y: 5174
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabad2a4e0c737420800000000000000
+      internalID: 2626579408503024558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_77
+      rect:
+        serializedVersion: 2
+        x: 4345
+        y: 5174
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c230d0f100e5d1e0800000000000000
+      internalID: -2173584946196630841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_78
+      rect:
+        serializedVersion: 2
+        x: 4964
+        y: 5174
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faad2678635946a10800000000000000
+      internalID: 1901809004089367215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_79
+      rect:
+        serializedVersion: 2
+        x: 5583
+        y: 5174
+        width: 614
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace2bb609ff463920800000000000000
+      internalID: 2969648935275802314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_80
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 4703
+        width: 614
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df70a9491e78f1f0800000000000000
+      internalID: -1010919469270138927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_81
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 4703
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87d3c9930bd1ece0800000000000000
+      internalID: -1377579202487527540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_82
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 4703
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d930f93811846c890800000000000000
+      internalID: -7438178494495915107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_83
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 4703
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515e5f95c6f3ca160800000000000000
+      internalID: 7038070052271547669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_84
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 4703
+        width: 614
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc70d31fbb8d8c80800000000000000
+      internalID: -8318839283895993131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_85
+      rect:
+        serializedVersion: 2
+        x: 3103
+        y: 4703
+        width: 614
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b847d51f664bda0800000000000000
+      internalID: -5930001622499030166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_86
+      rect:
+        serializedVersion: 2
+        x: 3726
+        y: 4703
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b742076919bb35f00800000000000000
+      internalID: 1104432567604487291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_87
+      rect:
+        serializedVersion: 2
+        x: 4345
+        y: 4703
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f74b6d5daf42ed0800000000000000
+      internalID: -2439549301790834918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_88
+      rect:
+        serializedVersion: 2
+        x: 4964
+        y: 4703
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f523aa305dc50960800000000000000
+      internalID: 7567680493330834928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_89
+      rect:
+        serializedVersion: 2
+        x: 5583
+        y: 4703
+        width: 614
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c23344f2b54afae0800000000000000
+      internalID: -1514821689752210752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_90
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 4236
+        width: 614
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf316861be2d4080800000000000000
+      internalID: -9201647124152762445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_91
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 4236
+        width: 610
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9fc57bb33ff6900800000000000000
+      internalID: 680029506561178096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_92
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 4236
+        width: 610
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab8f5cedcb72cda0800000000000000
+      internalID: -5926038035301954653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_93
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 4236
+        width: 610
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d5a54e56aca8b80800000000000000
+      internalID: -8391672416679863009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_94
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 4236
+        width: 614
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c92f45d59f7d9920800000000000000
+      internalID: 2998693208404208073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_95
+      rect:
+        serializedVersion: 2
+        x: 3103
+        y: 4236
+        width: 614
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c33d14c0b841df0800000000000000
+      internalID: -210390397819339627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_96
+      rect:
+        serializedVersion: 2
+        x: 3726
+        y: 4236
+        width: 610
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94261ed00f5bbdd80800000000000000
+      internalID: -8224780251832425911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_97
+      rect:
+        serializedVersion: 2
+        x: 4345
+        y: 4236
+        width: 610
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b2a55845cb0bfb0800000000000000
+      internalID: -4633996945363686577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_98
+      rect:
+        serializedVersion: 2
+        x: 4964
+        y: 4236
+        width: 610
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2768a7ad615ee660800000000000000
+      internalID: 7416955167731902252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_99
+      rect:
+        serializedVersion: 2
+        x: 5583
+        y: 4236
+        width: 614
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f31ad361df205960800000000000000
+      internalID: 7588617948489192434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_100
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3765
+        width: 614
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78a0b7c9a86d8e60800000000000000
+      internalID: 7966138394297280634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_101
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 3765
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dafbe6c5c2d1be740800000000000000
+      internalID: 5182267872586416045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_102
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 3765
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bff0fd2b25dda810800000000000000
+      internalID: 1778311809312292792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_103
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 3765
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27318d73d5dd1bd60800000000000000
+      internalID: 7904342213450535794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_104
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 3765
+        width: 614
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b49ad52f904c0f50800000000000000
+      internalID: 6848920185602741433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_105
+      rect:
+        serializedVersion: 2
+        x: 3103
+        y: 3765
+        width: 614
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8a687eacf7aa270800000000000000
+      internalID: 8262556975809079469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_106
+      rect:
+        serializedVersion: 2
+        x: 3726
+        y: 3765
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8edb0adc40273f0800000000000000
+      internalID: -904655293936441129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_107
+      rect:
+        serializedVersion: 2
+        x: 4345
+        y: 3765
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d328e8179cbdaabd0800000000000000
+      internalID: -2618038575122447811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_108
+      rect:
+        serializedVersion: 2
+        x: 4964
+        y: 3765
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a25ef260daf9e5c0800000000000000
+      internalID: -4185538605743189344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_109
+      rect:
+        serializedVersion: 2
+        x: 5583
+        y: 3765
+        width: 614
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996e3e57fce961c60800000000000000
+      internalID: 7788587219457140377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_110
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3294
+        width: 614
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331e3bbaf4f8c2b10800000000000000
+      internalID: 1958097510345204019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_111
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 3294
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff530768b8982830800000000000000
+      internalID: 4046652182962069492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_112
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 3294
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0431a76eca48f6230800000000000000
+      internalID: 3634269302447280960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_113
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 3294
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59787f0392ab669e0800000000000000
+      internalID: -1628409529169901675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_114
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 3294
+        width: 614
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657edd79f216d8b60800000000000000
+      internalID: 7749957390813751126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_115
+      rect:
+        serializedVersion: 2
+        x: 3103
+        y: 3294
+        width: 614
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42415d68747faae40800000000000000
+      internalID: 5668614967576040484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_116
+      rect:
+        serializedVersion: 2
+        x: 3726
+        y: 3294
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4078b8e1e015300800000000000000
+      internalID: 238987779580036317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_117
+      rect:
+        serializedVersion: 2
+        x: 4345
+        y: 3294
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61555dcfdf8f7940800000000000000
+      internalID: 5296109878196392302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_118
+      rect:
+        serializedVersion: 2
+        x: 4964
+        y: 3294
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe14836b77a0fb10800000000000000
+      internalID: 2013293181827030774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_119
+      rect:
+        serializedVersion: 2
+        x: 5583
+        y: 3294
+        width: 614
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552d8261f8470ce00800000000000000
+      internalID: 1062977669960356437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_120
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2823
+        width: 614
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1533b24d0383b30800000000000000
+      internalID: 4267214334749528554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_121
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 2823
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f14ac7e7fa53660800000000000000
+      internalID: 7364985723426185032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_122
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 2823
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1ecdb3d5b4a9660800000000000000
+      internalID: 7393304602090463676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_123
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 2823
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c476ef612b26f00800000000000000
+      internalID: 1108644270113770525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_124
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 2823
+        width: 614
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286ca69c0a7817080800000000000000
+      internalID: -9191416239842736510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_125
+      rect:
+        serializedVersion: 2
+        x: 3103
+        y: 2823
+        width: 614
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94d5c11c40674b80800000000000000
+      internalID: -8410647899259153249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_126
+      rect:
+        serializedVersion: 2
+        x: 3726
+        y: 2823
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d6e05f2ae3c6e50800000000000000
+      internalID: 6803882006666964226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_127
+      rect:
+        serializedVersion: 2
+        x: 4345
+        y: 2823
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ff147392dc37ae0800000000000000
+      internalID: -1552671869608263865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_128
+      rect:
+        serializedVersion: 2
+        x: 4964
+        y: 2823
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4b4c4f1278c2d50800000000000000
+      internalID: 6713889724412769534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_129
+      rect:
+        serializedVersion: 2
+        x: 5583
+        y: 2823
+        width: 614
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd33b19a2be30f6b0800000000000000
+      internalID: -5264639027333876773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_130
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2353
+        width: 614
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c520227e954d31850800000000000000
+      internalID: 6346649782490104412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_131
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 2353
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3e6e208d6b0fdc0800000000000000
+      internalID: -3607182262645890051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_132
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 2353
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a726ea33d3659c660800000000000000
+      internalID: 7406545883047551610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_133
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 2353
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e6f629377e047b0800000000000000
+      internalID: -5241935482695225752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_134
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 2353
+        width: 614
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6614a84f5cdc1030800000000000000
+      internalID: 3466888114967156334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_135
+      rect:
+        serializedVersion: 2
+        x: 3103
+        y: 2353
+        width: 614
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3539f5e3c1ac0f30800000000000000
+      internalID: 4543183986858997051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_136
+      rect:
+        serializedVersion: 2
+        x: 3726
+        y: 2353
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e065a4841db35fd0800000000000000
+      internalID: -2354330284362211103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_137
+      rect:
+        serializedVersion: 2
+        x: 4345
+        y: 2353
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8638d35a1f08120800000000000000
+      internalID: 2414195092274505972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_138
+      rect:
+        serializedVersion: 2
+        x: 4964
+        y: 2353
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d218b240b4bdd5ac0800000000000000
+      internalID: -3864691789975027411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_139
+      rect:
+        serializedVersion: 2
+        x: 5583
+        y: 2353
+        width: 614
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73af108c43870ec70800000000000000
+      internalID: 8998324223575456311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_140
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1886
+        width: 614
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70c52c674b5681e0800000000000000
+      internalID: -2195967405981319041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_141
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1886
+        width: 610
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfae106f8ec42e70800000000000000
+      internalID: 9089617063128772545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_142
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 1886
+        width: 610
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c44f5b2c174189e0800000000000000
+      internalID: -1620936204564347704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_143
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 1886
+        width: 610
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3a0979d7d655370800000000000000
+      internalID: 8310669073563296762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_144
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 1886
+        width: 614
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9158b2f1b87ae8d0800000000000000
+      internalID: -2816305911290113636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_145
+      rect:
+        serializedVersion: 2
+        x: 3103
+        y: 1886
+        width: 614
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d3553e0d43e66d0800000000000000
+      internalID: -2995398630382944869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_146
+      rect:
+        serializedVersion: 2
+        x: 3726
+        y: 1886
+        width: 610
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08aed28570e859a60800000000000000
+      internalID: 7680200901745568384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_147
+      rect:
+        serializedVersion: 2
+        x: 4345
+        y: 1886
+        width: 610
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e944485ffd014080800000000000000
+      internalID: -9205060773019891223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_148
+      rect:
+        serializedVersion: 2
+        x: 4964
+        y: 1886
+        width: 610
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aefbeb402f9001c0800000000000000
+      internalID: -4539453463327932768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_149
+      rect:
+        serializedVersion: 2
+        x: 5583
+        y: 1886
+        width: 614
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a83d9f7d1081ac60800000000000000
+      internalID: 7827678491530049705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_150
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1415
+        width: 614
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9961108895f825b50800000000000000
+      internalID: 6580479620238349977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_151
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1415
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311ce8cf5f93e51a0800000000000000
+      internalID: -6818949057125367533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_152
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 1415
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444f245e7447e0300800000000000000
+      internalID: 220241283925603396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_153
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 1415
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4420e1bb9551d80800000000000000
+      internalID: -8280613679653567240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_154
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 1415
+        width: 614
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6fd2c09884594b0800000000000000
+      internalID: -5434357621900577090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_155
+      rect:
+        serializedVersion: 2
+        x: 3103
+        y: 1415
+        width: 614
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d47cc21464ee3b0800000000000000
+      internalID: -5481366450725237392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_156
+      rect:
+        serializedVersion: 2
+        x: 3726
+        y: 1415
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016e71fc26128dc90800000000000000
+      internalID: -7144924100558330352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_157
+      rect:
+        serializedVersion: 2
+        x: 4345
+        y: 1415
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8ccc3b20504d410800000000000000
+      internalID: 1500830084985833704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_158
+      rect:
+        serializedVersion: 2
+        x: 4964
+        y: 1415
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a9a4bc2cc192ec0800000000000000
+      internalID: -3591307604891362750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_159
+      rect:
+        serializedVersion: 2
+        x: 5583
+        y: 1415
+        width: 614
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023c1d535eae70810800000000000000
+      internalID: 1731610851918594848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_160
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 944
+        width: 614
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5520ff5b5e7d2e180800000000000000
+      internalID: -9087463716479368619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_161
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 944
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3274d3a18d6627db0800000000000000
+      internalID: -4795657574856964317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_162
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 944
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23399567881ccc80800000000000000
+      internalID: -8301233043346476241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_163
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 944
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef96f660393a2cb0800000000000000
+      internalID: -4888031565508599839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_164
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 944
+        width: 614
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8d9076eb3876510800000000000000
+      internalID: 1542346251193407690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_165
+      rect:
+        serializedVersion: 2
+        x: 3103
+        y: 944
+        width: 614
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ae2c59a5184b740800000000000000
+      internalID: 5166896898560420469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_166
+      rect:
+        serializedVersion: 2
+        x: 3726
+        y: 944
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa55d77e5bf897b0800000000000000
+      internalID: -5217143785152750859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_167
+      rect:
+        serializedVersion: 2
+        x: 4345
+        y: 944
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f483df5d2c1c16ca0800000000000000
+      internalID: -6025321783887054769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_168
+      rect:
+        serializedVersion: 2
+        x: 4964
+        y: 944
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a505a07298a9c2fd0800000000000000
+      internalID: -2365345790420168614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_169
+      rect:
+        serializedVersion: 2
+        x: 5583
+        y: 944
+        width: 614
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f42fece1d1981e40800000000000000
+      internalID: 5627408065208722675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_170
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 473
+        width: 614
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bda82c0238c100c0800000000000000
+      internalID: -4611184426172764748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_171
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 473
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc9bede83dd81bb0800000000000000
+      internalID: -4964975352596423431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_172
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 473
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf70a160882416360800000000000000
+      internalID: 7161078034481154043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_173
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 473
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff471d7a17e53dc60800000000000000
+      internalID: 7841715218422002943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_174
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 473
+        width: 614
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86ea09fdd8d82b90800000000000000
+      internalID: -7266319550884682097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_175
+      rect:
+        serializedVersion: 2
+        x: 3103
+        y: 473
+        width: 614
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12c9e64432a287a0800000000000000
+      internalID: -6376355776991477222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_176
+      rect:
+        serializedVersion: 2
+        x: 3726
+        y: 473
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e691b9e4ee2c670800000000000000
+      internalID: 8557664263334358557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_177
+      rect:
+        serializedVersion: 2
+        x: 4345
+        y: 473
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef950e3ebf7ffcd0800000000000000
+      internalID: -2522156811243118620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_178
+      rect:
+        serializedVersion: 2
+        x: 4964
+        y: 473
+        width: 610
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f364346852c5aaa50800000000000000
+      internalID: 6533135525690426943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_179
+      rect:
+        serializedVersion: 2
+        x: 5583
+        y: 473
+        width: 614
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d10d347615ce3fe0800000000000000
+      internalID: -1207310949858606632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_180
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 614
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8f6be71ffae1870800000000000000
+      internalID: 8655548985600571639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_181
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 3
+        width: 610
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a8d2d7d629763a0800000000000000
+      internalID: -6672203323976873329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Intro atv3_182
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 3
+        width: 610
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb5007b2acfe1380800000000000000
+      internalID: -8998477229654516805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
